@@ -3,6 +3,7 @@ title: OpenMR Benelux 2020
 subtitle: Location and Venue
 layout: page
 show_sidebar: false
+menubar: past_events
 #tabs: example_tabs
 #hero_image: assets/ext_images/Home_logo.png
 ---
@@ -78,14 +79,13 @@ img {
 <li><div class="padding" style="text-align: left;"><div style="text-align: justify">To travel by public transport in the Netherlands, you need a ticket known as an OV-Chipkaart. You can buy an <b>OV-Chipkaart</b> with a starting price of €7.50 from ticket machines at larger railway stations, from newsagents, and a large number of supermarkets in the Netherlands.</div></div></li>
 <li><div class="padding" style="text-align: left;"><div style="text-align: justify">It’s also possible to buy a slightly more expensive <b>single-use day ticket</b> from the ticket machines at NS railway stations.</div></div></li>
 </ul>
-
 <i class="fas fa-lightbulb" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777"></i> &nbsp; Checking in/out:
+
 <ul>
 <li><div class="padding" style="text-align: left;"><div style="text-align: justify">Before you get on the train, you need to check in at the station/on the platform by holding your ticket against one of the card-readers.</div></div></li>
 <li><div class="padding" style="text-align: left;"><div style="text-align: justify">Remember! You also need to check out again at one of the card-readers when you arrive at your destination. If you are travelling by bus, tram, or metro, <b>you should check in and out as you get on and off</b>.</div></div></li>
 </ul>
-
-<img src="../assets/ext_images/post_separator.png" alt="text"> 
+<img src="../../assets/ext_images/post_separator.png" alt="text"> 
 
 ## <span style="color:#004777"> Accommodation? </span>
 <p><i class="fas fa-lightbulb" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777"></i> &nbsp; <a href="https://github.com/OpenMRBenelux/openmrbenelux.github.io/blob/master/places-nijmegen.md">Here</a> you can find a list of accommodation options in Nijmegen!<br></p>
@@ -96,6 +96,6 @@ img {
 <li><div class="padding" style="text-align: left;"><div style="text-align: justify"><b>housemate</b> with whom you can split the rent!</div></div></li>
 </ul>
 
-<img src="../assets/ext_images/post_separator.png" alt="text"> 
+<img src="../../assets/ext_images/post_separator.png" alt="text"> 
 <br>
 <a href="../page-location-venue#top"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>

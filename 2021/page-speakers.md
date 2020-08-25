@@ -66,7 +66,7 @@ table tr:nth-of-type(3n) td {
 <h2 style="color:#004777"> Tuesday, 21 January 2020 </h2>
 
 <div style="overflow-x:auto;">
-  
+
 <table border="0" cellpadding="0 15px 0 15px;">
 <tr>
 <td width="500px" align="left" valign="center">
@@ -254,7 +254,7 @@ table tr:nth-of-type(3n) td {
 </table>
 </div>
 
-<img src="../assets/ext_images/post_separator.png" alt="text"> 
+<img src="../../assets/ext_images/post_separator.png" alt="text"> 
 <br>
 <a href="../page-speakers#top"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
 
@@ -437,7 +437,7 @@ GIT and GitHub are potentially very powerful tools but tend to have a steep lear
 
 </div>
 
-<img src="../assets/ext_images/post_separator.png" alt="text"> 
+<img src="../../assets/ext_images/post_separator.png" alt="text"> 
 <br>
 <a href="../page-speakers#top"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
 
@@ -734,7 +734,7 @@ His research focus is MRI sequence development at 7 Tesla, probing for neurodege
 
 </div>
 
-<img src="../assets/ext_images/post_separator.png" alt="text"> 
+<img src="../../assets/ext_images/post_separator.png" alt="text"> 
 <br>
 <a href="../page-speakers#top"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
 

@@ -1,6 +1,6 @@
 # Software Version Control with git and GitHub
 
-[Workshop on Day 2 of OpenMR Benelux 2020](https://openmrbenelux.github.io/page-program/#day2)
+[Workshop on Day 2 of OpenMR Benelux 2020](https://openmrbenelux.github.io/2020/page-program/#day2)
 
 By Rémi Gau and Sofie Van Den Bossche
 

@@ -41,18 +41,21 @@ img {
 
 <a name="top"></a>
 <p align=" justify">The preliminary program for OpenMR Benelux 2020 is shown below.</p>
-<img class="img1" style="float: right;" src="../assets/ext_images/interaction.jpg" width="560" height="560" vspace="10px" hspace="20px">
+<img class="img1" style="float: right;" src="../../assets/ext_images/interaction.jpg" width="560" height="560" vspace="10px" hspace="20px">
+
 <p align=" justify">The event will span three days during which participants can take part in the following main activities:
 <UL>
-<LI><b>Tuesday <a href="../page-program#day1">21</a> January</b> - <b>Talks</b>: the opening day of OpenMR Benelux will be filled with talks and discussions on a variety of topics applicable to open science in MRI, similar to OpenMR Benelux 2019.</LI>
-<LI><b>Wednesday and Thursday <a href="../page-program#day2">22</a>+<a href="../page-program#day3">23</a> January</b> - <b>HackTrack</b>: this year, we will also host a hackathon! Participants are welcome to suggest their own projects or join an existing project. Head over to our <a href="https://github.com/OpenMRBenelux/openmrb2020-hackathon">hackathon repository</a> to browse projects or to suggest your own.</LI>
-<LI><b>Wednesday and Thursday <a href="../page-program#day2">22</a>+<a href="../page-program#day3">23</a> January</b> - <b>TrainTrack</b>: in parallel to the HackTrack, we have worked out a full program for those who want to get more hands-on experience with tools for conducting open research in MRI, including version control with git, Python, Jupyter Notebooks, Docker, and a treasure-trove of toolbox demos.</LI>
+<LI><b>Tuesday <a href="../2020/page-program#day1">21</a> January</b> - <b>Talks</b>: the opening day of OpenMR Benelux will be filled with talks and discussions on a variety of topics applicable to open science in MRI, similar to OpenMR Benelux 2019.</LI>
+<LI><b>Wednesday and Thursday <a href="../2020/page-program#day2">22</a>+<a href="../2020/page-program#day3">23</a> January</b> - <b>HackTrack</b>: this year, we will also host a hackathon! Participants are welcome to suggest their own projects or join an existing project. Head over to our <a href="https://github.com/OpenMRBenelux/openmrb2020-hackathon">hackathon repository</a> to browse projects or to suggest your own.</LI>
+<LI><b>Wednesday and Thursday <a href="../2020/page-program#day2">22</a>+<a href="../2020/page-program#day3">23</a> January</b> - <b>TrainTrack</b>: in parallel to the HackTrack, we have worked out a full program for those who want to get more hands-on experience with tools for conducting open research in MRI, including version control with git, Python, Jupyter Notebooks, Docker, and a treasure-trove of toolbox demos.</LI>
 </UL>
 </p>
+
 
 <p>&nbsp;</p>
 
 <a name="day1"></a>
+
 <div style="overflow-x:auto;">
 <table width="100%" cellspacing="0" cellpadding="2" class="fixed" class="fixed_header">
     <col width="150px" />
@@ -99,9 +102,10 @@ img {
 </td>
 <td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
 <p><strong>Introduction and Welcome</strong></p>
-<a href="../page-team/"><p>Stephan Heunis & Organizing Committee</p></a> 
+<a href="../2020/page-team/"><p>Stephan Heunis & Organizing Committee</p></a> 
 </td>
 <td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
+
 <p>&nbsp;</p>
 </td>
 <td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
@@ -131,9 +135,10 @@ img {
 </td>
    <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="66%">
 <p><strong>Diving Into Metascience – Doing Research on Research</strong></p> 
-<a href="../page-speakers/#marjan"><p>Marjan Bakker</p></a>   
+<a href="../2020/page-speakers/#marjan"><p>Marjan Bakker</p></a>   
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+
 <p><strong>Talk</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
@@ -177,9 +182,10 @@ img {
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="66%">
 <p><strong>Analytical Flexibility and Questionable Research Practices in MRI</strong></p> 
-<a href="../page-speakers/#cassandra"><p>Cassandra Gould van Praag</p></a>  
+<a href="../2020/page-speakers/#cassandra"><p>Cassandra Gould van Praag</p></a>  
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+
 <p><strong>Talk</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
@@ -208,9 +214,10 @@ img {
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="66%">
 <p><strong>How can Open Science Contribute to (Clinical) Research in Radiology?</strong></p> 
-<a href="../page-speakers/#pim"><p>Pim Pullens</p></a>  
+<a href="../2020/page-speakers/#pim"><p>Pim Pullens</p></a>  
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+
 <p><strong>Talk</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
@@ -254,9 +261,10 @@ img {
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="66%">
 <p><strong>Open Science in the Context of Companies, Intellectual Property, and Collaborative Research</strong></p> 
-<a href="../page-speakers/#dirk"><p>Dirk Smeets</p></a> 
+<a href="../2020/page-speakers/#dirk"><p>Dirk Smeets</p></a> 
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+
 <p><strong>Talk</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
@@ -285,9 +293,10 @@ img {
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="66%">
 <p><strong>The Open Source Imaging Initiative</strong></p> 
-<a href="../page-speakers/#joao"><p>João Periquito</p></a>   
+<a href="../2020/page-speakers/#joao"><p>João Periquito</p></a>   
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+
 <p><strong>Talk</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
@@ -331,9 +340,10 @@ img {
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="66%">
 <p><strong>Current and Future Scenarios for Open Scientific Publishing and Reviewing</strong></p>
-<a href="../page-speakers/#daniele"><p>Daniele Marinazzo</p></a>  
+<a href="../2020/page-speakers/#daniele"><p>Daniele Marinazzo</p></a>  
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+
 <p><strong>Interactive Talk</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
@@ -362,9 +372,10 @@ img {
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="66%">
 <p><strong>The Turing Way: Reproducible, Inclusive, Collaborative Data Science</strong></p>
-<a href="../page-speakers/#kirstie"><p>Kirstie Whitaker</p></a>   
+<a href="../2020/page-speakers/#kirstie"><p>Kirstie Whitaker</p></a>   
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+
 <p><strong>Talk</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
@@ -406,7 +417,7 @@ img {
 </table>
 </div>
 
-<img src="../assets/ext_images/post_separator.png" alt="text">
+<img src="../../assets/ext_images/post_separator.png" alt="text">
 
 <!--<p><br><br><strong>Wednesday and Thursday, 22-23 January 2020 </strong>: Parallel sessions for <strong>hackathons</strong> and <strong>training workshops</strong> will take place.</p>-->
 
@@ -466,9 +477,10 @@ img {
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
 <p><strong>Reproducibility Decoded: Case Studies from Data-Intensive Sciences</strong></p> 
-<a href="../page-speakers/#fatma"><p>Fatma Deniz</p></a>   
+<a href="../2020/page-speakers/#fatma"><p>Fatma Deniz</p></a>   
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+
 <p><strong>Workshop</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
@@ -503,7 +515,8 @@ img {
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
 <p><strong>Software Version Control with git and GitHub</strong></p> 
-<p><a href="../page-speakers/#remi">Remi Gau</a> & <a href="../page-speakers/#sofie">Sofie Van Den Bossche</a></p>
+<p><a href="../2020/page-speakers/#remi">Remi Gau</a> & <a href="../2020/page-speakers/#sofie">Sofie Van Den Bossche</a></p>
+
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>Workshop</strong></p>
@@ -540,9 +553,10 @@ img {
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
 <p><strong>The Basics of Python and Jupyter Notebooks for Medical Image Analysis</strong></p> 
-<a href="../page-speakers/#serena"><p>Serena Bonaretti</p></a>
+<a href="../2020/page-speakers/#serena"><p>Serena Bonaretti</p></a>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+
 <p><strong>Workshop</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
@@ -577,7 +591,8 @@ img {
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
 <p><strong>Introduction to Docker and Binder</strong></p>  
-<p><a href="../page-speakers/#lukas">Lukas Snoek</a> & <a href="../page-speakers/#agah">Agah Karakuzu</a></p>
+<p><a href="../2020/page-speakers/#lukas">Lukas Snoek</a> & <a href="../2020/page-speakers/#agah">Agah Karakuzu</a></p>
+
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>Workshop</strong></p>
@@ -591,7 +606,7 @@ img {
 </table>
 </div>
 
-<img src="../assets/ext_images/post_separator.png" alt="text">
+<img src="../../assets/ext_images/post_separator.png" alt="text">
 
 <a name="day3"></a>
 <div style="overflow-x:auto;">
@@ -650,9 +665,10 @@ img {
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
 <p><strong>Fostering Open and Inclusive Communities</strong></p> 
-<a href="../page-speakers/#malvika"><p>Malvika Sharan</p></a> 
+<a href="../2020/page-speakers/#malvika"><p>Malvika Sharan</p></a> 
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+
 <p><strong>Talk</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
@@ -669,9 +685,10 @@ img {
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
 <p><strong>Where to Go Next? The Landscape of Post-PhD Career Tracks</strong></p>  
-<a href="../page-speakers/#natalia"><p>Natalia Bielczyk</p></a>  
+<a href="../2020/page-speakers/#natalia"><p>Natalia Bielczyk</p></a>  
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+
 <p><strong>Talk</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
@@ -706,12 +723,14 @@ img {
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
 <p><strong>Probing Brain Organization and Function with Neuroimaging Markers of Connectivity (HBP)</strong></p>
-<a href="../page-speakers/#sarah"><p>Sarah Genon</p></a> (last-minute replacement by Anna Plachti)
+<a href="../2020/page-speakers/#sarah"><p>Sarah Genon</p></a> (last-minute replacement by Anna Plachti)
 <br>
+
 <p><strong>The HBP Human Brain Atlas</strong></p>
-<a href="../page-speakers/#lyuba"><p>Lyuba Zehl</p></a>  
+<a href="../2020/page-speakers/#lyuba"><p>Lyuba Zehl</p></a>  
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+
 <p><strong>Workshop</strong></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -731,9 +750,10 @@ img {
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
 <p><strong>MR Image Registration with Elastix and Simple Elastix</strong></p> 
-<a href="../page-speakers/#stephanklein"><p>Stefan Klein</p></a>
+<a href="../2020/page-speakers/#stephanklein"><p>Stefan Klein</p></a>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+
 <p><strong>TBA</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
@@ -768,7 +788,8 @@ img {
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
 <p><strong>Converting Neuroimaging Data to BIDS</strong></p> 
-<p><a href="../page-speakers/#marcel">Marcel Zwiers</a> & <a href="../page-speakers/#robert">Robert Oostenveld</a></p>
+<p><a href="../2020/page-speakers/#marcel">Marcel Zwiers</a> & <a href="../2020/page-speakers/#robert">Robert Oostenveld</a></p>
+
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>TBA</strong></p>
@@ -787,9 +808,10 @@ img {
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
   <p><strong>Web Technologies in Neuroimaging</strong></p>
-<a href="../page-speakers/#tim"><p>Tim van Mourik</p></a> 
+<a href="../2020/page-speakers/#tim"><p>Tim van Mourik</p></a> 
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+
 <p><strong>Workshop</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
@@ -824,9 +846,10 @@ img {
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
 <p><strong>Numerical Simulation of MR Physics</strong></p>
-<a href="../page-speakers/#tony"><p>Tony Stöcker</p></a>  
+<a href="../2020/page-speakers/#tony"><p>Tony Stöcker</p></a>  
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+
 <p><strong>Talk - Demo</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
@@ -843,12 +866,14 @@ img {
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
 <p><strong>Find, Use and Share Scientific Data with the EBRAINS Knowledge Graph (HBP)</strong></p>
-<a href="../page-speakers/#oliver"><p>Oliver Schmid</p></a> 
+<a href="../2020/page-speakers/#oliver"><p>Oliver Schmid</p></a> 
 <br>
+
 <p><strong>Sharing GDPR Compliant Neuroimaging Research Data</strong></p>
-<a href="../page-speakers/#stephan"><p>Stephan Heunis</p></a>  
+<a href="../2020/page-speakers/#stephan"><p>Stephan Heunis</p></a>  
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+
 <p><strong>Talk - Demo</strong></p>
 <p>&nbsp;<br>&nbsp;</p>
 <p>&nbsp;</p>
@@ -881,7 +906,7 @@ img {
 </table>
 </div>
 
-<img src="../assets/ext_images/post_separator.png" alt="text">
+<img src="../../assets/ext_images/post_separator.png" alt="text">
 <br>
 <a href="../page-program#top"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
 

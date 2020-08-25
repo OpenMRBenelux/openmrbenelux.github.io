@@ -3,6 +3,7 @@ title: OpenMR Benelux 2020
 subtitle: Sponsors
 layout: page
 show_sidebar: false
+menubar: past_events
 #tabs: example_tabs
 #hero_image: assets/ext_images/Home_logo.png
 ---
@@ -25,8 +26,8 @@ img {
 
 &nbsp;
 
-<img class="img1" style="float: left;" src="../assets/ext_images/Sponsor_page.png" width="1230px" height="190px"> 
+<img class="img1" style="float: left;" src="../../assets/ext_images/Sponsor_page.png" width="1230px" height="190px"> 
 
-<img src="../assets/ext_images/post_separator.png" alt="text"> 
+<img src="../../assets/ext_images/post_separator.png" alt="text"> 
 <br>
 <a href="../page-sponsors#top"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
