@@ -1,5 +1,5 @@
 ---
-title: OpenMR Benelux 2020
+title: OpenMR Benelux 2021
 subtitle: Sponsors
 layout: page
 show_sidebar: false
@@ -8,7 +8,7 @@ show_sidebar: false
 ---
 
 <a name="top"></a>
-## <span style="color:#004777"> A special thanks to our sponsors without whom this event wouldn't be possible! </span>
+## <span style="color:#004777"> We are currently looking for new funders! </span>
 
 <style>
 img {
@@ -25,7 +25,9 @@ img {
 
 &nbsp;
 
-<img class="img1" style="float: left;" src="../../assets/ext_images/Sponsor_page.png" width="1230px" height="190px"> 
+ Are you interested in funding our event? Great! Head over to our <a href="../../page-contact">Contact page</a> and contact us!
+
+You can view last year's sponsors on <a href="../../2020/page-sponsors">this page</a> .
 
 <img src="../../assets/ext_images/post_separator.png" alt="text"> 
 <br>

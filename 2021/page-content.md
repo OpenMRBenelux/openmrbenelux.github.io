@@ -1,8 +1,8 @@
 ---
-title: OpenMR Benelux 2020
+title: OpenMR Benelux 2021
 subtitle: Content
-layout: content
+layout: page
 show_sidebar: false
 ---
 
-Here you can find the materials (description, slides, video) for all the talks and workshops that occured during this great event:
+After OpenMR Benelux 2021, you will find materials that will be presented during conference on this page!
