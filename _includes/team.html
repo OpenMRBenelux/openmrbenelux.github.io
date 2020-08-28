@@ -1,0 +1,117 @@
+<html>
+  <body>
+    <section id="team" class="team">
+      <div class="container">
+        <a name="top"></a>
+
+        <h1 class="title">Organizing committee</h1>
+
+        <div class="tile is-ancestor">
+          <div class="tile is-vertical is-6 is-parent">
+            {% for teamMember in site.data.team %}
+
+            <div class="tile is-child box">
+              <div class="tile is-child">
+                <!-- <a name=teamMember.linkName></a> -->
+                {% include speaker-card.html data=teamMember%}
+              </div>
+
+              <div class="tile is-child">
+                <button class="accordion">
+                  <i class="fas fa-id-card bio-button"></i>
+                  &nbsp;&nbsp;Bio
+                </button>
+
+                <div class="panel">
+                  <p style="padding-top: 10px;">
+                    {{ teamMember.bio }}
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <!-- Switch column -->
+            <!-- TODO: The 3 here is hard coded and should improved -->
+            {% if forloop.index == 3 %}
+          </div>
+          <div class="tile is-vertical is-6 is-parent">
+            {% endif %} {% endfor %}
+          </div>
+        </div>
+
+        <img src="{{ site.baseurl }}/assets/ext_images/post_separator.png" alt="horizontal separator" />
+        
+      </div>
+    </section>
+
+    <section id="team" class="team">
+      <div class="container">
+        <h1 class="title">Advisors</h1>
+
+        <div class="tile is-ancestor">
+          <div class="tile is-vertical is-10 is-parent">
+            {% for advisor in site.data.advisors %}
+
+            <div class="tile is-child box">
+              <div class="tile is-child">
+                <!-- <a name=teamMember.linkName></a> -->
+                {% include speaker-card.html data=advisor%}
+              </div>
+
+              <div class="tile is-child">
+                <button class="accordion">
+                  <i class="fas fa-id-card bio-button"></i>
+                  &nbsp;&nbsp;Bio
+                </button>
+
+                <div class="panel">
+                  <p style="padding-top: 10px;">
+                    {{ advisor.bio }}
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            {% endfor %}
+          </div>
+        </div>
+
+        <img src="{{ site.baseurl }}/assets/ext_images/post_separator.png" alt="horizontal separator" />
+
+        <a href="../page-team#top"
+          ><i
+            class="fas fa-arrow-alt-circle-up"
+            style="
+              position: relative;
+              top: -3px;
+              text-indent: 0px;
+              vertical-align: middle;
+              color: #004777;
+            "
+          ></i
+        ></a>
+      </div>
+    </section>
+
+    <script>
+      var acc = document.getElementsByClassName("accordion");
+      var i;
+
+      for (i = 0; i < acc.length; i++) {
+        acc[i].addEventListener("click", function () {
+          /* Toggle between adding and removing the "active" class,
+        to highlight the button that controls the panel */
+          this.classList.toggle("active");
+
+          /* Toggle between hiding and showing the active panel */
+          var panel = this.nextElementSibling;
+          if (panel.style.display === "block") {
+            panel.style.display = "none";
+          } else {
+            panel.style.display = "block";
+          }
+        });
+      }
+    </script>
+  </body>
+</html>

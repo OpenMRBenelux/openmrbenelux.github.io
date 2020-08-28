@@ -10,17 +10,6 @@
     link: /2021/page-content/
   - name: Sponsors
     link: /2021/page-sponsors/
-- name: Resources
-  link: /page-resources-hackathon/
-  dropdown:
-  - name: What is a hackathon?
-    link: /page-resources-hackathon/
-- name: Code of Conduct
-  link: /page-code-of-conduct/
-- name: Meet the team
-  link: /2021/page-team/
-- name: Contact
-  link: /page-contact/
 - name: Past events
   link: /page-past-events/
   dropdown:
@@ -28,3 +17,9 @@
     link: /2020/page-openmrb-2020/
   - name: OpenMR Benelux 2019
     link: /2019/page-openmrb-2019/
+- name: Code of Conduct
+  link: /page-code-of-conduct/
+- name: Meet the team
+  link: /2021/page-team/
+- name: Contact
+  link: /page-contact/

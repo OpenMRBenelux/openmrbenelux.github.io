@@ -6,22 +6,35 @@ This is a clean and simple Jekyll Theme built with the [Bulma](https://bulma.io/
 
 ## Contents
 
-* [Installation](#installation)
-* [Usage](#usage)
-    * [Pages](#pages)
-    * [Posts](#posts)
-    * [Navigation](#navigation)
-    * [Colours and Styles](#colours-and-styles)
-    * [Sidebar Visibility](#sidebar-visibility)
-    * [Menubar](#menubar)
-    * [Tabs](#tabs)
-    * [Google Analytics](#google-analytics)
-    * [Footer](#footer)
-    * [Products](#products)
-    * [Scripts](#scripts)
-* [Contributing](#contributing)
-* [Development](#development)
-* [Licence](#licence)
+- [bulma-clean-theme](#bulma-clean-theme)
+  - [Contents](#contents)
+  - [Installation](#installation)
+  - [Usage](#usage)
+    - [OpenMR-benelux specific](#openmr-benelux-specific)
+    - [Pages](#pages)
+    - [Posts](#posts)
+    - [Navigation](#navigation)
+    - [Colours and Styles](#colours-and-styles)
+    - [Sidebar Visibility](#sidebar-visibility)
+    - [Menubar](#menubar)
+      - [Creating a menubar data file](#creating-a-menubar-data-file)
+      - [Multiple menus](#multiple-menus)
+    - [Tabs](#tabs)
+      - [Creating a tabs data file](#creating-a-tabs-data-file)
+      - [Settings](#settings)
+      - [Active Tab Highlighting](#active-tab-highlighting)
+      - [Icons](#icons)
+    - [Google Analytics](#google-analytics)
+    - [Footer](#footer)
+      - [Hiding the footer](#hiding-the-footer)
+    - [Products](#products)
+      - [Product pages](#product-pages)
+      - [Product Reviews](#product-reviews)
+      - [Product Category Page](#product-category-page)
+    - [Scripts](#scripts)
+  - [Contributing](#contributing)
+  - [Development](#development)
+  - [License](#license)
 
 
 ## Installation
@@ -49,6 +62,14 @@ Or install it yourself as:
     $ gem install bulma-clean-theme
 
 ## Usage
+
+### OpenMR-benelux specific
+
+Adding team members, advisors or speakers can be done by adding them to the relevant `yml` files in the `_data` folder.
+
+The `page-team` and `page-speakers` pages have been set up to read the content directly from there and generate the HTML code automatically.
+
+The CSS for those pages is being transferred or kept in the relevant files in the `_sass` folder.
 
 ### Pages
 

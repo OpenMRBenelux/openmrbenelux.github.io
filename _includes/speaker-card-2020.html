@@ -1,0 +1,53 @@
+<aside class="speaker-card {% if include.column %} {{ include.column }}{% endif %}">
+   <header>
+   <style>
+   .responsive {
+      display: block;
+      max-width: 200px;
+      max-height: 200px;
+      width: 100%;
+      height: auto;
+   }
+   table.fixed { table-layout: fixed; }
+   table.fixed td { overflow: hidden; }
+      
+   </style>
+   <table width="100%" border="0" cellpadding="5px 5px 5px 5px;" style="background-color:#dbe9f4" class="fixed">
+   <tr>
+   <col width = "220px" /> <!-- 40%: 220/550-->
+   <col width = "330px" /> <!-- 60%: 330/550-->
+      
+   <td align="center" valign="top" width="40%" height="260px" style="padding-top: 15px;">
+
+   <h3>{{ include.title }}</h3>
+
+   {% if include.homepage %} <a href="{{ include.homepage }}"> 
+   <img src="/img/speakers/{{ include.avatarurl }}" style='border: 2px solid #004777; width: 200px; height: 200px; border-radius: 50%; object-fit: cover;' class="responsive"></a> 
+   {% else %}
+   <img src="/img/speakers/{{ include.avatarurl }}" style='border: 2px solid #004777; width: 200px; height: 200px; border-radius: 50%; object-fit: cover;' class="responsive">
+   {% endif %}
+   </td>
+
+   <td align="left" valign="top" width="60%" height="260px" style="padding-top: 40px; padding-left: 20px">
+   <h4 style="font-family: monospace;">{{ include.profilename }}
+
+   {% if include.twitter %} <a href="{{ include.twitter }}">
+   <i class="fab fa-twitter" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:#38A1F3"></i> </a> {% endif %}
+
+   {% if include.git %} <a href="{{ include.git }}">
+   <i class="fab fa-github" style="position: relative; top: -5px; text-indent: 0px;  vertical-align: middle; color:#333"></i></a> {% endif %}
+
+   {% if include.researchgate %} <a href="{{ include.researchgate }}">
+   <i class="fab fa-researchgate" style="position: relative; top: -5px; text-indent: 0px;  vertical-align: middle; color:#00D0AF"></i></a>{% endif %}
+
+   </h4>
+
+   <h6 style="font-family: Courier New;">{{ include.affiliation }}</h6>
+   {% if include.city %} <h6 style="font-family: Courier New;"><i class="fas fa-map-marker-alt" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:red"></i> {{ include.city }}</h6> {% endif %}
+   </td>
+      
+   </tr>
+   </table>
+
+</header>
+</aside>

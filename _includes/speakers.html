@@ -1,0 +1,101 @@
+<html>
+  <body>
+    <section id="speakers" class="speakers">
+      <div class="container">
+        <a name="top"></a>
+
+        {% for day in site.data.speakers %}
+
+        <h2 style="color: #004777;">{{ day.date }}</h2>
+
+        <div class="tile is-ancestor">
+          <div class="tile is-vertical is-6 is-parent">
+            {% for speaker in day.speakers %}
+
+            <div class="tile is-child box">
+              <div class="tile is-child">
+                <!-- <a name=teamMember.linkName></a> -->
+                {% include speaker-card.html data=speaker%}
+              </div>
+
+              <div class="tile is-child">
+                <button class="accordion">
+                  <i class="fas fa-id-card bio-button"></i>
+                  &nbsp;&nbsp;Bio
+                </button>
+
+                <div class="panel">
+                  <p>
+                    {{ speaker.bio }}
+                  </p>
+                </div>
+              </div>
+
+              <div class="tile is-child">
+                <button class="accordion">
+                  <i class="fas fa-id-card bio-button"></i>
+                  &nbsp;&nbsp;Abstract
+                </button>
+
+                <div class="panel">
+                  <h6>{{ speaker.abstract.title }}</h6>
+                  <p>
+                    {{ speaker.abstract.content }}
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <!-- Switch column -->
+            <!-- TODO: The 3 here is hard coded and should improved -->
+            {% if forloop.index == 4 %}
+            
+          </div>
+          <div class="tile is-vertical is-6 is-parent">
+            {% endif %} {% endfor %}
+          </div>
+        </div>
+
+        <img src="{{ site.baseurl }}/assets/ext_images/post_separator.png" alt="text" />
+
+        {% endfor %}
+
+        
+
+        <a href="../page-speakers#top"
+          ><i
+            class="fas fa-arrow-alt-circle-up"
+            style="
+              position: relative;
+              top: -3px;
+              text-indent: 0px;
+              vertical-align: middle;
+              color: #004777;
+            "
+          ></i
+        ></a>
+      </div>
+    </section>
+
+    <script>
+      var acc = document.getElementsByClassName("accordion");
+      var i;
+
+      for (i = 0; i < acc.length; i++) {
+        acc[i].addEventListener("click", function () {
+          /* Toggle between adding and removing the "active" class,
+    to highlight the button that controls the panel */
+          this.classList.toggle("active");
+
+          /* Toggle between hiding and showing the active panel */
+          var panel = this.nextElementSibling;
+          if (panel.style.display === "block") {
+            panel.style.display = "none";
+          } else {
+            panel.style.display = "block";
+          }
+        });
+      }
+    </script>
+  </body>
+</html>

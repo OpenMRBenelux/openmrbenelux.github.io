@@ -72,7 +72,7 @@ table tr:nth-of-type(3n) td {
 <tr>
 <td width="500px" align="left" valign="center">
 <a name="marjan"></a>
-{% include speaker-card.html
+{% include speaker-card-2020.html
   avatarurl="marjan.png"
   profilename="Marjan Bakker"
   affiliation="Tilburg School of Social and Behavioral Sciences <br>Department of Methodology and Statistics <br>Tilburg University"
@@ -81,7 +81,7 @@ table tr:nth-of-type(3n) td {
 </td>
 <td width="500px" align="left" valign="center">
 <a name="cassandra"></a>
-{% include speaker-card.html
+{% include speaker-card-2020.html
   avatarurl="cass.png"
   profilename="Cassandra Gould van Praag"
   affiliation="Psychopharmacology and Emotion Research Laboratory <br>Department of Psychiatry <br>University of Oxford"
@@ -124,7 +124,7 @@ table tr:nth-of-type(3n) td {
 <tr>
 <td width="500px" align="left" valign="center">
 <a name="pim"></a>
-{% include speaker-card.html
+{% include speaker-card-2020.html
   avatarurl="pim.png"
   profilename="Pim Pullens"
   affiliation="Department of Radiology (Ghent University - Ghent University Hospital) and Ghent Institute for Functional and Metabolic Imaging (GIfMI)"
@@ -134,7 +134,7 @@ table tr:nth-of-type(3n) td {
 </td>
 <td width="500px" align="left" valign="center">
 <a name="dirk"></a>
-{% include speaker-card.html
+{% include speaker-card-2020.html
   avatarurl="DirkSmeets.jpg"
   profilename="Dirk Smeets"
   affiliation="icometrix"
@@ -174,7 +174,7 @@ table tr:nth-of-type(3n) td {
 <tr>
 <td width="500px" align="left" valign="center">
 <a name="joao"></a>
-{% include speaker-card.html
+{% include speaker-card-2020.html
   avatarurl="Joao.jpg"
   profilename="João Periquito" 
   affiliation="Berlin Ultrahigh Field Facility (B.U.F.F.)"
@@ -182,7 +182,7 @@ table tr:nth-of-type(3n) td {
 </td>
 <td width="500px" align="left" valign="center">
 <a name="daniele"></a>
-{% include speaker-card.html
+{% include speaker-card-2020.html
   avatarurl="daniele.png"
   profilename="Daniele Marinazzo"
   affiliation="Department of Data Analysis <br>Faculty of Psychology and Educational Sciences <br>Ghent University"
@@ -225,7 +225,7 @@ table tr:nth-of-type(3n) td {
 <tr>
 <td width="500px" align="left" valign="center">
 <a name="kirstie"></a>
-{% include speaker-card.html
+{% include speaker-card-2020.html
   avatarurl="kirstie_2.png"
   profilename="Kirstie Whitaker"
   affiliation="The Alan Turing Institute"
@@ -267,7 +267,7 @@ table tr:nth-of-type(3n) td {
 <tr>
 <td width="500px" align="left" valign="center">
 <a name="fatma"></a>
-{% include speaker-card.html
+{% include speaker-card-2020.html
   avatarurl="FatmaDeniz.jpg"
   profilename="Fatma Deniz" 
   affiliation="Postdoctoral Fellow, University of California, Berkeley; Visiting Scientist, Technical University Berlin, Germany"
@@ -275,7 +275,7 @@ table tr:nth-of-type(3n) td {
 </td>
 <td width="500px" align="left" valign="center">
 <a name="remi"></a>
-{% include speaker-card.html
+{% include speaker-card-2020.html
   avatarurl="remi.png"
   profilename="Remi Gau"
   affiliation="Université catholique de Louvain"
@@ -325,7 +325,7 @@ GIT and GitHub are potentially very powerful tools but tend to have a steep lear
 <tr>
 <td width="500px" align="left" valign="center">
 <a name="sofie"></a>
-{% include speaker-card.html
+{% include speaker-card-2020.html
   avatarurl="sofie.png"
   profilename="Sofie Van Den Bossche"
   affiliation="Department of Data Analysis <br> Faculty of Psychology and Educational Sciences <br> Ghent University"
@@ -336,7 +336,7 @@ GIT and GitHub are potentially very powerful tools but tend to have a steep lear
 </td>
   <td width="500px" align="left" valign="center">
 <a name="serena"></a>
-{% include speaker-card.html
+{% include speaker-card-2020.html
   avatarurl="serena.png"
   profilename="Serena Bonaretti"
   affiliation="Transparent MSK Research"
@@ -384,7 +384,7 @@ GIT and GitHub are potentially very powerful tools but tend to have a steep lear
 <tr>
 <td width="500px" align="left" valign="center">
 <a name="lukas"></a>
-{% include speaker-card.html
+{% include speaker-card-2020.html
   avatarurl="Lukas_Snoek.png"
   profilename="Lukas Snoek"
   affiliation="Department of psychology <br> University of Amsterdam"
@@ -395,7 +395,7 @@ GIT and GitHub are potentially very powerful tools but tend to have a steep lear
 </td>
 <td width="500px" align="left" valign="center">
 <a name="agah"></a>
-{% include speaker-card.html
+{% include speaker-card-2020.html
   avatarurl="karakuzu.jpeg"
   profilename="Agah Karakuzu" 
   affiliation="NeuroPoly Lab Ecole Polytechnique de Montréal"
@@ -450,7 +450,7 @@ GIT and GitHub are potentially very powerful tools but tend to have a steep lear
 <tr>
 <td width="500px" align="left" valign="center">
 <a name="malvika"></a>
-{% include speaker-card.html
+{% include speaker-card-2020.html
   avatarurl="Malvika.png"
   affiliation="European Molecular Biology Laboratory (EMBL) Heidelberg"
   city="Heidelberg, Germany"
@@ -458,7 +458,7 @@ GIT and GitHub are potentially very powerful tools but tend to have a steep lear
 </td>
 <td width="500px" align="left" valign="center">
 <a name="natalia"></a>
-{% include speaker-card.html
+{% include speaker-card-2020.html
   avatarurl="natalia.png"
   profilename="Natalia Bielczyk"
   affiliation="Founder, Director and Chairperson Stichting Solaris Onderzoek en Ontwikkeling <br> <br> eLife Associate <br> <br> Career Development and Mentoring Manager Organization for Human Brain Mapping"
@@ -499,7 +499,7 @@ GIT and GitHub are potentially very powerful tools but tend to have a steep lear
 <tr>
 <td width="500px" align="left" valign="center">
 <a name="sarah"></a>
-{% include speaker-card.html
+{% include speaker-card-2020.html
   avatarurl="sarah.png"
   profilename="Sarah Genon"
   affiliation="Cognitive Neuroinformatics, Institute of Neuroscience and Medicine,
@@ -510,7 +510,7 @@ Brain & Behaviour"
 </td>
 <td width="500px" align="left" valign="center">
 <a name="lyuba"></a>
-{% include speaker-card.html
+{% include speaker-card-2020.html
   avatarurl="zehl.png"
   profilename="Lyuba Zehl"
   affiliation="Jülich Research Centre, Institute of Neuroscience and Medicine (INM-1), Jülich, Germany"
@@ -552,7 +552,7 @@ Brain & Behaviour"
 <tr>
 <td width="500px" align="left" valign="center">
 <a name="stephanklein"></a>
-{% include speaker-card.html
+{% include speaker-card-2020.html
   avatarurl="stefan.jpg"
   profilename="Stefan Klein" 
   affiliation="Biomedical Imaging Group Rotterdam - Eramus Medical Center"
@@ -561,7 +561,7 @@ Brain & Behaviour"
 </td>
 <td width="500px" align="left" valign="center">
 <a name="marcel"></a>
-{% include speaker-card.html
+{% include speaker-card-2020.html
   avatarurl="Marcel.png"
   affiliation="Donders Institute for Brain, Cognition and Behaviour"
   city="Nijmegen, The Netherlands"
@@ -600,7 +600,7 @@ Brain & Behaviour"
 <tr>
 <td width="500px" align="left" valign="center">
 <a name="robert"></a>
-{% include speaker-card.html
+{% include speaker-card-2020.html
   avatarurl="Robert.png"
   affiliation="Donders Institute for Brain, Cognition and Behaviour"
   city="Nijmegen, The Netherlands"
@@ -609,7 +609,7 @@ Brain & Behaviour"
 </td>
 <td width="500px" align="left" valign="center">
 <a name="tim"></a>
-{% include speaker-card.html
+{% include speaker-card-2020.html
   avatarurl="tim.png"
   profilename="Tim van Mourik"
   affiliation="Donders Institute for Brain, Cognition and Behaviour"
@@ -652,7 +652,7 @@ Brain & Behaviour"
 <tr>
 <td width="500px" align="left" valign="center">
 <a name="tony"></a>
-{% include speaker-card.html
+{% include speaker-card-2020.html
   avatarurl="tony.png"
   profilename="Tony Stöcker" 
   git=" https://github.com/JEMRIS/jemris"
@@ -663,7 +663,7 @@ Brain & Behaviour"
 </td>
 <td width="500px" align="left" valign="center">
 <a name="oliver"></a>
-{% include speaker-card.html
+{% include speaker-card-2020.html
   avatarurl="oli.jpg"
   profilename="Oliver Schmid"
   affiliation="EPFL (École politechnique fédérale de Lausanne), Switzerland"
@@ -703,7 +703,7 @@ His research focus is MRI sequence development at 7 Tesla, probing for neurodege
 <tr>
 <td width="500px" align="left" valign="center">
 <a name="stephan"></a>
-{% include speaker-card.html
+{% include speaker-card-2020.html
   avatarurl="stephan.png"
   profilename="Stephan Heunis"
   affiliation="Eindhoven University of Technology"

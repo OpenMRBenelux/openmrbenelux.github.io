@@ -5,6 +5,8 @@
       items:
       - name: Program
         link: /2020/page-program/
+      - name: What is a hackathon?
+        link: /2020/page-resources-hackathon/
       - name: Speakers
         link: /2020/page-speakers/
       - name: Content
@@ -13,9 +15,9 @@
         link: /2020/page-location-venue/
       - name: Registration
         link: /2020/page-registration/
-      - name: Sponsors
-        link: /2020/page-sponsors/
       - name: Team 2020
         link: /2020/page-team/
+      - name: Sponsors
+        link: /2020/page-sponsors/
     - name: OpenMR Benelux 2019
       link: /2019/page-openmrb-2019

@@ -65,7 +65,7 @@ img {
 <tr>
 <td width="500px" align="left" valign="center">
 <a name="stephan"></a>
-{% include speaker-card.html
+{% include speaker-card-2020.html
   avatarurl="stephan.png"
   profilename="Stephan Heunis"
   affiliation="Eindhoven University of Technology"
@@ -77,7 +77,7 @@ img {
 </td>
 <td width="500px" align="left" valign="center">
 <a name="emanoel"></a>
-{% include speaker-card.html
+{% include speaker-card-2020.html
   avatarurl="emanoel.jpg"
   profilename="Emanoel Sabidussi"
   affiliation="University Medical Center Rotterdam"
@@ -104,7 +104,7 @@ img {
 <tr>
 <td width="500px" align="left" valign="center">
 <a name="vincenzo"></a>
-{% include speaker-card.html
+{% include speaker-card-2020.html
   avatarurl="vincenzo.jpg"
   profilename="Vincenzo Anania"
   affiliation="icometrix, Leuven<br> imec-Visionlab, University of Antwerp, Antwerp"
@@ -113,7 +113,7 @@ img {
 </td>
 <td width="500px" align="left" valign="center">
 <a name="hannes"></a>
-{% include speaker-card.html
+{% include speaker-card-2020.html
   avatarurl="hannes.png"
   profilename="Hannes Almgren"
   affiliation="Department of Data Analysis <br> Faculty of Psychology and Educational Sciences <br> Ghent University"
@@ -140,7 +140,7 @@ img {
 <tr>
 <td width="500px" align="left" valign="center">
 <a name="sofie"></a>
-{% include speaker-card.html
+{% include speaker-card-2020.html
   avatarurl="sofie.png"
   profilename="Sofie Van Den Bossche"
   affiliation="Department of Data Analysis <br> Faculty of Psychology and Educational Sciences <br> Ghent University"
@@ -151,7 +151,7 @@ img {
 </td>
 <td width="500px" align="left" valign="center">
 <a name="remi"></a>
-{% include speaker-card.html
+{% include speaker-card-2020.html
   avatarurl="remi.png"
   profilename="Remi Gau"
   affiliation="Université catholique de Louvain"
@@ -190,7 +190,7 @@ img {
 <tr>
 <td width="500px" align="left" valign="center">
 <a name="daniele"></a>
-{% include speaker-card.html
+{% include speaker-card-2020.html
   avatarurl="daniele.png"
   profilename="Daniele Marinazzo"
   affiliation="Department of Data Analysis <br>Faculty of Psychology and Educational Sciences <br>Ghent University"
@@ -202,7 +202,7 @@ img {
 </td>
 <td width="500px" align="left" valign="center">
 <a name="natalia"></a>
-{% include speaker-card.html
+{% include speaker-card-2020.html
   avatarurl="natalia.png"
   profilename="Natalia Bielczyk"
   affiliation="Founder, Director and Chairperson Stichting Solaris Onderzoek en Ontwikkeling <br> <br> eLife Associate <br> <br> Career Development and Mentoring Manager Organization for Human Brain Mapping"
@@ -229,7 +229,7 @@ img {
 <tr>
 <td width="500px" align="left" valign="center">
 <a name="tim"></a>
-{% include speaker-card.html
+{% include speaker-card-2020.html
   avatarurl="tim.png"
   profilename="Tim van Mourik"
   affiliation="Donders Institute for Brain, Cognition and Behaviour"
