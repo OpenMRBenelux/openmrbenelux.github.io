@@ -2,16 +2,17 @@
 
 **Content**:
 
-- [Installation](#step-1:-install-ruby,-rubygems-and-jekyll)
-- [Get the repository ready locally](#step-2:-get-the-openmrb-website-repository-ready)
-- [Editing the website](#step-3:-editing-the-website)
-  - [Editing individual pages](#Editing-and-updating-separate-pages)
-  - [Changing the website structure](#Changing-the-structure-of-the-website)
-  - [Adding team members and speakers](#adding-team-members-&-speakers)
-  - [Running the website locally](#Running-the-website-locally-to-see-your-changes)
-  - [Changing formatting](#Changing-formatting)
-  - [Current repository structure](#Current-repository-structure)
-  - 
+- [Manual to edit the OpenMRB website](#manual-to-edit-the-openmrb-website)
+  - [Step 1: Install Ruby, RubyGems and Jekyll](#step-1-install-ruby-rubygems-and-jekyll)
+  - [Step 2: Get the OpenMRB website repository ready](#step-2-get-the-openmrb-website-repository-ready)
+  - [Step 3: Editing the website](#step-3-editing-the-website)
+    - [Editing and updating separate pages](#editing-and-updating-separate-pages)
+    - [Changing the structure of the website](#changing-the-structure-of-the-website)
+    - [Adding team members & speakers](#adding-team-members--speakers)
+    - [Running the website locally to see your changes](#running-the-website-locally-to-see-your-changes)
+    - [Changing formatting](#changing-formatting)
+    - [Current repository structure](#current-repository-structure)
+  - [Jekyll-specific files and information](#jekyll-specific-files-and-information)
 
 
 
@@ -235,39 +236,42 @@ Drafts: put in `_drafts` folder, run `jekyll serve --draft` to include in websit
 
 **Looping through pages (for loops in layouts)**
 
-`{% for page in site.pages %}`
+```
+{% for page in site.pages %}
 
-​	`<li><a href="{{ page.url }}">{{page.title}}</a></li>` # create a navigation list
+​<li><a href="{{ page.url }}">{{page.title}}</a></li> # create a navigation list
 
-`{% endfor %}`
-
+{% endfor %}
+```
 
 
 **Conditionals (if-else loops in layouts)**
 
-`{% if page.title == "My First Post" and condition %}` # and, or both possible
+```
+{% if page.title == "My First Post" and condition %} # and, or both possible
 
-​	`This is the first post`
+​This is the first post
 
-`{% elseif page.title == "My Second Post"%}`
+{% elsif page.title == "My Second Post"%}
+​This is the second post
 
-​	`This is the second post`
+{% else %}
+This is another post
 
-`{% else %}` 
-
-`	This is another post`
-
-`{% endif %}`
+{% endif %}
+```
 
 
 
 **Style navigation list**
 
-`{% for page in site.pages %}`
+```
+{% for page in site.pages %}
 
-`<li><a style="{% if page.url == page.url %}color:red{% endif %}" href="{{ page.url }}">{{page.title}}</a></li>`
+<li><a style="{% if page.url == page.url %}color:red{% endif %}" href="{{ page.url }}">{{page.title}}</a></li>
 
-`{% endfor%}`
+{% endfor%}
+```
 
 
 
@@ -275,11 +279,13 @@ Drafts: put in `_drafts` folder, run `jekyll serve --draft` to include in websit
 
 - Don't have front matter, e.g., jpeg, pdf, etc. files. Are automatically recognized by Jekyll, directory does not matter much. E.g., in a layout: 
 
-  `{% for file in site.static_files %} `
+```
+{% for file in site.static_files %}
 
-  ​	`{{ file.path }} {{ file.name }} <br> `
+​	{{ file.path }} {{ file.name }} <br>
 
-  `{% endfor %}`
+{% endfor %}
+```
 
 - Give them front matter: in `_config.yml` file:
 
@@ -295,13 +301,13 @@ Drafts: put in `_drafts` folder, run `jekyll serve --draft` to include in websit
 
 - In layout, this front matter can now be accessed:
 
-   `{% for file in site.static_files %} `
+```
+   {% for file in site.static_files %}
 
-  ​	`{% if file.image %}`
+   {% if file.image %}
+  ​ <img scr="{{file.path}}" alt="{file.name}"> # if the file is an img, show it
+  ​	{% endif %}
 
-  ​		` <img scr="{{file.path}}" alt="{file.name}"> # if the file is an img, show it`
-
-  ​	`{% endif %}`
-
-  `{% endfor %}`
+  {% endfor %}
+```
 

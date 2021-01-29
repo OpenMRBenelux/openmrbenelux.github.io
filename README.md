@@ -1,3 +1,13 @@
+# OpenMR Benelux
+
+This is the github page that creates our website: https://openmrbenelux.github.io/
+
+Please find a manual to edit the website here: [manual](Manual_editing_OpenMRB_website.md).
+
+Below, you can find information on the theme that our website uses: the bulma-clean-theme.
+
+
+
 # bulma-clean-theme
 
 [![Gem Version](https://badge.fury.io/rb/bulma-clean-theme.svg)](https://badge.fury.io/rb/bulma-clean-theme)
@@ -10,7 +20,6 @@ This is a clean and simple Jekyll Theme built with the [Bulma](https://bulma.io/
   - [Contents](#contents)
   - [Installation](#installation)
   - [Usage](#usage)
-    - [OpenMR-benelux specific](#openmr-benelux-specific)
     - [Pages](#pages)
     - [Posts](#posts)
     - [Navigation](#navigation)
@@ -62,14 +71,6 @@ Or install it yourself as:
     $ gem install bulma-clean-theme
 
 ## Usage
-
-### OpenMR-benelux specific
-
-Adding team members, advisors or speakers can be done by adding them to the relevant `yml` files in the `_data` folder.
-
-The `page-team` and `page-speakers` pages have been set up to read the content directly from there and generate the HTML code automatically.
-
-The CSS for those pages is being transferred or kept in the relevant files in the `_sass` folder.
 
 ### Pages
 

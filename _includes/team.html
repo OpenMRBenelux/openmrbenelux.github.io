@@ -1,14 +1,14 @@
 <html>
   <body>
-    <section id="team" class="team">
-      <div class="container">
+    <section>
+      <div class="container is-fluid">
         <a name="top"></a>
 
         <h1 class="title">Organizing committee</h1>
 
-        <div class="tile is-ancestor">
-          <div class="tile is-vertical is-6 is-parent">
-            {% for teamMember in site.data.team %}
+        <div class="tile is-ancestor person">
+          <div class="tile is-vertical is-10 is-parent">
+            {% for teamMember in include.this_year_team %}
 
             <div class="tile is-child box">
               <div class="tile is-child">
@@ -18,12 +18,12 @@
 
               <div class="tile is-child">
                 <button class="accordion">
-                  <i class="fas fa-id-card bio-button"></i>
+                  <i class="fas fa-id-card"></i>
                   &nbsp;&nbsp;Bio
                 </button>
 
                 <div class="panel">
-                  <p style="padding-top: 10px;">
+                  <p>
                     {{ teamMember.bio }}
                   </p>
                 </div>
@@ -32,10 +32,12 @@
 
             <!-- Switch column -->
             <!-- TODO: The 3 here is hard coded and should improved -->
-            {% if forloop.index == 3 %}
-          </div>
-          <div class="tile is-vertical is-6 is-parent">
-            {% endif %} {% endfor %}
+            <!-- {% if forloop.index == 3 %}
+              </div>
+             <div class="tile is-vertical is-6 is-parent">
+            {% endif %}  -->
+            
+            {% endfor %}
           </div>
         </div>
 
@@ -44,13 +46,13 @@
       </div>
     </section>
 
-    <section id="team" class="team">
-      <div class="container">
+    <section>
+      <div class="container is-fluid">
         <h1 class="title">Advisors</h1>
 
-        <div class="tile is-ancestor">
+        <div class="tile is-ancestor person">
           <div class="tile is-vertical is-10 is-parent">
-            {% for advisor in site.data.advisors %}
+            {% for advisor in include.this_year_advisors %}
 
             <div class="tile is-child box">
               <div class="tile is-child">
@@ -60,12 +62,12 @@
 
               <div class="tile is-child">
                 <button class="accordion">
-                  <i class="fas fa-id-card bio-button"></i>
+                  <i class="fas fa-id-card"></i>
                   &nbsp;&nbsp;Bio
                 </button>
 
                 <div class="panel">
-                  <p style="padding-top: 10px;">
+                  <p>
                     {{ advisor.bio }}
                   </p>
                 </div>

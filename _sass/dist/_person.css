@@ -1,0 +1,37 @@
+@charset "UTF-8";
+.person {
+  /* Style the buttons that are used to open and close the accordion panel */
+  /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+  /* Style the accordion panel. Note: hidden by default */
+}
+.person .active:after {
+  content: "−";
+  /* Unicode character for "minus" sign (-) */
+  font-size: 13px;
+  color: #ffffff;
+  float: right;
+  margin-left: 5px;
+}
+.person .accordion {
+  background-color: #004777;
+  color: #ffffff;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  text-align: left;
+  border: none;
+  outline: none;
+  transition: 0.4s;
+}
+.person .active, .person .accordion:hover {
+  background-color: #004777;
+}
+.person .panel {
+  padding: 0 18px;
+  background-color: #ffffff;
+  display: none;
+  overflow: hidden;
+}
+.person .panel p {
+  padding-top: 10px;
+}
