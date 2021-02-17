@@ -21,7 +21,6 @@ img {
 }
 </style>
 
-<a name="top"></a>
 <div style="text-align: justify">This year, we are embracing a new concept by combining:
 <ul>
 <li>a first day (<b>Tuesday <a href="../page-program#day1">21</a> January</b>) of talks and discussions;</li>
@@ -30,7 +29,7 @@ img {
 Check out the <a href="../page-program"><b>Program</b></a> for more details!</div>
 
 ## <span style="color:#004777"> Hackathon = Hacking + Marathon </span>
-<img class="img1" style="float: right;" src="../../assets/ext_images/interaction_hacktrack.jpg" width="560" height="560" vspace="10px" hspace="20px">
+<img class="img1" style="float: right;" src="../../assets/ext_images/2020/interaction_hacktrack.jpg" width="560" height="560" vspace="10px" hspace="20px">
 
 <p><div style="text-align: justify">During the HackTrack, we will host a <i>hackathon</i>. Euuuuhm, a whaaaat? The word <i>hackathon</i> can be split into "hacking" and "marathon”.
 Hence a <i>hackathon</i> is an event in which you can intensively (> <b>marathon</b>; in this case, two consequent days) and collaboratively work on a project (> <b>hacking</b>; proposed by you or someone else). Thus, hackathons are different than the typical academic conference sessions because individuals will be actively trying to accomplish something rather than merely attending. As a rule of thumb, think of hackathon attendees as saying "I am here to help" and of a hackathon leader being able to tell them "here's what you can do to help."</div></p>
@@ -63,6 +62,6 @@ ways you can be integrated in the project (an <a href="https://github.com/OpenMR
 If you are interested in a certain project, you can approach these project leaders afterwards and express your interest in participating.
 If you would like to propose your own idea, but you're not sure whether or how to work it out to a full project, please get in touch using our <a href="../page-contact"><b>Contact Page</b></a> and we're happy to help you out!</div></p>
 
-<img src="../../assets/ext_images/post_separator.png" alt="text">
+<img src="../../assets/ext_images/2020/post_separator.png" alt="text">
 <br>
-<a href="../page-resources-hackathon#top"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
+<a href="#"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>

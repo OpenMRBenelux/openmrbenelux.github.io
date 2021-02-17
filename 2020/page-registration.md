@@ -10,7 +10,6 @@ menubar: past_events
 
 <!-- ## Register here! -->
 
-<a name="top"></a>
 ## <span style="color:#004777"> Registration is now open for OpenMR Benelux 2020! </span>
 <br>
 
@@ -18,39 +17,39 @@ menubar: past_events
 
 <i class="far fa-arrow-alt-circle-right" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#000000"></i> <b>DO NOT HESITATE: only 10 spots available for DS SBS funding!</b>
 
-<img src="../../assets/ext_images/post_separator.png" alt="text"> 
+<img src="../../assets/ext_images/2020/post_separator.png" alt="text"> 
 
 <p><div style="text-align: justify"><b>Please read the information below and complete the form at the <a href="../page-registration#locreg">bottom of the page</a>.</b></div></p>
 
 <h2 style="color:#004777"><i class="fas fa-lightbulb" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777"></i> &nbsp; Event Format</h2>
 <p><div style="text-align: justify">OpenMR Benelux 2020 is an unconference and hackathon style event focusing on inclusive, transparent, and reproducible science in the field of Magnetic Resonance Imaging. It spans three days of talks, discussions, workshops, demos, and hackathons. Please refer to the detailed <a href="../page-program"><b>Program</b></a> for more information about these activities.</div></p>
 
-<img src="../../assets/ext_images/post_separator.png" alt="text"> 
+<img src="../../assets/ext_images/2020/post_separator.png" alt="text"> 
 
 <h2 style="color:#004777"><i class="fas fa-lightbulb" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777"></i> &nbsp; Dates</h2>
 <p><div style="text-align: justify"><b>Tuesday <a href="../page-program#day1">21</a> January</b> - talks and discussions</div></p>
 <p><div style="text-align: justify"><b>Wednesday <a href="../page-program#day2">22</a> January</b> - parallel TrainTrack and HackTrack</div></p>
 <p><div style="text-align: justify"><b>Thursday <a href="../page-program#day3">23</a> January 2020</b> - parallel TrainTrack and HackTrack</div></p>
 
-<img src="../../assets/ext_images/post_separator.png" alt="text"> 
+<img src="../../assets/ext_images/2020/post_separator.png" alt="text"> 
 
 <h2 style="color:#004777"><i class="fas fa-lightbulb" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777"></i> &nbsp; Venue</h2>
 <p><div style="text-align: justify"><a href="https://www.ru.nl/donders/">Donders Institute for Cognition, Brain and Behaviour</a></div></p>
 <p><div style="text-align: justify">Nijmegen, The Netherlands</div></p>
 <a href="../page-location-venue/"><b>How to get there</b>!
 
-<img src="../../assets/ext_images/post_separator.png" alt="text"> 
+<img src="../../assets/ext_images/2020/post_separator.png" alt="text"> 
 
 <h2 style="color:#004777"><i class="fas fa-lightbulb" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777"></i> &nbsp;  Who can register? </h2>
 
 <p><div style="text-align: justify">Anyone working in the field of magnetic resonance imaging: Students, PhD candidates, Post-docs, Professors, other university staff, professionals, clinicians, all are welcome. The event is hosted in the Benelux region, but is open to anyone worldwide. <b>Please note that we have limited spaces available for the event.</b></div></p>
 
-<img src="../../assets/ext_images/post_separator.png" alt="text"> 
+<img src="../../assets/ext_images/2020/post_separator.png" alt="text"> 
 
 <h2 style="color:#004777"><i class="fas fa-lightbulb" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777"></i> &nbsp;  Registration fee </h2>
 <p><div style="text-align: justify">€50</div></p>
 
-<img src="../../assets/ext_images/post_separator.png" alt="text"> 
+<img src="../../assets/ext_images/2020/post_separator.png" alt="text"> 
 
 <a name="locreg"></a>
 <h2 style="color:#004777"><i class="fas fa-lightbulb" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777"></i> &nbsp; Take note</h2>
@@ -91,6 +90,6 @@ img {
 </div>
 -->
 
-<img src="../../assets/ext_images/post_separator.png" alt="text"> 
+<img src="../../assets/ext_images/2020/post_separator.png" alt="text"> 
 <br>
-<a href="../page-registration#top"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
+<a href="#"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>

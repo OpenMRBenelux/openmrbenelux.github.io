@@ -15,8 +15,6 @@ img {
 }
 </style>
 
-<a name="top"></a>
-
 <p><div style="text-align: justify">OpenMR Benelux is dedicated to providing a welcoming and harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, social class and background, disability, physical appearance, body size, race, age, religion, nationality, or the presence of or care for dependents. We do not tolerate harassment of conference participants in any form. Event participants violating these rules may be sanctioned or expelled from the event at the discretion of the event organisers.</div></p>
 <p><div style="text-align: justify"><b><i>Harassment</i> includes, but is not limited to:</b></div></p>
 
@@ -52,10 +50,10 @@ img {
 <p><div style="text-align: justify">We can't follow up an anonymous report with you directly, but we will investigate it to the fullest extent possible and take all feasible actions to prevent a recurrence. When taking a personal report, our staff will adhere to the strictest confidence in handling the report. They may involve other event staff to the extent that this is required to ensure your report is managed properly. Once safe, we'll ask you to tell us about what happened. This can be upsetting, but we'll handle it as respectfully as possible, and you can bring someone to support you. You will never be asked to confront anyone and we won't tell anyone who you are.</div></p>
 <p><div style="text-align: justify">Our team will be happy to help you contact a hotel or venue security, local law enforcement, local support services, provide escorts, or otherwise assist you to feel safe for the duration of the event. We value your attendance.</div></p>
 
-<img src="../assets/ext_images/post_separator.png" alt="text">
+<img src="../assets/ext_images/2020/post_separator.png" alt="text">
 
 <p><div style="text-align: justify"><i>* Adapted from the <a href="https://www.eiseverywhere.com/ehome/ces18/code-of-conduct/">Cultural Evolution Society Conference Code of Conduct</a> and from the <a href="https://sisu.ut.ee/emcl8tartu/code-conduct">Empirical Methods in Cognitive Linguistics 8 workshop Code of Conduct</a></i></div></p>
 
-<img src="../assets/ext_images/post_separator.png" alt="text">
+<img src="../assets/ext_images/2020/post_separator.png" alt="text">
 <br>
-<a href="../page-code-of-conduct#top"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
+<a href="../#"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>

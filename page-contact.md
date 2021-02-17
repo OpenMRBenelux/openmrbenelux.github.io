@@ -53,7 +53,6 @@ input[type=submit]:hover {
 }    
 </style>
 
-<a name="top"></a>
 <p><div style="text-align: justify">Questions or feedback? Do not hesitate and use the <i>Contact Form</i> below to contact us. We will answer you as soon as possible to the best of our abilities!</div></p>
 <p><div style="text-align: justify"><b>IMPORTANT</b>: Please disable AdBlock or Privacy Badger when submitting the <i>Contact Form</i>! If you don't, we won't receive your request.</div></p>
 
@@ -95,9 +94,9 @@ input[type=submit]:hover {
 
 </form>
 
-<img src="../assets/ext_images/post_separator.png" alt="text"> 
+<img src="../assets/ext_images/2020/post_separator.png" alt="text"> 
 <br>
-<a href="../page-contact#top"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
+<a href="#"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
 
 <!-- <p> Message is: <span id = "display_message"></span> </p> -->
 

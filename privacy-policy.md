@@ -13,8 +13,6 @@ img {
 }
 </style>
 
-<a name="top"></a>
-
 <h2 style="color:#004777"> Introduction </h2> 
 <p><div style="text-align: justify">This Privacy Policy sets out the ways in which OpenMR Benelux collects and uses your personal data (personal information). It also explains what rights you have to access or change your personal data.</div></p>
 <p><div style="text-align: justify">Any initiatives by OpenMR Benelux are not intended for children. We do not knowingly collect or maintain the personal information of children under the age of 18. If you are under the age of 18, please do not access OpenMR Benelux at any time or in any manner.</div></p>
@@ -70,6 +68,6 @@ img {
 <p><div style="text-align: justify">We may make changes to this Privacy Policy from time to time. We will post any changes to our site, or notify you of any material changes by email. Any changes will come into effect the next time you engage with us after the changes have been notified.</div></p>
 <p><div style="text-align: justify">It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us by updating your profile account information or contacting us via email.</div></p> 
 
-<img src="../assets/ext_images/post_separator.png" alt="text"> 
+<img src="../assets/ext_images/2020/post_separator.png" alt="text"> 
 <br>
-<a href="../privacy-policy#top"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
+<a href="#"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>

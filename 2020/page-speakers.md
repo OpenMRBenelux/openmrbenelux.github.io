@@ -62,7 +62,6 @@ table tr:nth-of-type(3n) td {
 </head>
 <body>
 
-<a name="top"></a>  
 <!-- <h2 style="color:#004777"> Speakers </h2> -->
 <h2 style="color:#004777"> Tuesday, 21 January 2020 </h2>
 
@@ -255,9 +254,9 @@ table tr:nth-of-type(3n) td {
 </table>
 </div>
 
-<img src="../../assets/ext_images/post_separator.png" alt="text"> 
+<img src="../../assets/ext_images/2020/post_separator.png" alt="text"> 
 <br>
-<a href="../page-speakers#top"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
+<a href="#"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
 
 <h2 style="color:#004777"> Wednesday, 22 January 2020 </h2>
 
@@ -438,9 +437,9 @@ GIT and GitHub are potentially very powerful tools but tend to have a steep lear
 
 </div>
 
-<img src="../../assets/ext_images/post_separator.png" alt="text"> 
+<img src="../../assets/ext_images/2020/post_separator.png" alt="text"> 
 <br>
-<a href="../page-speakers#top"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
+<a href="#"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
 
 <h2 style="color:#004777"> Thursday, 23 January 2020 </h2>
 
@@ -735,9 +734,9 @@ His research focus is MRI sequence development at 7 Tesla, probing for neurodege
 
 </div>
 
-<img src="../../assets/ext_images/post_separator.png" alt="text"> 
+<img src="../../assets/ext_images/2020/post_separator.png" alt="text"> 
 <br>
-<a href="../page-speakers#top"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
+<a href="#"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
 
 <script>
 var acc = document.getElementsByClassName("accordion");

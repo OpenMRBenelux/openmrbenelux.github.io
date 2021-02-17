@@ -39,15 +39,13 @@ img {
 
 <body>
 
-<a name="top"></a>
-
 <p align=" justify">We are currently working hard on a new program for OpenMR Benelux 2021. Coming soon!</p>
 
-<img class="img1" style="float: right;" src="../../assets/ext_images/interaction.jpg" width="560" height="560" vspace="10px" hspace="20px">
+<img class="img1" style="float: right;" src="../../assets/ext_images/2020/interaction.jpg" width="560" height="560" vspace="10px" hspace="20px">
 
-<img src="../../assets/ext_images/post_separator.png" alt="text">
+<img src="../../assets/ext_images/2020/post_separator.png" alt="text">
 <br>
-<a href="../page-program#top"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
+<a href="#"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
 
 </body>
 </html>

@@ -40,10 +40,9 @@ img {
 
 <body>
 
-<a name="top"></a>
 <p align=" justify">The program for OpenMR Benelux 2020 is shown below.</p>
 
-<img class="img1" style="float: right;" src="../../assets/ext_images/interaction.jpg" width="560" height="560" vspace="10px" hspace="20px">
+<img class="img1" style="float: right;" src="../../assets/ext_images/2020/interaction.jpg" width="560" height="560" vspace="10px" hspace="20px">
 
 <p align=" justify">The event will span three days during which participants can take part in the following main activities:
 <UL>
@@ -420,7 +419,7 @@ img {
 </table>
 </div>
 
-<img src="../../assets/ext_images/post_separator.png" alt="text">
+<img src="../../assets/ext_images/2020/post_separator.png" alt="text">
 
 <!--<p><br><br><strong>Wednesday and Thursday, 22-23 January 2020 </strong>: Parallel sessions for <strong>hackathons</strong> and <strong>training workshops</strong> will take place.</p>-->
 
@@ -609,7 +608,7 @@ img {
 </table>
 </div>
 
-<img src="../../assets/ext_images/post_separator.png" alt="text">
+<img src="../../assets/ext_images/2020/post_separator.png" alt="text">
 
 <a name="day3"></a>
 <div style="overflow-x:auto;">
@@ -909,9 +908,9 @@ img {
 </table>
 </div>
 
-<img src="../../assets/ext_images/post_separator.png" alt="text">
+<img src="../../assets/ext_images/2020/post_separator.png" alt="text">
 <br>
-<a href="../page-program#top"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
+<a href="#"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
 
 </body>
 </html>

@@ -56,7 +56,6 @@ img {
 </head>
 <body>
 
-<a name="top"></a>
 <h2 style="color:#004777"> Organizing committee </h2>
 
 <div style="overflow-x:auto;">
@@ -180,7 +179,7 @@ img {
 
 </div>
 
-<img src="../../assets/ext_images/post_separator.png" alt="text"> 
+<img src="../../assets/ext_images/2020/post_separator.png" alt="text"> 
 
 <h2 style="color:#004777"> Advisors </h2>
 
@@ -252,9 +251,9 @@ img {
 
 </div>
 
-<img src="../../assets/ext_images/post_separator.png" alt="text"> 
+<img src="../../assets/ext_images/2020/post_separator.png" alt="text"> 
 <br>
-<a href="../page-team#top"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
+<a href="#"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
 
 <script>
 var acc = document.getElementsByClassName("accordion");
