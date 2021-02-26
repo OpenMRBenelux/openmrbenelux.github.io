@@ -1,5 +1,5 @@
 - name: <span class="button is-inverted">OpenMR Benelux 2021</span>
-  link: /index/
+  link: /
   dropdown:
   - name: Registration
     link: /2021/page-registration/
