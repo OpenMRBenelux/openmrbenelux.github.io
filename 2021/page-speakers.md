@@ -1,5 +1,5 @@
 ---
-title: OpenMR Benelux 2021
+title: OpenMR Virtual 2021
 subtitle: Speakers
 layout: page
 show_sidebar: false
@@ -7,6 +7,4 @@ show_sidebar: false
 #hero_image: assets/ext_images/home_logo.png
 ---
 
-We are currently working hard on a new program for OpenMR Benelux 2021. <br>Coming soon!
-
-
+Coming soon!

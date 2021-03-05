@@ -5,14 +5,6 @@ layout: page
 show_sidebar: false
 ---
 
-<style>
-img {
-  width: 30%;
-  height: auto;
-  display: inline-block;
-}
-</style>
-
 <h2 style="color:#004777"> Introduction </h2> 
 <p><div style="text-align: justify">This Privacy Policy sets out the ways in which OpenMR Benelux collects and uses your personal data (personal information). It also explains what rights you have to access or change your personal data.</div></p>
 <p><div style="text-align: justify">Any initiatives by OpenMR Benelux are not intended for children. We do not knowingly collect or maintain the personal information of children under the age of 18. If you are under the age of 18, please do not access OpenMR Benelux at any time or in any manner.</div></p>
@@ -53,7 +45,7 @@ img {
 <p><div style="text-align: justify">We do not collect Cookies.</div></p>
 
 <h2 style="color:#004777"> How do we look after your information and how long we keep it for? </h2>
-<p><div style="text-align: justify">We will retain your information for as long as is necessary to provide you with the services that you have requested from us. For instance, if you assign for a particular event, your information will be erased after the event (unless you clearly state that you wish to be informed about the next edition of the event during the registration process). If you request to become a member of our startup database, we will hold your contact information permanently until you request to remove the data from the database, or until the startup dissolves. In case of OpenMR Benelux’s dissolution, all the contact data will be erased.</div></p> 
+<p><div style="text-align: justify">We will retain your information for as long as is necessary to provide you with the services that you have requested from us. For instance, if you assign for a particular event, your information will be erased after the event (unless you clearly state that you wish to be informed about the next edition of the event during the registration process). If you request to become a member of our startup database, we will hold your contact information permanently until you request to remove the data from the database, or until the startup dissolves. In case of OpenMR Benelux’s dissolution, all the contact data will be erased.</div></p>
 
 <h2 style="color:#004777"> Your rights to the information we hold about you </h2>
 <p><div style="text-align: justify">You have certain rights in respect of the information that we hold about you, including:</div></p>
@@ -63,11 +55,10 @@ img {
 4.  <div style="text-align: justify">the right to request that we correct or rectify any information that we hold about you which is out of date or incorrect;</div>
 5.  <div style="text-align: justify">the right to ask us to stop processing information about you.</div>
 
-
 <h2 style="color:#004777"> Changes to this privacy policy </h2>
 <p><div style="text-align: justify">We may make changes to this Privacy Policy from time to time. We will post any changes to our site, or notify you of any material changes by email. Any changes will come into effect the next time you engage with us after the changes have been notified.</div></p>
-<p><div style="text-align: justify">It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us by updating your profile account information or contacting us via email.</div></p> 
+<p><div style="text-align: justify">It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us by updating your profile account information or contacting us via email.</div></p>
 
-<img src="../assets/ext_images/2020/post_separator.png" alt="text"> 
+<img class="img-separator" src="{{ site.baseurl }}/assets/ext_images/2020/post_separator.png" alt="horizontal separator" />  
 <br>
 <a href="#"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>

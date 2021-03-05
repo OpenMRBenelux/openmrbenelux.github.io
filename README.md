@@ -2,7 +2,7 @@
 
 This is the github page that creates our website: https://openmrbenelux.github.io/
 
-Please find a manual to edit the website here: [manual](Manual_editing_OpenMRB_website.md).
+Please find a manual to edit the website here: [manual](CONTRIBUTING.md).
 
 Below, you can find information on the theme that our website uses: the bulma-clean-theme.
 

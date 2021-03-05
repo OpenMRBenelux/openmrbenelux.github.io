@@ -1,9 +1,8 @@
 ---
-title: OpenMR Benelux 2021
+title: OpenMR Virtual 2021
 subtitle: Content
 layout: page
 show_sidebar: false
 ---
 
-After OpenMR Benelux 2021, you will find materials that will be presented during conference on this page!
-
+After OpenMR Virtual 2021, you will find all materials presented during the conference on this page!

@@ -10,11 +10,6 @@ menubar: past_events
 <html>
 <head>
 <style>
-img {
-  width: 30%;
-  height: auto;
-  display: inline-block;
-}
 .accordion:after {
   content: '\002B'; /* Unicode character for "plus" sign (+) */
   font-size: 13px;
@@ -179,7 +174,7 @@ img {
 
 </div>
 
-<img src="../../assets/ext_images/2020/post_separator.png" alt="text"> 
+<img class="img-separator" src="{{ site.baseurl }}/assets/ext_images/2020/post_separator.png" alt="horizontal separator" />
 
 <h2 style="color:#004777"> Advisors </h2>
 
@@ -251,7 +246,7 @@ img {
 
 </div>
 
-<img src="../../assets/ext_images/2020/post_separator.png" alt="text"> 
+<img class="img-separator" src="{{ site.baseurl }}/assets/ext_images/2020/post_separator.png" alt="horizontal separator" />
 <br>
 <a href="#"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
 

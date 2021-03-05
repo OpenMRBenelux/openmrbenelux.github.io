@@ -1,23 +1,23 @@
-- name: <span class="button is-inverted">OpenMR Benelux 2021</span>
+- name: <span class="button is-inverted">OpenMR Virtual 2021</span>
   link: /
   dropdown:
-  - name: Registration
-    link: /2021/page-registration/
-  - name: Program
-    link: /2021/page-program/
-  - name: Speakers
-    link: /2021/page-speakers/
-  - name: Content
-    link: /2021/page-content/
-  - name: Sponsors
-    link: /2021/page-sponsors/
+    - name: Registration
+      link: /2021/page-registration/
+    - name: Program
+      link: /2021/page-program/
+    - name: Speakers
+      link: /2021/page-speakers/
+    - name: Content
+      link: /2021/page-content/
+    - name: Sponsors
+      link: /2021/page-sponsors/
 - name: <i class="fas fa-fast-backward"></i>&nbsp;&nbsp;Past events
   link: /page-past-events/
   dropdown:
-  - name: OpenMR Benelux 2020
-    link: /2020/page-openmrb-2020/
-  - name: OpenMR Benelux 2019
-    link: /2019/page-openmrb-2019/
+    - name: OpenMR Benelux 2020
+      link: /2020/page-openmrb-2020/
+    - name: OpenMR Benelux 2019
+      link: /2019/page-openmrb-2019/
 - name: <i class="fas fa-pencil-ruler"></i>&nbsp;&nbsp;Code of Conduct
   link: /page-code-of-conduct/
 - name: <i class="fas fa-users"></i>&nbsp;&nbsp;Meet the team

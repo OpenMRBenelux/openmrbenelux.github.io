@@ -6,7 +6,7 @@
 
         {% for day in include.this_year_speakers %}
 
-        <h2 style="color: #004777;">{{ day.date }}</h2>
+        <h2 style="color: #004777">{{ day.date }}</h2>
 
         <div class="tile is-ancestor">
           <div class="tile is-vertical is-6 is-parent">
@@ -25,9 +25,7 @@
                 </button>
 
                 <div class="panel">
-                  <p>
-                    {{ speaker.bio }}
-                  </p>
+                  <p>{{ speaker.bio }}</p>
                 </div>
               </div>
 
@@ -39,9 +37,7 @@
 
                 <div class="panel">
                   <h6>{{ speaker.abstract.title }}</h6>
-                  <p>
-                    {{ speaker.abstract.content }}
-                  </p>
+                  <p>{{ speaker.abstract.content }}</p>
                 </div>
               </div>
             </div>
@@ -49,18 +45,19 @@
             <!-- Switch column -->
             <!-- TODO: The 3 here is hard coded and should improved -->
             {% if forloop.index == 4 %}
-            
           </div>
           <div class="tile is-vertical is-6 is-parent">
             {% endif %} {% endfor %}
           </div>
         </div>
 
-        <img src="{{ site.baseurl }}/assets/ext_images/post_separator.png" alt="text" />
+        <img
+          class="img-separator"
+          src="{{ site.baseurl }}/assets/ext_images/2020/post_separator.png"
+          alt="horizontal separator"
+        />
 
         {% endfor %}
-
-        
 
         <a href="../page-speakers#top"
           ><i

@@ -2,17 +2,12 @@
   class="container {% if include.column %} {{ include.column }}{% endif %}"
 >
   <div class="level"></div>
-  <table
-    cellpadding="20px"
-    style="background-color: #dbe9f4;"
-  >
+  <table cellpadding="20px" style="background-color: #dbe9f4">
     <tr>
-      <td 
-      height="300px" 
-      style=
-      "width:40%; 
-      text-align:center;
-      vertical-align:middle">
+      <td
+        height="300px"
+        style="width: 40%; text-align: center; vertical-align: middle"
+      >
         <!-- <h3>{{ include.data.name }}</h3> -->
 
         {% if include.data.homepage %}
@@ -40,47 +35,33 @@
         {% endif %}
       </td>
 
-      <td 
-      height="300px" 
-      style=
-      "width:60%; 
-      text-align:left;
-      vertical-align:middle">
-
-        <h4 style="font-family: monospace;">
-          {{ include.data.name }} 
-        </h4>
-
-        <h4>
-        {% if include.data.twitter %}
+      <td
+        height="300px"
+        style="width: 60%; text-align: left; vertical-align: middle"
+      >
+        <h4 style="font-family: monospace">
+          {{ include.data.name }} {% if include.data.twitter %}
           <a href="{{ include.data.twitter }}">
-            <i class="fab fa-twitter" style="color: #38a1f3;"></i>
+            <i class="fab fa-twitter" style="color: #38a1f3"></i>
           </a>
           {% endif %} {% if include.data.git %}
           <a href="{{ include.data.git }}">
-            <i class="fab fa-github" style="color: #333;"></i
+            <i class="fab fa-github" style="color: #333"></i
           ></a>
           {% endif %} {% if include.data.researchgate %}
           <a href="{{ include.data.researchgate }}">
-            <i class="fab fa-researchgate" style="color: #00d0af;"></i></a
+            <i class="fab fa-researchgate" style="color: #00d0af"></i></a
           >{% endif %}
         </h4>
 
         {% for item in include.data.affiliation %}
-        <p>
-          <i
-            class="fas fa-circle" style="color: black;"></i>
-          {{ item }}
-        </p>
-        {% endfor %} 
-        
-        {% if include.data.city %}
+        <p>{{ item }}</p>
+        {% endfor %} {% if include.data.city %}
         <h6>
-          <i class="fas fa-map-marker-alt" style="color: red;"></i>
-          {{ include.data.city }}
+          <i class="fas fa-map-marker-alt" style="color: red"></i>
+          &nbsp;&nbsp;{{ include.data.city }}
         </h6>
         {% endif %}
-
       </td>
     </tr>
   </table>

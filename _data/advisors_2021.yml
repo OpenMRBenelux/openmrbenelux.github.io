@@ -20,32 +20,40 @@
 
 - name: Natalia Bielczyk
   image: natalia.png
-  affiliation: 
-  
+  affiliation:
     - Founder, Director
       and Chairperson Stichting Solaris Onderzoek en Ontwikkeling
     - eLife Associate
     - Career Development and Mentoring Manager Organization for Human
       Brain Mapping
-  
+
   city:
   homepage: https://www.nataliabielczyk.com/
   git:
   twitter: https://www.twitter.com/nbielczyk_neuro
   researchgate: https://www.researchgate.net/profile/Natalia_Bielczyk2
   bio: Natalia Bielczyk has a background in Physics, Mathematics and Psychology (3 x MSc), obtained at the College of Interfaculty Studies in Mathematics and Natural Sciences, University of Warsaw. She is now completing her thesis within the Donders Graduate School, Donders Institute for Brain, Cognition and Behavior, Nijmegen, the Netherlands. Her research concerns developing new methods for connectomics in the domain of cognitive neuroimaging, i.e. for functional and effective connectivity research. Natalia also currently holds a position of a Career Development and Mentoring Manager within the <a href="https://www.ohbmtrainees.com/"> Organization for Human Brain Mapping Student and Postdoc Special Interest Group</a>, and serves as an eLife Associate within the <a href="https://elifesciences.org/inside-elife/a946c355/elife-community-ambassadors-243-volunteers-join-the-programme-in-2019"> eLife Ambassadors community</a>. In private, she is also a dedicated <a href="https://www.nataliabielczyk.com/">blogger</a>, and a speaker, giving workshops and talks about self-development in academia and transitions to industry. In November 2018, she founded Stichting Solaris Onderzoek en Ontwikkeling in a response to lack of assistance for early career researchers in career development in academia and beyond.
-  
+
 - name: Guy Nagels
   image: Guy.png
-  affiliation: 
-  
-  - AIMS lab, Center for Neuroscience, UZ Brussel, Vrije Universiteit Brussel
-  - icometrix, Leuven, Belgium
-  - St. Edmund Hall, University of Oxford, Oxford, UK
-  
+  affiliation:
+    - AIMS lab, Center for Neuroscience, UZ Brussel, Vrije Universiteit Brussel
+    - icometrix, Leuven, Belgium
+    - St. Edmund Hall, University of Oxford, Oxford, UK
+
   city: Brussels, Belgium
   homepage:
   git:
   twitter:
   researchgate: https://www.researchgate.net/profile/Guy_Nagels
   bio: Prof. Guy Nagels is associate professor at the VUB, where he leads the Artificial Intelligence and Modelling in clinical Sciences (AIMS) lab. Furthermore, he is associate chair of neurology at the UZ Brussels, from which he is also on secondment as medical director neurology at icometrix NV. He holds a senior clinical research fellowship from the FWO Flanders
+
+- name: You in 2022?
+  image: you.png
+  affiliation: ~
+  city: Anywhere on earth
+  homepage: ~
+  git: ~
+  twitter: ~
+  researchgate: ~
+  bio: You are amazing!

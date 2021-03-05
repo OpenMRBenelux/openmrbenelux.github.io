@@ -1,0 +1,105 @@
+<html>
+  <body class="program">
+    <section class="container">
+      <!-- looping through the days of the program and then through each session -->
+      {% for day in include.program %}
+
+      <!-- TODO: get loop index to generate this link rather than hard coding -->
+      <a name="day1"></a>
+
+      <!-- see the documentation -->
+      <!-- https://bulma.io/documentation/elements/table/ -->
+      <div class="table-container">
+        <table class="table is-bordered is-striped is-fullwidth is-hoverable">
+          <col width="14%" />
+          <col width="66%" />
+          <col width="10%" />
+          <col width="10%" />
+
+          <thead>
+            <tr>
+              <th>
+                <p>Time (CET)</p>
+              </th>
+
+              <th>
+                <p>{{ day.dateReadable }}</p>
+              </th>
+
+              <th>
+                <p>Type</p>
+              </th>
+
+              <th>
+                <p>Slides</p>
+              </th>
+            </tr>
+          </thead>
+
+          <tbody>
+            {% for timeSlot in day.timeSlots %}
+
+            <tr valign="top">
+              <td class="{{timeSlot.breakStatus}}">
+                <p class="strong_font">
+                  {{ timeSlot.startTime}} - {{ timeSlot.endTime }}
+                </p>
+              </td>
+
+              <td class="{{timeSlot.breakStatus}}">
+                <p class="strong_font">{{ timeSlot.sessionTitle }}</p>
+                {% if timeSlot.speaker %}
+                <p>
+                  {% for speaker in timeSlot.speaker %}
+                  <span style="color: #ffd966">
+                    <i class="fas fa-user-astronaut"></i>&nbsp;&nbsp;
+                  </span>
+                  <a href="{{ timeSlot.speakerLink }}">{{ speaker }}</a
+                  >&nbsp;&nbsp; {% endfor %}
+                </p>
+                {% endif %}
+              </td>
+
+              <td class="{{timeSlot.breakStatus}}">
+                <p class="strong_font">{{ timeSlot.sessionType }}</p>
+              </td>
+
+              <td class="strong_font; {{timeSlot.breakStatus}}">
+                {% if timeSlot.slides and timeSlot.breakStatus == null %}
+                <a href="{{ timeSlot.slides }}"> link </a>
+                {% endif %}
+              </td>
+            </tr>
+
+            {% endfor %}
+          </tbody>
+        </table>
+      </div>
+
+      <img
+        class="img-separator"
+        src="{{ site.baseurl }}/assets/ext_images/2020/post_separator.png"
+        alt="horizontal separator"
+      />
+
+      <br />
+
+      <a href="#"
+        ><i
+          class="fas fa-arrow-alt-circle-up"
+          style="
+            position: relative;
+            top: -3px;
+            text-indent: 0px;
+            vertical-align: middle;
+            color: #004777;
+          "
+        ></i
+      ></a>
+
+      <br /><br />
+
+      {% endfor %}
+    </section>
+  </body>
+</html>

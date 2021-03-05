@@ -10,14 +10,9 @@ menubar: past_events
 
 <!-- ## Location and venue information -->
 
-## <span style="color:#004777"> Nijmegen, The Netherlands </span> 
+## <span style="color:#004777"> Nijmegen, The Netherlands </span>
 
 <style>
-img {
-  width: 30%;
-  height: auto;
-  display: inline-block;
-}
 .img1 {
   width: 20%;
   height: auto;
@@ -37,7 +32,7 @@ img {
     height: 100% !important;
     display: inline-block;
 }             
-</style>   
+</style>
 
 <div style="text-align: justify">OpenMR Benelux 2020 will take place at the <a href="https://www.ru.nl/donders/"><b>Donders Centre for Cognitive Neuroimaging</b></a> in <b>Nijmegen, The Netherlands</b>.</div>
 
@@ -47,9 +42,9 @@ img {
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2465.92181613219!2d5.863482698981149!3d51.82585868217839!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c708f0ef1fb461%3A0x7b612535b3a8c312!2sDonders%20Centre%20for%20Cognitive%20Neuroimaging!5e0!3m2!1sen!2sbe!4v1579348736776!5m2!1sen!2sbe" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen></iframe>
 </div>
 
-<img src="../../assets/ext_images/2020/post_separator.png" alt="text"> 
+<img class="img-separator" src="{{ site.baseurl }}/assets/ext_images/2020/post_separator.png" alt="horizontal separator" />
 
-## <span style="color:#004777"> How to get there? </span> 
+## <span style="color:#004777"> How to get there? </span>
 
 <style>
 .map-responsive{
@@ -84,17 +79,19 @@ img {
 <li><div class="padding" style="text-align: left;"><div style="text-align: justify">Before you get on the train, you need to check in at the station/on the platform by holding your ticket against one of the card-readers.</div></div></li>
 <li><div class="padding" style="text-align: left;"><div style="text-align: justify">Remember! You also need to check out again at one of the card-readers when you arrive at your destination. If you are travelling by bus, tram, or metro, <b>you should check in and out as you get on and off</b>.</div></div></li>
 </ul>
-<img src="../../assets/ext_images/2020/post_separator.png" alt="text"> 
+<img class="img-separator" src="{{ site.baseurl }}/assets/ext_images/2020/post_separator.png" alt="horizontal separator" />
 
 ## <span style="color:#004777"> Accommodation? </span>
+
 <p><i class="fas fa-lightbulb" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777"></i> &nbsp; <a href="https://github.com/OpenMRBenelux/openmrbenelux.github.io/blob/master/places-nijmegen.md">Here</a> you can find a list of accommodation options in Nijmegen!<br></p>
 
 <i class="fas fa-lightbulb" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777"></i> &nbsp; <b>WANTED!</b> Please chat on <a href="https://app.slack.com/client/TFKL50SKV/CRNM1KQU8">Slack</a> to find your awesome:
+
 <ul>
 <li><div class="padding" style="text-align: left;"><div style="text-align: justify"><b>travel partner</b> for the ultimate roadtrip!</div></div></li>
 <li><div class="padding" style="text-align: left;"><div style="text-align: justify"><b>housemate</b> with whom you can split the rent!</div></div></li>
 </ul>
 
-<img src="../../assets/ext_images/2020/post_separator.png" alt="text"> 
+<img class="img-separator" src="{{ site.baseurl }}/assets/ext_images/2020/post_separator.png" alt="horizontal separator" />
 <br>
 <a href="#"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>

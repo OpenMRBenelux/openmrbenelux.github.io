@@ -15,27 +15,23 @@ menubar: past_events
 <style>
 table.fixed { table-layout: fixed; }
 
-img {
-  width: 30%;
-  height: auto;
-  display: inline-block;
-}
 .img1 {
-  width: 18%;
-  height: auto;
-  display: inline-block;
+width: 18%;
+height: auto;
+display: inline-block;
 }
 .fixed_header tbody{
-  display:block;
-  overflow-x:auto;
-  height:400px;
-  width:1350px;
+display:block;
+overflow-x:auto;
+height:400px;
+width:1350px;
 }
 .fixed_header thead tr{
-  display:block;
-  width:1350px
+display:block;
+width:1350px
 }
 </style>
+
 </head>
 
 <body>
@@ -51,8 +47,6 @@ img {
 <LI><b>Wednesday and Thursday <a href="../page-program#day2">22</a>+<a href="../page-program#day3">23</a> January</b> - <b>TrainTrack</b>: in parallel to the HackTrack, we have worked out a full program for those who want to get more hands-on experience with tools for conducting open research in MRI, including version control with git, Python, Jupyter Notebooks, Docker, and a treasure-trove of toolbox demos.</LI>
 </UL>
 </p>
-
-
 
 <p>&nbsp;</p>
 
@@ -419,11 +413,12 @@ img {
 </table>
 </div>
 
-<img src="../../assets/ext_images/2020/post_separator.png" alt="text">
+<img class="img-separator" src="{{ site.baseurl }}/assets/ext_images/2020/post_separator.png" alt="horizontal separator" />
 
 <!--<p><br><br><strong>Wednesday and Thursday, 22-23 January 2020 </strong>: Parallel sessions for <strong>hackathons</strong> and <strong>training workshops</strong> will take place.</p>-->
 
 <a name="day2"></a>
+
 <div style="overflow-x:auto;">
 <table width="100%" cellspacing="0" cellpadding="2" class="fixed" class="fixed_header">
     <col width="150px" />
@@ -608,9 +603,10 @@ img {
 </table>
 </div>
 
-<img src="../../assets/ext_images/2020/post_separator.png" alt="text">
+<img class="img-separator" src="{{ site.baseurl }}/assets/ext_images/2020/post_separator.png" alt="horizontal separator" />
 
 <a name="day3"></a>
+
 <div style="overflow-x:auto;">
 <table width="100%" cellspacing="0" cellpadding="2" class="fixed" class="fixed_header">
     <col width="150px" />
@@ -908,7 +904,7 @@ img {
 </table>
 </div>
 
-<img src="../../assets/ext_images/2020/post_separator.png" alt="text">
+<img class="img-separator" src="{{ site.baseurl }}/assets/ext_images/2020/post_separator.png" alt="horizontal separator" />
 <br>
 <a href="#"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
 

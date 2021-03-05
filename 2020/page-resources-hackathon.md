@@ -1,6 +1,6 @@
 ---
 title: What is a hackathon?
-subtitle: ''
+subtitle: ""
 layout: page
 show_sidebar: false
 menubar: past_events
@@ -9,11 +9,6 @@ menubar: past_events
 ---
 
 <style>
-img {
-  width: 30%;
-  height: auto;
-  display: inline-block;
-}
 .img1 {
   width: 18%;
   height: auto;
@@ -29,6 +24,7 @@ img {
 Check out the <a href="../page-program"><b>Program</b></a> for more details!</div>
 
 ## <span style="color:#004777"> Hackathon = Hacking + Marathon </span>
+
 <img class="img1" style="float: right;" src="../../assets/ext_images/2020/interaction_hacktrack.jpg" width="560" height="560" vspace="10px" hspace="20px">
 
 <p><div style="text-align: justify">During the HackTrack, we will host a <i>hackathon</i>. Euuuuhm, a whaaaat? The word <i>hackathon</i> can be split into "hacking" and "marathon”.
@@ -62,6 +58,6 @@ ways you can be integrated in the project (an <a href="https://github.com/OpenMR
 If you are interested in a certain project, you can approach these project leaders afterwards and express your interest in participating.
 If you would like to propose your own idea, but you're not sure whether or how to work it out to a full project, please get in touch using our <a href="../page-contact"><b>Contact Page</b></a> and we're happy to help you out!</div></p>
 
-<img src="../../assets/ext_images/2020/post_separator.png" alt="text">
+<img class="img-separator" src="{{ site.baseurl }}/assets/ext_images/2020/post_separator.png" alt="horizontal separator" />
 <br>
 <a href="#"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>

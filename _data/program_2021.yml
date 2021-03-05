@@ -1,0 +1,355 @@
+- date: "2021-03-24"
+  dateReadable: "Day 1: Wednesday, 24<sup>th</sup> March 2021"
+  tracks:
+    - { title: "TrainTrack", color: "#90be4e" }
+    - { title: "HackTrack", color: "#03a9f4" }
+  timeSlots:
+    - {
+        startTime: "09:30",
+        endTime: "10:00",
+        sessionTitle: "Opening",
+        speaker: "OpenMR team",
+        speakerLink: "../page-team",
+        breakStatus,
+        sessionType: "Talk",
+        slides: "",
+      }
+    - {
+        startTime: "10:00",
+        endTime: "10:30",
+        sessionTitle: "Hackathon project pitches",
+        speaker: "Hackathon leaders",
+        speakerLink: "https://github.com/OpenMRBenelux/openmrb2021-hackathon",
+        breakStatus,
+        sessionType: "Talk",
+        slides: "",
+      }
+    - {
+        startTime: "10:30",
+        endTime: "11:00",
+        sessionTitle: "Morning break",
+        speaker: "",
+        speakerLink: "",
+        breakStatus: "break",
+        sessionType: "",
+        slides: "",
+      }
+    - {
+        startTime: "11:00",
+        endTime: "12:00",
+        sessionTitle: "To be announced",
+        speaker: "",
+        speakerLink: "",
+        breakStatus,
+        sessionType: "Talk",
+        slides: "",
+      }
+    - {
+        startTime: "12:00",
+        endTime: "13:00",
+        sessionTitle: "Lunch break",
+        speaker: "",
+        speakerLink: "",
+        breakStatus: "break",
+        sessionType: "",
+        slides: "",
+      }
+    - {
+        startTime: "13:00",
+        endTime: "15:00",
+        sessionTitle: "Git(Hub) workshop",
+        speaker:
+          {
+            "Stefano Moia",
+            "Melvin Selim Atay",
+          },
+        speakerLink: "../page-speakers",
+        breakStatus,
+        sessionType: "Workshop",
+        slides: "",
+      }
+    - {
+        startTime: "15:00",
+        endTime: "15:30",
+        sessionTitle: "Afternoon break",
+        speaker: "",
+        speakerLink: "",
+        breakStatus: "break",
+        sessionType: "",
+        slides: "",
+      }
+    - {
+        startTime: "15:30",
+        endTime: "16:30",
+        sessionTitle: "Panel discussion: what constitutes clean, scienctific code?",
+        speaker:
+          {
+            "Felienne Hermans",
+            "Jade Abbott",
+            "Adora Nwodo",
+            "Yo Yehudi",
+            "Remi Gau",
+            "Patrick Mineault",
+          },
+        speakerLink: "../page-speakers",
+        breakStatus,
+        sessionType: "Panel",
+        slides: "",
+      }
+- date: "2021-03-25"
+  dateReadable: "Day 2: Thursday, 25<sup>th</sup> March 2021"
+  tracks:
+    - { title: "TrainTrack", color: "#90be4e" }
+    - { title: "HackTrack", color: "#03a9f4" }
+  timeSlots:
+    - {
+        startTime: "10:00",
+        endTime: "10:15",
+        sessionTitle: "Opening",
+        speaker: "OpenMR team",
+        speakerLink: "../page-team",
+        breakStatus,
+        sessionType: "Talk",
+        slides: "",
+      }
+    - {
+        startTime: "10:15",
+        endTime: "12:00",
+        sessionTitle: "Introduction to data exploration with Python, Matlab/Octave and Jupyter notebooks",
+        speaker:
+          {
+            "Stijn Denissen",
+            "To be announced",
+          },
+        speakerLink: "../page-speakers",
+        breakStatus,
+        sessionType: "Workshop",
+        slides: "",
+      }
+    - {
+        startTime: "12:00",
+        endTime: "13:00",
+        sessionTitle: "Lunch break",
+        speaker: "",
+        speakerLink: "",
+        breakStatus: "break",
+        sessionType: "",
+        slides: "",
+      }
+    - {
+        startTime: "13:00",
+        endTime: "13:45",
+        sessionTitle: "Data visualization demo",
+        speaker: "To be announced",
+        speakerLink: "../page-speakers",
+        breakStatus,
+        sessionType: "Demo",
+        slides: "",
+      }
+    - {
+        startTime: "13:45",
+        endTime: "14:00",
+        sessionTitle: "Afternoon break",
+        speaker: "",
+        speakerLink: "",
+        breakStatus: "break",
+        sessionType: "",
+        slides: "",
+      }
+    - {
+        startTime: "14:00",
+        endTime: "14:45",
+        sessionTitle: "Visualizing data interactively with Plotly and Dash",
+        speaker: "Stephan Heunis",
+        speakerLink: "../page-speakers",
+        breakStatus,
+        sessionType: "Workshop",
+        slides: "",
+      }
+    - {
+        startTime: "14:45",
+        endTime: "15:00",
+        sessionTitle: "Afternoon break",
+        speaker: "",
+        speakerLink: "",
+        breakStatus: "break",
+        sessionType: "",
+        slides: "",
+      }
+    - {
+        startTime: "15:00",
+        endTime: "16:00",
+        sessionTitle: "Unconference",
+        speaker: "You",
+        speakerLink: "",
+        breakStatus,
+        sessionType: "",
+        slides: "",
+      }
+
+- date: "2021-03-26"
+  dateReadable: "Day 3: Friday, 26<sup>th</sup> March 2021"
+  tracks:
+    - { title: "TrainTrack", color: "#90be4e" }
+    - { title: "HackTrack", color: "#03a9f4" }
+  timeSlots:
+    - {
+        startTime: "10:00",
+        endTime: "10:10",
+        speaker: "OpenMR team",
+        speakerLink: "../page-team",
+        breakStatus,
+        sessionTitle: "Opening",
+        sessionType: "Talk",
+        slides: "",
+      }
+    - {
+        startTime: "10:10",
+        endTime: "10:30",
+        speaker: "Sicco de Knecht",
+        speakerLink: "../page-speakers",
+        breakStatus,
+        sessionTitle: "Your research matters, to others",
+        sessionType: "Talk",
+        slides: "",
+      }
+    - {
+        startTime: "10:30",
+        endTime: "11:00",
+        speaker: "Sarah Leuridan",
+        speakerLink: "../page-speakers",
+        breakStatus,
+        sessionTitle: "Outreach at a university",
+        sessionType: "Talk",
+        slides: "",
+      }
+    - {
+        startTime: "11:00",
+        endTime: "11:15",
+        speaker: "",
+        speakerLink: "",
+        breakStatus: "break",
+        sessionTitle: "Morning break",
+        sessionType: "",
+        slides: "",
+      }
+    - {
+        startTime: "11:15",
+        endTime: "11:35",
+        speaker: "Simon Van Eyndhoven",
+        speakerLink: "../page-speakers",
+        breakStatus,
+        sessionTitle: "Falling Walls: summarizing your research in 3 minutes",
+        sessionType: "Demo",
+        slides: "",
+      }
+    - {
+        startTime: "11:35",
+        endTime: "11:55",
+        speaker: "Gil Costa",
+        speakerLink: "../page-speakers",
+        breakStatus,
+        sessionTitle: "Visualizing neuroscience",
+        sessionType: "Demo",
+        slides: "",
+      }
+    - {
+        startTime: "11:55",
+        endTime: "12:15",
+        speaker: "Stijn Denissen",
+        speakerLink: "../page-speakers",
+        breakStatus,
+        sessionTitle: "A paper in a song",
+        sessionType: "Demo",
+        slides: "",
+      }
+    - {
+        startTime: "12:15",
+        endTime: "12:30",
+        speaker: "To be announced",
+        speakerLink: "../page-speakers",
+        breakStatus,
+        sessionTitle: "To be announced",
+        sessionType: "Demo",
+        slides: "",
+      }
+    - {
+        startTime: "12:30",
+        endTime: "13:30",
+        speaker: "",
+        speakerLink: "",
+        breakStatus: "break",
+        sessionTitle: "Lunch break",
+        sessionType: "",
+        slides: "",
+      }
+    - {
+        startTime: "13:30",
+        endTime: "14:05",
+        speaker: { "Guillaume Corradino", "Elodie Chabrol" },
+        speakerLink: "../page-speakers",
+        breakStatus,
+        sessionTitle: "Pint of Science, Beyond Research",
+        sessionType: "Demo",
+        slides: "",
+      }
+    - {
+        startTime: "14:05",
+        endTime: "14:25",
+        speaker: "Veronika Cheplygina",
+        speakerLink: "../page-speakers",
+        breakStatus,
+        sessionTitle: "Twitter for scientists",
+        sessionType: "Demo",
+        slides: "",
+      }
+    - {
+        startTime: "14:25",
+        endTime: "14:45",
+        speaker: "Moss Zhao",
+        speakerLink: "../page-speakers",
+        breakStatus,
+        sessionTitle: "Podcasting",
+        sessionType: "Demo",
+        slides: "",
+      }
+    - {
+        startTime: "14:45",
+        endTime: "15:00",
+        speaker: "",
+        speakerLink: "",
+        breakStatus: "break",
+        sessionTitle: "Afternoon break",
+        sessionType: "",
+        slides: "",
+      }
+    - {
+        startTime: "15:00",
+        endTime: "15:45",
+        speaker: "To be announced",
+        speakerLink: "../page-speakers",
+        breakStatus,
+        sessionTitle: "Panel discussion: science communication and open science",
+        sessionType: "Panel",
+        slides: "",
+      }
+    - {
+        startTime: "15:45",
+        endTime: "16:00",
+        speaker: { "OpenMR team", "Hackathon leaders" },
+        speakerLink: "../page-team",
+        breakStatus,
+        sessionTitle: "Hackathon results & closing",
+        sessionType: "To be announced",
+        slides: "",
+      }
+    - {
+        startTime: "16:00",
+        endTime: "...",
+        speaker: "You",
+        speakerLink: "",
+        breakStatus,
+        sessionTitle: "Virtual drinks",
+        sessionType: "",
+        slides: "",
+      }

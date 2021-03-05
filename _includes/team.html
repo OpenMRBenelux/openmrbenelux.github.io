@@ -2,13 +2,15 @@
   <body>
     <section>
       <div class="container is-fluid">
-
-        <h1 class="title">Organizing committee</h1>
+        <h1 class="title" style="color: #004777">Organizing committee</h1>
 
         <div class="tile is-ancestor person">
-          <div class="tile is-vertical is-10 is-parent">
-            {% for teamMember in include.this_year_team %}
-
+          {% for loop in (0..1) %}
+          <div class="tile is-vertical is-parent">
+            <!-- switch column: nr = '4' and limit: 4 are hardcoded => to improve -->
+            {% if loop == 0 %}{% assign nr = '0' %}{% else %}{% assign nr = '4'
+            %}{% endif %} {% for teamMember in include.this_year_team limit: 4
+            offset: nr %}
             <div class="tile is-child box">
               <div class="tile is-child">
                 <!-- <a name=teamMember.linkName></a> -->
@@ -22,9 +24,7 @@
                 </button>
 
                 <div class="panel">
-                  <p>
-                    {{ teamMember.bio }}
-                  </p>
+                  <p>{{ teamMember.bio }}</p>
                 </div>
               </div>
             </div>
@@ -35,23 +35,46 @@
               </div>
              <div class="tile is-vertical is-6 is-parent">
             {% endif %}  -->
-            
+
             {% endfor %}
           </div>
+          {% endfor %}
         </div>
 
-        <img src="{{ site.baseurl }}/assets/ext_images/2020/post_separator.png" alt="horizontal separator" />
-        
+        <img
+          class="img-separator"
+          src="{{ site.baseurl }}/assets/ext_images/2020/post_separator.png"
+          alt="horizontal separator"
+        /><br />
+
+        <a href="#"
+          ><i
+            class="fas fa-arrow-alt-circle-up"
+            style="
+              position: relative;
+              top: -3px;
+              text-indent: 0px;
+              vertical-align: middle;
+              color: #004777;
+            "
+          ></i>
+        </a>
+        <br /><br />
       </div>
     </section>
 
     <section>
       <div class="container is-fluid">
-        <h1 class="title">Advisors</h1>
+        <h1 class="title" style="color: #004777">Advisors</h1>
 
         <div class="tile is-ancestor person">
-          <div class="tile is-vertical is-10 is-parent">
-            {% for advisor in include.this_year_advisors %}
+          {% for loop in (0..1) %}
+          <div class="tile is-vertical is-parent">
+            <!-- https://gist.github.com/JJediny/a466eed62cee30ad45e2 -->
+            <!-- switch column: nr = '2' and limit: 2 are hardcoded => to improve -->
+            {% if loop == 0 %}{% assign nr = '0' %}{% else %}{% assign nr = '2'
+            %}{% endif %} {% for advisor in include.this_year_advisors limit: 2
+            offset: nr %}
 
             <div class="tile is-child box">
               <div class="tile is-child">
@@ -66,18 +89,21 @@
                 </button>
 
                 <div class="panel">
-                  <p>
-                    {{ advisor.bio }}
-                  </p>
+                  <p>{{ advisor.bio }}</p>
                 </div>
               </div>
             </div>
 
             {% endfor %}
           </div>
+          {% endfor %}
         </div>
 
-        <img src="{{ site.baseurl }}/assets/ext_images/2020/post_separator.png" alt="horizontal separator" /><br>
+        <img
+          class="img-separator"
+          src="{{ site.baseurl }}/assets/ext_images/2020/post_separator.png"
+          alt="horizontal separator"
+        /><br />
 
         <a href="#"
           ><i
