@@ -16,7 +16,7 @@ show_sidebar: false
 <p><div style="text-align: justify">We will collect any information that you provide to us only when you:</div></p>
 1. <div style="text-align: justify">fill in application forms/questionnaires released by OpenMR Benelux, or when you subscribe to an event hosted by us;</div>
 2. <div style="text-align: justify">contact us with the intention of becoming an active contributor to OpenMR Benelux efforts;</div>
-3. <div style="text-align: justify">attend a virtual meeting that will be recorded by us. In this case, you will need to turn off your audio and/or video to prevent us from collecting that information during the recording.</div>
+3. <div style="text-align: justify">attend a virtual meeting that will be recorded by us. If you do not want to be recorded, you will need to turn off your audio and/or video to prevent us from collecting that information during the recording.</div>
 <p><div style="text-align: justify">We do not collect any information about you on the basis of personal correspondence through emails, or your activity on social media related to the events organized by OpenMR Benelux.</div></p>
 
 <h2 style="color:#004777"> How do we store your data? </h2>
