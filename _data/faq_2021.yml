@@ -57,7 +57,7 @@
           <br><br>
           Although many hackathon projects might involve coding, it is not necessarily the case and <b>many projects can,
           for example, be done using only Google Docs</b>. After the hackathon, you can keep collaborating to finish the project
-          and even decide to publish it depending on the predefined goals. More info <a href="http://brainhack.org/brainhack_jupyter_book/glossary.html#brainhack" target="_blank">here</a>.
+          and even decide to publish it depending on the predefined goals. More info <a href='http://brainhack.org/brainhack_jupyter_book/glossary.html#brainhack' target='_blank'>here</a>.
           <br><br>
           Have a look at the existing hackathon projects in our <a href='https://github.com/OpenMRBenelux/openmrb2021-hackathon/issues?q=is%3Aopen+is%3Aissue+label%3A%22Hackathon+Project%22' target='_blank'>hackathon repository</a>.",
       }
@@ -128,7 +128,7 @@
         answer: "An unconference is a participant-driven meeting.
           Commonly, participants present their research, project work, or any other topics of current interest
           in an informal setting to other participants. The content of an unconference is usually decided very shortly before
-          or during the meeting itself, often inspired by ongoing within-team discussions that could be of interest to the larger group (<a href="http://brainhack.org/brainhack_jupyter_book/glossary.html#unconference" target="_blank">source</a>).
+          or during the meeting itself, often inspired by ongoing within-team discussions that could be of interest to the larger group (<a href='http://brainhack.org/brainhack_jupyter_book/glossary.html#unconference' target='_blank'>source</a>).
           <br><br>
           Do you want to talk about a specific subject during the unconference session on March 25th?
           <a href='https://github.com/OpenMRBenelux/openmrb2021-hackathon/issues/new/choose' target='_blank'>Propose an unconference session</a> in our GitHub repository using the Unconference Session Template!",
