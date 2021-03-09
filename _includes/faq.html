@@ -1,0 +1,81 @@
+<html>
+  <body>
+    <section>
+      <div class="container is-fluid">
+        <h2 class="title" style="color: #004777">
+          Feel free to ask us anything, we are happy to help!
+        </h2>
+        <br />
+
+        <div class="tile is-ancestor person">
+          <div class="tile is-vertical is-parent">
+            {% for category in include.this_year_faq %}
+            <div id="{{ category.nameLink }}" class="tile is-child box">
+              <h3 class="title" style="color: #004777">
+                <span style="color: #ffd966">
+                  <i
+                    class="far fa-hand-point-down"
+                    style="font-size: 75%"
+                  ></i></span
+                >&nbsp;&nbsp;{{ category.section }}
+              </h3>
+              {% for item in category.questions %}
+              <div class="tile is-child">
+                <button class="accordion" style="font-size: 95%">
+                  <i class="far fa-question-circle"></i>
+                  &nbsp;&nbsp;{{ item.question }}
+                </button>
+                <div class="panel">
+                  <p>{{ item.answer }}</p>
+                </div>
+              </div>
+              <br />
+              {% endfor %}
+            </div>
+            <img
+              class="img-separator"
+              src="{{ site.baseurl }}/assets/ext_images/2020/post_separator.png"
+              alt="horizontal separator"
+            /><br />
+            <a href="#"
+              ><i
+                class="fas fa-arrow-alt-circle-up"
+                style="
+                  position: relative;
+                  top: -3px;
+                  text-indent: 0px;
+                  vertical-align: middle;
+                  color: #004777;
+                "
+              ></i>
+            </a>
+            <br />
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- same script as on team page => can we optimize this by transferring out the script code for accordions in both html files to some place else instead of duplicating it? -->
+    <script>
+      var acc = document.getElementsByClassName("accordion");
+      var i;
+
+      for (i = 0; i < acc.length; i++) {
+        acc[i].addEventListener("click", function () {
+          /* Toggle between adding and removing the "active" class,
+        to highlight the button that controls the panel */
+          this.classList.toggle("active");
+
+          /* Toggle between hiding and showing the active panel */
+          var panel = this.nextElementSibling;
+          if (panel.style.display === "block") {
+            panel.style.display = "none";
+          } else {
+            panel.style.display = "block";
+          }
+        });
+      }
+    </script>
+  </body>
+</html>

@@ -1,0 +1,145 @@
+- section: "General"
+  nameLink: "general"
+  questions:
+    - {
+        question: "What is OpenMR?",
+        answer: "OpenMR is a conference about open MRI science.
+          We aim to learn, speak up, develop, and discuss open (MRI) science practices.
+          OpenMR makes use of the <a href='http://brainhack.org/brainhack_jupyter_book/' target='_blank'>Brainhack format</a>
+          and consists of two parallel tracks that run over three days:
+          <ul><li><b>TrainTrack</b>: talks and workshops that will help you learn new skills</li>
+          <li><b>HackTrack</b>: where you can work together on self-initiated hackathon projects for the duration of the conference</li></ul>",
+      }
+    - {
+        question: "Who is OpenMR for?",
+        answer:
+          "Everyone who is interested in open science and/or MRI is welcome to join,
+          whether you’re a student, PhD researcher, Principle Investigator, or industry professional.",
+      }
+    - {
+        question: "Is OpenMR Virtual 2021 completely free of charge?",
+        answer:
+          "Yes, it sure is! You can also apply for a mini-grant (part of the <a href='../page-registration/#registration' target='_blank'>registration form</a>)
+          in case you need it to attend.",
+      }
+    - {
+        question: "What do I need to do to join the event?",
+        answer:
+          "A computer with stable internet connection that can handle video conferencing and text chat.
+          In addition, all attendees have to <a href='../page-registration/' target='_blank'>register</a> and agree to adhere to
+          our <a href='../../page-code-of-conduct/' target='_blank'>Code of Conduct</a> and <a href='../../privacy-policy/' target='_blank'>Privacy Policy</a>.",
+      }
+    - {
+        question: "I cannot make it on March 24th - 26th. Will the materials be made available after the event?",
+        answer:
+          "Yes! We aim to record all TrainTrack talks and workshops and will post them on our
+          <a href='https://www.youtube.com/channel/UCHF85C2YjCEJ7LsS0vz-RXQ' target='_blank'>YouTube channel</a> after the event (see our <a href='../../privacy-policy/' target='_blank'>Privacy Policy</a>).
+          If speakers agree, we will also include the links to their materials on <a href='../page-content/'>our website</a>.",
+      }
+- section: "TrainTrack & HackTrack"
+  nameLink: "train+hacktrack"
+  questions:
+    - {
+        question: "Can I switch between the TrainTrack and the HackTrack?",
+        answer:
+          "Of course! You are completely free to follow whichever program components you want.
+          That includes switching back and forth between the TrainTrack workshops and the HackTrack projects.",
+      }
+    - {
+        question: "What is a hackathon?",
+        answer:
+          "The word hackathon is a portmanteau of 'hacking' and 'marathon'.
+          A hackathon is an event in which you can intensively (marathon; in this case, three consequent days)
+          and <b>collaboratively work on a project</b> (hacking; proposed by you or someone else).
+          Thus, hackathons are different from typical academic conference sessions, because you will be actively trying to accomplish
+          something rather than merely attending. As a rule of thumb, think of hackathon attendees as saying 'I am here to help'
+          and of a hackathon project leader telling them 'here's what you can do to help'.
+          <br><br>
+          Although many hackathon projects might involve coding, it is not necessarily the case and <b>many projects can,
+          for example, be done using only Google Docs</b>. After the hackathon, you can keep collaborating to finish the project
+          and even decide to publish it depending on the predefined goals. More info <a href="http://brainhack.org/brainhack_jupyter_book/glossary.html#brainhack" target="_blank">here</a>.
+          <br><br>
+          Have a look at the existing hackathon projects in our <a href='https://github.com/OpenMRBenelux/openmrb2021-hackathon/issues?q=is%3Aopen+is%3Aissue+label%3A%22Hackathon+Project%22' target='_blank'>hackathon repository</a>.",
+      }
+    - {
+        question: "How do I find a hackathon project to join?",
+        answer:
+          "Have a look at the existing hackathon projects in our <a href='https://github.com/OpenMRBenelux/openmrb2021-hackathon/issues?q=is%3Aopen+is%3Aissue+label%3A%22Hackathon+Project%22' target='_blank'>hackathon repository</a>.
+          All proposed projects can be seen in the '<a href='https://github.com/OpenMRBenelux/openmrb2021-hackathon/issues?q=is%3Aopen+is%3Aissue+label%3A%22Hackathon+Project%22' target='_blank'>Issues section</a>',
+          along with labels that indicate which skills are needed to join that project (click on a label to filter for projects
+          with that label) and ways how you can help. All hackathon project leaders will also pitch their ideas on
+          the first day of the event to make it easier for you to choose.
+          <br><br>
+          If you want to join a project, you can:
+          <ul><li>leave a comment below the project Issue. This way, the hackathon project leader will know how many people are
+          interested to join. In order to be able to leave a comment, you first need to <a href='https://github.com/join' target='_blank'>create a GitHub account</a>.</li>
+          <li>let the hackathon project leader know via text message (we are currently setting up Discord and will share the link here as soon as possible).</li></ul>
+
+          If you have other things in mind you want to work on, you can also propose a hackathon project yourself!",
+      }
+    - {
+        question: "How do I propose a hackathon project?",
+        answer:
+          "<ol><li>Think of the goal of your project. For example: do you want to improve existing materials, compare methods,
+          create a software package, create documentation for a tool, etc.? For inspiration and ideas, have a look at previous projects,
+          for example:</li>
+          <ul><li>From <a href='https://github.com/OpenMRBenelux/openmrb2020-hackathon/labels/Hackathon%20Project' target='_blank'>last year’s OpenMR Benelux</a></li>
+          <li>From the <a href='https://ohbm.github.io/hackathon2020/hacktrack/' target='_blank'>OHBM Hackathon 2020</a></li>
+          <li>From <a href='https://brainhack.org/global2020/projects/' target='_blank'>Brainhack Global 2020</a></li></ul>
+          <li>Go to our <a href='https://github.com/OpenMRBenelux/openmrb2021-hackathon/' target='_blank'>hackathon repository</a>.</li>
+          <li>In the repository, create a <a href='https://github.com/OpenMRBenelux/openmrb2021-hackathon/issues/new/choose' target='_blank'>new Issue</a> → Get Started with the Hackathon Project Template.
+          Fill out the Project Template as far as possible, so that your future collaborators can make a well-informed decision on
+          how they can help you.</li>
+          <li>The OpenMR team will give your project the relevant labels and may ask you to clarify your project a bit more.</li>
+          <li>Congratulations, you are a hackathon project leader now!</li></ol>
+
+          If you are still uncertain about this process or have any other questions, please create a new (no template) Issue. We'll do our best to respond as quickly as possible!
+          <br><br>
+          We will ask all hackathon project leaders to pitch their project in a few minutes on the first day of the event. This way, all attendees get a nice overview of which projects they can join.",
+      }
+    - {
+        question: "What can I do to ensure a good hackathon project?",
+        answer:
+          "You are free to lead your project in any way you feel comfortable.<br>
+          Here are some additional tips:
+          <ul><li>Preparation:</li>
+          <ul><li>Have a clear (concrete) goal in mind: what would you like to achieve during the event?
+          If applicable, you can even define subgoals to keep everyone motivated and to plan for uncertainty.</li>
+          <li>Make explicit what you expect from collaborators: do they need specific skills or knowledge?</li>
+          <li>Think about how you are going to work together and prepare for it,
+          for example via Google Documents, GitHub, Discord, Open Science Framework, HackMD, etc.</li></ul>
+          <li>During the event:</li>
+          <ul><li>Don’t assume people know more or less than you. You never know who is going to be interested in your project.</li>
+          <li>Provide an introduction to your project at the start of the project.</li>
+          <li>Get to know each other: how can and does everyone want to contribute? What skills does everyone have?</li>
+          <li>If your group is large enough, divide tasks so that everyone can contribute in their own way.</li>
+          <li>Have an open mind: others may have ideas you hadn’t thought of yet!</li>
+          <li>Remind everyone that swapping groups or leaving is ok and encouraged.
+          This is all about getting the most about people’s enthusiasm; having people feel like they have to stay can kill that.</li></ul>
+          <li>After the event:</li>
+          <ul><li>Acknowledge and thank everyone for their contribution to the project!</li>
+          <li>Try to organize any materials that you want to share with others before ending the project,
+          so your precious work doesn’t get lost!</li>
+          <li>You are free to continue the project after the event. If you want to keep collaborating,
+          make sure you have each other’s contact details!</li></ul></ul>",
+      }
+    - {
+        question: "What is an 'unconference'?",
+        answer: "An unconference is a participant-driven meeting.
+          Commonly, participants present their research, project work, or any other topics of current interest
+          in an informal setting to other participants. The content of an unconference is usually decided very shortly before
+          or during the meeting itself, often inspired by ongoing within-team discussions that could be of interest to the larger group (<a href="http://brainhack.org/brainhack_jupyter_book/glossary.html#unconference" target="_blank">source</a>).
+          <br><br>
+          Do you want to talk about a specific subject during the unconference session on March 25th?
+          <a href='https://github.com/OpenMRBenelux/openmrb2021-hackathon/issues/new/choose' target='_blank'>Propose an unconference session</a> in our GitHub repository using the Unconference Session Template!",
+      }
+- section: "I have another question"
+  nameLink: "other"
+  questions:
+    - {
+        question: "What should I do?",
+        answer:
+          "Feel free to ask us anything, we are happy to help. You can contact us via:
+          <ul><li>the ways listed on our <a href='../../page-contact/' target='_blank'>Contact page</a>.</li>
+          <li>a message on <a href='https://twitter.com/openmrbenelux' target='_blank'>Twitter</a>.</li></ul>",
+      }

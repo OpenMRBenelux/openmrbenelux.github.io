@@ -15,7 +15,8 @@ show_sidebar: false
 <h2 style="color:#004777"> When do we collect information about you? </h2>
 <p><div style="text-align: justify">We will collect any information that you provide to us only when you:</div></p>
 1. <div style="text-align: justify">fill in application forms/questionnaires released by OpenMR Benelux, or when you subscribe to an event hosted by us;</div>
-2. <div style="text-align: justify">contact us with the intention of becoming an active contributor to OpenMR Benelux efforts.</div>
+2. <div style="text-align: justify">contact us with the intention of becoming an active contributor to OpenMR Benelux efforts;</div>
+3. <div style="text-align: justify">attend a virtual meeting that will be recorded by us. If you do not want to be recorded, you will need to turn off your audio and/or video to prevent us from collecting that information during the recording.</div>
 <p><div style="text-align: justify">We do not collect any information about you on the basis of personal correspondence through emails, or your activity on social media related to the events organized by OpenMR Benelux.</div></p>
 
 <h2 style="color:#004777"> How do we store your data? </h2>
@@ -25,10 +26,11 @@ show_sidebar: false
 <p><div style="text-align: justify">The information we collect about you:</div></p>
 1. <div style="text-align: justify">name, contact information, affiliation, academic title, years of experience in research and/or industry;</div>
 2. <div style="text-align: justify"> survey data;</div>
-3. <div style="text-align: justify">personal details relevant for events, such as dietary requirements.</div>
+3. <div style="text-align: justify">personal details relevant for events, such as dietary requirements;</div>
+4. <div style="text-align: justify">audio or video material of yourself, but only if you disclose those during a recorded virtual meeting.</div>
 
 <h3 style="color:#004777"><i class="fas fa-info-circle" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:#004777"></i>&nbsp;&nbsp; Sensitive personal data </h3>
-<p><div style="text-align: justify">“Special categories” of particularly sensitive personal information (“Sensitive Personal Data”) require higher levels of protection. Such Sensitive Personal Data includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data. In addition, details about criminal convictions and offenses are also subject to higher levels of protection. At the moment, we do not collect any Sensitive Personal Data.</div></p>
+<p><div style="text-align: justify">“Special categories” of particularly sensitive personal information (“Sensitive Personal Data”) require higher levels of protection. Such Sensitive Personal Data includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data. In addition, details about criminal convictions and offenses are also subject to higher levels of protection. <br> At the moment, we do not collect any Sensitive Personal Data.</div></p>
 
 <h3 style="color:#004777"><i class="fas fa-info-circle" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:#004777"></i>&nbsp;&nbsp; Information we receive from third parties </h3>
 <p><div style="text-align: justify">We do not reach out to any third parties (including your academic or professional institution) with respect to your personal data. If your application form is incomplete, we will contact you personally in order to fill in the gaps.</div></p>
@@ -37,6 +39,7 @@ show_sidebar: false
 1.  <div style="text-align: justify">If you fill in open questions in the surveys/questionnaires in order to give us personal feedback, we might further contact you in order to get more information. This information may then be used with a purpose of improving the quality of OpenMR Benelux initiatives, or to invite you to events organized by OpenMR Benelux.</div>
 2.  <div style="text-align: justify">The summarized, anonymized statistics can also potentially be used to create open-access materials to be shared at our websites. This is a non-commercial activity, for informative purposes only, and aims at improving visibility of OpenMR Benelux activities.</div>
 3.  <div style="text-align: justify">If you deliver specific personal information such as dietary requirements while assigning for events, this can be used to better serve you at our events.</div>
+4.  <div style="text-align: justify">If you disclose personal information during a recorded meeting (e.g., via video or audio), we will try to make sure to delete those as much as possible before we make the recording publicly available. To prevent such personal details to be published online without your permission, we advise you to turn off your camera and microphone during such recordings. If you feel that we did not remove your personal details sufficiently, please reach out to us.</div>
 
 <h2 style="color:#004777"> Whom we might share your information with? </h2>
 <p><div style="text-align: justify">We do not share your information with any third parties. In case we would like to do this in the future, we will ask for your personal consent.</div></p>

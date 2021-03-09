@@ -7,7 +7,7 @@ show_sidebar: false
 #hero_image: assets/ext_images/home_logo.png
 ---
 
-## <span style="color:#ffd966"> <i class="far fa-hand-point-down"></i> </span><span style="color:#004777"> &nbsp;&nbsp;<a href="#registration">Registration</a> is now open!&nbsp;&nbsp; </span><span style="color:#ffd966"> <i class="far fa-hand-point-down"></i> </span>
+## <span style="color:#ffd966"> <i class="far fa-hand-point-down" style="font-size: 75%"></i> </span><span style="color:#004777"> &nbsp;&nbsp;<a href="#registration">Registration</a> is now open!&nbsp;&nbsp; </span><span style="color:#ffd966"> <i class="far fa-hand-point-down" style="font-size: 75%"></i> </span>
 
 <p><div style="text-align: justify">OpenMR Virtual 2021 is an unconference- and hackathon-style event focusing on inclusive, transparent, and reproducible science in the field of Magnetic Resonance Imaging. It spans three days of talks, discussions, workshops, demos, and hackathons. <b>Please refer to the detailed <a href="../page-program"><b>Program Page</b></a> for more information about these activities.</b></div></p>
 

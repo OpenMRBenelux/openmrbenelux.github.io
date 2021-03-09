@@ -15,7 +15,7 @@ show_sidebar: false
 
 <img class="img1" style="float: right;" src="../../assets/ext_images/2020/interaction.jpg" width="560" height="560" vspace="10px" hspace="20px">
 
- <p align=" justify">OpenMR Virtual 2021 runs over 3 days and consists of two parallel tracks:</p>
+ <p align=" justify">OpenMR Virtual 2021 runs over three days and consists of two parallel tracks:</p>
  <ul>
     <li>A <b style="color:#004777">TrainTrack</b>, consisting of talks and workshops that will help you learn new skills in:
         <ol>
