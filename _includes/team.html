@@ -2,15 +2,26 @@
   <body>
     <section>
       <div class="container is-fluid">
-        <h2 class="title" style="color: #004777">Organizing committee</h2>
+        {% for team in include.this_year_team %}
+        <h2 class="title" style="color: #004777">{{ team.section }}</h2>
 
         <div class="tile is-ancestor person">
+          <!-- two columns -->
           {% for loop in (0..1) %}
           <div class="tile is-vertical is-parent">
-            <!-- switch column: nr = '4' and limit: 4 are hardcoded => to improve -->
-            {% if loop == 0 %}{% assign nr = '0' %}{% else %}{% assign nr = '4'
-            %}{% endif %} {% for teamMember in include.this_year_team limit: 4
-            offset: nr %}
+            <!-- https://gist.github.com/JJediny/a466eed62cee30ad45e2 -->
+            <!-- limit (tiles per column) and offset (start column with that nr) are hardcoded => to improve -->
+            <!-- hardcode lim (> limit) -->
+            {% if team.section == "Organizing committee" %}{% assign lim = '4'
+            %}{% elsif team.section == "Advisors" %} {% assign lim = '2' %}{%
+            endif %}
+            <!-- hardcode nr (> offset) -->
+            {% if loop == 0 %}{% assign nr = '0' %}{% elsif loop == 1 and
+            team.section == "Organizing committee" %}{% assign nr = '4' %}{%
+            elsif loop == 1 and team.section == "Advisors" %}{% assign nr = '2'
+            %}{% endif %}
+            <!-- start for loop -->
+            {% for teamMember in team.members limit: lim offset: nr %}
             <div class="tile is-child box">
               <div class="tile is-child">
                 <!-- <a name=teamMember.linkName></a> -->
@@ -28,14 +39,6 @@
                 </div>
               </div>
             </div>
-
-            <!-- Switch column -->
-            <!-- TODO: The 3 here is hard coded and should improved -->
-            <!-- {% if forloop.index == 3 %}
-              </div>
-             <div class="tile is-vertical is-6 is-parent">
-            {% endif %}  -->
-
             {% endfor %}
           </div>
           {% endfor %}
@@ -46,7 +49,6 @@
           src="{{ site.baseurl }}/assets/ext_images/2020/post_separator.png"
           alt="horizontal separator"
         /><br />
-
         <a href="#"
           ><i
             class="fas fa-arrow-alt-circle-up"
@@ -60,63 +62,7 @@
           ></i>
         </a>
         <br /><br />
-      </div>
-    </section>
-
-    <section>
-      <div class="container is-fluid">
-        <h2 class="title" style="color: #004777">Advisors</h2>
-
-        <div class="tile is-ancestor person">
-          {% for loop in (0..1) %}
-          <div class="tile is-vertical is-parent">
-            <!-- https://gist.github.com/JJediny/a466eed62cee30ad45e2 -->
-            <!-- switch column: nr = '2' and limit: 2 are hardcoded => to improve -->
-            {% if loop == 0 %}{% assign nr = '0' %}{% else %}{% assign nr = '2'
-            %}{% endif %} {% for advisor in include.this_year_advisors limit: 2
-            offset: nr %}
-
-            <div class="tile is-child box">
-              <div class="tile is-child">
-                <!-- <a name=teamMember.linkName></a> -->
-                {% include speaker-card.html data=advisor%}
-              </div>
-
-              <div class="tile is-child">
-                <button class="accordion">
-                  <i class="fas fa-id-card"></i>
-                  &nbsp;&nbsp;Bio
-                </button>
-
-                <div class="panel">
-                  <p>{{ advisor.bio }}</p>
-                </div>
-              </div>
-            </div>
-
-            {% endfor %}
-          </div>
-          {% endfor %}
-        </div>
-
-        <img
-          class="img-separator"
-          src="{{ site.baseurl }}/assets/ext_images/2020/post_separator.png"
-          alt="horizontal separator"
-        /><br />
-
-        <a href="#"
-          ><i
-            class="fas fa-arrow-alt-circle-up"
-            style="
-              position: relative;
-              top: -3px;
-              text-indent: 0px;
-              vertical-align: middle;
-              color: #004777;
-            "
-          ></i
-        ></a>
+        {% endfor %}
       </div>
     </section>
 
