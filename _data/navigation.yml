@@ -18,8 +18,15 @@
       link: /2020/page-openmrb-2020/
     - name: OpenMR Benelux 2019
       link: /2019/page-openmrb-2019/
-- name: <i class="fas fa-pencil-ruler"></i>&nbsp;&nbsp;Code of Conduct
-  link: /page-code-of-conduct/
+- name: <i class="far fa-question-circle"></i>&nbsp;&nbsp;FAQ
+  link: /2021/page-faq/
+  dropdown:
+    - name: I have a general question!
+      link: /2021/page-faq/#general
+    - name: I have a question about the TrainTrack & HackTrack!
+      link: /2021/page-faq/#train+hacktrack
+    - name: I have another question!
+      link: /2021/page-faq/#other
 - name: <i class="fas fa-users"></i>&nbsp;&nbsp;Meet the team
   link: /2021/page-team/
 - name: <i class="fas fa-envelope-square"></i>&nbsp;&nbsp;Contact
