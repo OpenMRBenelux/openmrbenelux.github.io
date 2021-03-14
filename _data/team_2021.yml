@@ -1,80 +1,145 @@
-- affiliation: "Eindhoven University of Technology"
-  bio: "Stephan is a biomedical engineer from Stellenbosch, South Africa, where he worked in industry before moving to Europe with the goal of studying in the field of neuroscience. He is currently finishing up his PhD in real-time fMRI methods development and validation. He is passionate about making research and scientific practice more transparent, rigorous and inclusive. He started the Open Science Community Eindhoven, which is part of a wide Dutch network of researchers and university employees that works on improving the way we do science, and he is the founder of OpenMR Benelux, a community working on wider adoption of open science principles in MRI research through talks, discussions, workshops and hackathons."
-  city: "Eindhoven, The Netherlands"
-  git: "https://github.com/jsheunis/"
-  homepage: "https://jsheunis.github.io/"
-  image: stephan.png
-  linkName: stephan
-  name: "Stephan Heunis (He/him)"
-  researchgate: "https://www.researchgate.net/profile/Stephan_Heunis2"
-  twitter: "https://www.twitter.com/fmrwhy"
-- affiliation: "AIMS lab, Center for Neurosciences, UZ Brussel, Vrije Universiteit Brussel"
-  bio: "I was trained as a neurological rehabilitation scientist at the KU Leuven, after which I started my PhD in medical sciences, applying artificial intelligence (AI) to the field of neurosciences. More specifically, I explore predictive models that could ultimately predict the future disease course of persons suffering from Multiple Sclerosis. Besides the content of my PhD, I am highly passionate about the idea of open and reproducible science, as well as the crystal-clear science communication of research to laymen. For the latter, I release the musician in me to the papers I write or encounter, turning them in songs that are understandable to anyone interested."
-  city: "Brussels, Belgium"
-  git: "https://github.com/Sdniss"
-  homepage: "https://www.linkedin.com/in/stijndenissen/"
-  image: stijn.jpg
-  linkName: stijn
-  name: "Stijn Denissen"
-  researchgate: ~
-  twitter: "https://www.twitter.com/DenissenStijn"
-- affiliation: "Department of Data Analysis, Faculty of Psychology and Educational Sciences, Ghent University"
-  bio: 'Sofie is currently doing a PhD at the Department of Data Analysis (Ghent University, Ghent, Belgium), supervised by Prof. Dr. Daniele Marinazzo. Her research focuses on the intertwined domains of (resting-state) neuroscience and lateralization/handedness. During her PhD, she has also been involved in Open Science events, either as part of the organizing committee (BrainHack Ghent  <a href="https://brainhackghent.wixsite.com/brainhackghent/submitted-projects">2017</a>, <a href="https://brainhackghent.github.io/">2018</a> and <a href="http://www.brainhack.org/global2019/">Brainhack Global 2019</a>) or as a volunteer (e.g. Pint of Science, Ghent). Creating an Open Science community and communicating Open Science to a broader public is something she wants to be progressively involved in.'
-  city: "Ghent, Belgium"
-  git: "https://github.com/sofievdbos"
-  homepage: ~
-  image: sofie.png
-  linkName: sofie
-  name: "Sofie Van Den Bossche (She/her)"
-  researchgate: "https://www.researchgate.net/profile/Sofie_Van_Den_Bossche2"
-  twitter: "https://www.twitter.com/sofie_vdbos"
-- affiliation: "Crossmodal Perception and Plasticity laboratory - Université Catholique de Louvain"
-  bio: "Remi is a postdoctoral fellow in the Crossmodal Perception and Plasticity laboratory (CPP-Lab) at  the Université catholique de Louvain. His work focuses on the multisensory aspects of perception and he uses high-resolution MRI to address these questions. He sees in open science a way to a) build a more inclusive research community based on cooperation rather than competition and b) addresses some of the replicability and reproducibility issues that are affecting many areas of science."
-  city: "Louvain-la-Neuve, Belgium"
-  git: "https://github.com/Remi-Gau"
-  homepage: "https://remi-gau.github.io/"
-  image: remi.png
-  linkName: remi
-  name: "Remi Gau (He/him)"
-  researchgate: "https://www.researchgate.net/profile/Remi_Gau"
-  twitter: "https://www.twitter.com/RemiGau"
-- affiliation: "Ghent University"
-  bio: "I am a PhD researcher at the department of Diagnostic Sciences at the university of Ghent. My research focuses on the development of a framework for the personalized use of brain perfusion measurements with Arterial Spin Labeling in the early diagnosis of neurodegenerative disorders."
-  city: "Ghent, Belgium"
-  git: "https://github.com/SoetkinB"
-  homepage: ~
-  image: soetkin.jpeg
-  linkName: soetkin
-  name: "Soetkin Beun (She/her)"
-  researchgate: ~
-  twitter: "https://www.twitter.com/Soetkin_Beun"
-- affiliation: "Erasmus University Rotterdam & Leiden University"
-  bio: Dorien is lab and data manager at the <a href="http://erasmus-synclab.nl/">Society, Youth and Neuroscience Connected (SYNC) lab</a> at Erasmus University Rotterdam, the Netherlands. As lab manager, she works closely with lab members and coordinates lab-wide projects, among which citizen science projects. As data manager, she takes care of data management (e.g., data structure, privacy issues, long-term access) and fosters open science initiatives in the lab, university-wide and sometimes even outside of the university walls. At Leiden University, Dorien is involved as a data manager in a large longitudinal <a href="https://www.universiteitleiden.nl/en/research/research-projects/social-and-behavioural-sciences/leiden-consortium-on-individual-development-l-cid">twin study</a>.
-  city: "Rotterdam & Leiden, the Netherlands"
-  git: "https://github.com/DorienHuijser"
-  homepage: "https://erasmus-synclab.nl/"
-  image: dorien.jpg
-  linkName: dorien
-  name: "Dorien Huijser (She/her)"
-  researchgate: ~
-  twitter: "https://www.twitter.com/DorienHuijser"
-- affiliation: "Uniklinik Aachen"
-  bio: "MRI researcher in radiology and open-science enthusiast. Always eager to engage with the community and learn new technology."
-  city: "Aachen, Germany"
-  git: "https://github.com/MRIjumbo"
-  homepage: ~
-  image: dhaval.jpg
-  linkName: Dhaval
-  name: "Dhaval Shah"
-  researchgate: ~
-  twitter: ~
-- affiliation: ~
-  bio: "You are amazing!"
-  city: "Anywhere on earth"
-  git: ~
-  homepage: ~
-  image: you.png
-  linkName: you
-  name: "You in 2022?"
-  researchgate: ~
-  twitter: ~
+# members:
+# - name:
+#   linkName:
+#   image:
+#   homepage:
+#   affiliation:
+#   city:
+#   twitter:
+#   git:
+#   researchgate:
+#   bio:
+
+- section: "Organizing committee"
+  members:
+    - name: "Stephan Heunis (He/him)"
+      linkName: "stephan"
+      image: "stephan.png"
+      homepage: "https://jsheunis.github.io/"
+      affiliation: "Eindhoven University of Technology"
+      city: "Eindhoven, The Netherlands"
+      twitter: "https://www.twitter.com/fmrwhy"
+      git: "https://github.com/jsheunis/"
+      researchgate: "https://www.researchgate.net/profile/Stephan_Heunis2"
+      bio: "Stephan is a biomedical engineer from Stellenbosch, South Africa, where he worked in industry before moving to Europe with the goal of studying in the field of neuroscience. He is currently finishing up his PhD in real-time fMRI methods development and validation. He is passionate about making research and scientific practice more transparent, rigorous and inclusive. He started the Open Science Community Eindhoven, which is part of a wide Dutch network of researchers and university employees that works on improving the way we do science, and he is the founder of OpenMR Benelux, a community working on wider adoption of open science principles in MRI research through talks, discussions, workshops and hackathons."
+    - name: "Stijn Denissen"
+      linkName: "stijn"
+      image: "stijn.jpg"
+      homepage: "https://www.linkedin.com/in/stijndenissen/"
+      affiliation: "AIMS lab, Center for Neurosciences, UZ Brussel, Vrije Universiteit Brussel"
+      city: "Brussels, Belgium"
+      twitter: "https://www.twitter.com/DenissenStijn"
+      git: "https://github.com/Sdniss"
+      researchgate: ~
+      bio: "I was trained as a neurological rehabilitation scientist at the KU Leuven, after which I started my PhD in medical sciences, applying artificial intelligence (AI) to the field of neurosciences. More specifically, I explore predictive models that could ultimately predict the future disease course of persons suffering from Multiple Sclerosis. Besides the content of my PhD, I am highly passionate about the idea of open and reproducible science, as well as the crystal-clear science communication of research to laymen. For the latter, I release the musician in me to the papers I write or encounter, turning them in songs that are understandable to anyone interested."
+    - name: "Sofie Van Den Bossche (She/her)"
+      linkName: "sofie"
+      image: "sofie.png"
+      homepage: "https://www.linkedin.com/in/sofie-van-den-bossche-bb6592113/"
+      affiliation: "Department of Data Analysis, Faculty of Psychology and Educational Sciences, Ghent University"
+      city: "Ghent, Belgium"
+      twitter: "https://www.twitter.com/sofie_vdbos"
+      git: "https://github.com/sofievdbos"
+      researchgate: "https://www.researchgate.net/profile/Sofie_Van_Den_Bossche2"
+      bio: 'Sofie is currently doing a PhD at the Department of Data Analysis (Ghent University, Ghent, Belgium), supervised by Prof. Dr. Daniele Marinazzo. Her research focuses on the intertwined domains of (resting-state) neuroscience and lateralization/handedness. During her PhD, she has also been involved in Open Science events, either as part of the organizing committee (BrainHack Ghent  <a href="https://brainhackghent.wixsite.com/brainhackghent" target="_blank">2017</a>, <a href="https://brainhackghent.github.io/" target="_blank">2018</a> and <a href="http://www.brainhack.org/global2019/">Brainhack Global 2019</a>) or as a volunteer (e.g. Pint of Science, Ghent). Creating an Open Science community and communicating Open Science to a broader public is something she wants to be progressively involved in.'
+    - name: "Remi Gau (He/him)"
+      linkName: "remi"
+      image: "remi.png"
+      homepage: "https://remi-gau.github.io/"
+      affiliation: "Crossmodal Perception and Plasticity laboratory - Université Catholique de Louvain"
+      city: "Louvain-la-Neuve, Belgium"
+      twitter: "https://www.twitter.com/RemiGau"
+      git: "https://github.com/Remi-Gau"
+      researchgate: "https://www.researchgate.net/profile/Remi_Gau"
+      bio: "Remi is a postdoctoral fellow in the Crossmodal Perception and Plasticity laboratory (CPP-Lab) at  the Université catholique de Louvain. His work focuses on the multisensory aspects of perception and he uses high-resolution MRI to address these questions. He sees in open science a way to a) build a more inclusive research community based on cooperation rather than competition and b) addresses some of the replicability and reproducibility issues that are affecting many areas of science."
+    - name: "Soetkin Beun (She/her)"
+      linkName: "soetkin"
+      image: "soetkin.jpeg"
+      homepage: ~
+      affiliation: "Ghent University"
+      city: "Ghent, Belgium"
+      twitter: "https://www.twitter.com/Soetkin_Beun"
+      git: "https://github.com/SoetkinB"
+      researchgate: ~
+      bio: "I am a PhD researcher at the department of Diagnostic Sciences at the university of Ghent. My research focuses on the development of a framework for the personalized use of brain perfusion measurements with Arterial Spin Labeling in the early diagnosis of neurodegenerative disorders."
+    - name: "Dorien Huijser (She/her)"
+      linkName: "dorien"
+      image: "dorien.jpg"
+      homepage: "https://erasmus-synclab.nl/"
+      affiliation: "Erasmus University Rotterdam & Leiden University"
+      city: "Rotterdam & Leiden, the Netherlands"
+      twitter: "https://www.twitter.com/DorienHuijser"
+      git: "https://github.com/DorienHuijser"
+      researchgate: ~
+      bio: 'Dorien is lab and data manager at the <a href="http://erasmus-synclab.nl/" target="_blank">Society, Youth and Neuroscience Connected (SYNC) lab</a> at Erasmus University Rotterdam, the Netherlands. As lab manager, she works closely with lab members and coordinates lab-wide projects, among which citizen science projects. As data manager, she takes care of data management (e.g., data structure, privacy issues, long-term access) and fosters open science initiatives in the lab, university-wide and sometimes even outside of the university walls. At Leiden University, Dorien is involved as a data manager in a large longitudinal <a href="https://www.universiteitleiden.nl/en/research/research-projects/social-and-behavioural-sciences/leiden-consortium-on-individual-development-l-cid" target="_blank">twin study</a>.'
+    - name: "Dhaval Shah"
+      linkName: "dhaval"
+      image: "dhaval.jpg"
+      homepage: ~
+      affiliation: "Uniklinik Aachen"
+      city: "Aachen, Germany"
+      twitter: ~
+      git: "https://github.com/MRIjumbo"
+      researchgate: ~
+      bio: "MRI researcher in radiology and open-science enthusiast. Always eager to engage with the community and learn new technology."
+    - name: "You in 2022?"
+      linkName: "you_team"
+      image: "you.png"
+      homepage: ~
+      affiliation: ~
+      city: "Anywhere on earth"
+      twitter: ~
+      git: ~
+      researchgate: ~
+      bio: "You are amazing!"
+
+- section: "Advisors"
+  members:
+    - name: "Daniele Marinazzo"
+      linkName: "daniele"
+      image: "daniele.png"
+      homepage: "http://users.ugent.be/~dmarinaz/"
+      affiliation: "Department of Data Analysis, Faculty of Psychology and Educational Sciences, Ghent University"
+      city: "Ghent, Belgium"
+      twitter: "https://twitter.com/dan_marinazzo"
+      git: "https://github.com/danielemarinazzo"
+      researchgate: "https://www.researchgate.net/profile/Daniele_Marinazzo"
+      bio: 'Daniele Marinazzo is an associate professor in the Department of Data Analysis of the Faculty of Psychology and Educational Sciences at Ghent University. His team focuses on methodological and computational aspects of neuroscience research, and on the dynamical networks subserving function, as well as thorough statistical validation of the results. They develop new techniques for inferring connectivity architectures from the dynamics of the recorded data, in challenging cases of short, noisy and redundant time series, as those encountered in neuroimaging. Daniele cares about open science and ways to improve the review/editorial process. He is an editor at several journals in his field, including PLOS Computational Biology, PLOS One, NeuroImage, Brain Topography, Network Neuroscience. Visit Daniele’s <a href="https://publons.com/researcher/663417/daniele-marinazzo" target="_blank">Publons review profile</a> for more.'
+    - name: "Natalia Bielczyk"
+      linkName: "natalia"
+      image: "natalia.png"
+      homepage: "https://www.nataliabielczyk.com/"
+      affiliation:
+        - "Founder, Director
+          and Chairperson Stichting Solaris Onderzoek en Ontwikkeling"
+        - "eLife Associate"
+        - "Career Development and Mentoring Manager Organization for Human
+          Brain Mapping"
+      city:
+      twitter: "https://www.twitter.com/nbielczyk_neuro"
+      git:
+      researchgate: "https://www.researchgate.net/profile/Natalia_Bielczyk2"
+      bio: 'Natalia Bielczyk has a background in Physics, Mathematics and Psychology (3 x MSc), obtained at the College of Interfaculty Studies in Mathematics and Natural Sciences, University of Warsaw. She is now completing her thesis within the Donders Graduate School, Donders Institute for Brain, Cognition and Behavior, Nijmegen, the Netherlands. Her research concerns developing new methods for connectomics in the domain of cognitive neuroimaging, i.e. for functional and effective connectivity research. Natalia also currently holds a position of a Career Development and Mentoring Manager within the <a href="https://www.ohbmtrainees.com/" target="_blank"> Organization for Human Brain Mapping Student and Postdoc Special Interest Group</a>, and serves as an eLife Associate within the <a href="https://elifesciences.org/inside-elife/a946c355/elife-community-ambassadors-243-volunteers-join-the-programme-in-2019" target="_blank"> eLife Ambassadors community</a>. In private, she is also a dedicated <a href="https://www.nataliabielczyk.com/" target="_blank">blogger</a>, and a speaker, giving workshops and talks about self-development in academia and transitions to industry. In November 2018, she founded Stichting Solaris Onderzoek en Ontwikkeling in a response to lack of assistance for early career researchers in career development in academia and beyond.'
+    - name: "Guy Nagels"
+      linkName: "guy"
+      image: "Guy.png"
+      homepage:
+      affiliation:
+        - "AIMS lab, Center for Neuroscience, UZ Brussel, Vrije Universiteit Brussel"
+        - "icometrix, Leuven, Belgium"
+        - "St. Edmund Hall, University of Oxford, Oxford, UK"
+      city: "Brussels, Belgium"
+      twitter:
+      git:
+      researchgate: "https://www.researchgate.net/profile/Guy_Nagels"
+      bio: "Prof. Guy Nagels is associate professor at the VUB, where he leads the Artificial Intelligence and Modelling in clinical Sciences (AIMS) lab. Furthermore, he is associate chair of neurology at the UZ Brussels, from which he is also on secondment as medical director neurology at icometrix NV. He holds a senior clinical research fellowship from the FWO Flanders."
+    - name: "You in 2022?"
+      linkName: "you_advisor"
+      image: "you.png"
+      homepage: ~
+      affiliation: ~
+      city: "Anywhere on earth"
+      twitter: ~
+      git: ~
+      researchgate: ~
+      bio: "You are amazing!"
