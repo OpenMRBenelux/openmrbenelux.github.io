@@ -326,10 +326,16 @@
     - {
         startTime: "15:00",
         endTime: "15:45",
-        speaker: "To be announced",
+        speaker: 
+          {
+            "Guillaume Corradino",
+            "Elodie Chabrol",
+            "Stijn Denissen",
+            "Simon Van Eyndhoven",
+          },
         speakerLink: "../page-speakers",
         breakStatus,
-        sessionTitle: "Panel discussion: science communication and open science",
+        sessionTitle: "Panel discussion: science communication",
         sessionType: "Panel",
         slides: "",
       }
