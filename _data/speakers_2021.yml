@@ -16,395 +16,168 @@
 #         content:
 
 - day:
-  date: Tuesday, 21 January 2020
+  date: 'Wednesday, 24 March 2021'
   speakers:
-  
-    - name: Marjan Bakker
-      image: marjan.png
+    - name: 'Daniel Alcalá López (he/him)'
+      image: 'daniel.jpeg'
       affiliation:
-        - Tilburg School of Social and Behavioral Sciences <br>Department of Methodology
-          and Statistics <br>Tilburg University
-      city: Tilburg, The Netherlands
-      homepage: http://www.marjanbakker.eu/
-      git:
-      twitter:
+        - 'Frictionless Data for Reproducible Research, Open Knowledge Foundation'
+      city: 'Donostia-San Sebastián, Spain'
+      homepage: 
+      git: 'https://github.com/danalclop'
+      twitter: 'https://twitter.com/danalclop'
       researchgate:
-      bio: Marjan Bakker is an assistant professor at the Methods
-          and Statistics Department at Tilburg University. She is part
-          of the Meta-Research Center in Tilburg at which they study
-          the scientific system in psychology; in general to find its
-          flaws and empirically test potential solutions. She wants to
-          improve science by investigating problems and possible
-          solutions. Her interests consist of reporting errors, the
-          use of questionable research practices, statistical power,
-          outliers in data, publication bias, and preregistration.
-          Currently, she is mainly working on some larger projects on
-          preregistration and on a project to replicate Mahoney’s
-          seminal study on publication bias (for which she got an NWO
-          replication grant).
+      bio: 'My background in psychology and neuroscience inspired me to start walking the path of academic research. After working for several years in the field of neuroimaging as a PhD student (RWTH Aachen, Germany) and postdoc (BCBL, Spain), I am now taking the leap out of academia as a biostatistician. Looking for a contribution to the scientific enterprise from another perspective.'
       abstract:
-        title: Diving Into Metascience – Doing Research on Research
-        content: Marjan Bakker will build her talk around the
-          replication crisis in science. She will show examples of
-          p-hacking and will discuss the surprising fraction of
-          confirmed hypotheses. This is not only a problem in
-          psychology attested by examples of failure to replicate
-          studies in other fields. She pleads for preregistration of
-          hypothesis, study-design, and analysis plan to minimize the
-          researcher’s degrees of freedom
-    
-    - name: Cassandra Gould van Praag
-      image: cass.png
+        title: 'The age of the researcher is over. The time of the community has come'
+        content: 'Many people doing research report feeling isolated or experiencing mental health difficulties, especially given the great expectations we place on ourselves. Although it may be intimidating, being part of a community can provide a safety net for people to overcome some of these challenges with the help and support of others.'
+
+    - name: 'Stefano Moia'
+      image: 'you.png'
       affiliation:
-        - Psychopharmacology and Emotion Research Laboratory<br/>Department of Psychiatry <br/>University of Oxford
-      city: Oxford, UK
-      homepage: https://www.psych.ox.ac.uk/team/cassandra-gould-van-praag
-      git: https://github.com/cassgvp
-      twitter: https://twitter.com/cassgvp
-      researchgate: https://www.researchgate.net/profile/Cassandra_Gould_Van_Praag
-      bio: Cass is a postdoctoral researcher at the University of
-          Oxford Department of Psychiatry. She provides support for
-          (f)MRI experimental design and analysis in the investigation
-          of treatments for mood disorders. In this role, she has to
-          stay up to speed with the leading edge of analytic tools,
-          and is constantly on the lookout for tips, tricks, and
-          techniques to make this research quicker, slicker, and more
-          effective. This goes hand-in-hand with making the research
-          more transparent and reproducible, and freely sharing the
-          outputs of our labour. She is a contributor to <a href="https://the-turing-way.netlify.com/introduction/introduction">The Turing Way</a>
-          and works with the <a href="https://www.win.ox.ac.uk/open-neuroimaging/open-neuroimaging-project">Wellcome Centre for Integrative Neuroimaging Open
-          Community Team </a>. She is a passionate believer in accessibility and the equitable dissemination of knowledge, and spends a lot of time showing people that programming isn’t scary.
+        - 'TBA'
+      city: 'TBA'
+      homepage: 
+      git: 'https://github.com/'
+      twitter: 'https://twitter.com/'
+      researchgate:
+      bio: 'TBA'
       abstract:
-        title: Analytical Flexibility and Questionable Research Practices in MRI
-        content: The number of methods available for MRI
-          analysis is growing every year. Each of these methods
-          requires the specification of a bewildering array of
-          parameters, not all of which are amenable to optimisation by
-          consensus. The combination of these factors leads to an
-          almost infinite number of ways in which we may analyse our
-          data, and accordingly an infinite number of results which we
-          may choose to report, or not. In this talk, I will discuss
-          concerns of such analytic flexibility and the draw of
-          questionable research practices to help uncover the
-          "publishable story" in our data. I will present recent
-          developments in our discipline which may assist the
-          identification of robust effects, and what individual
-          actions we may take in order to retain confidence in our own
-          findings.
-        
-    - name: Pim Pullens
-      image: pim.png
-      affiliation:  
-      - Department of Radiology </br> Ghent University-Ghent University Hospital </br> and </br> Ghent Institute for Functional and Metabolic Imaging (GIfMI)
-      city: Ghent, Belgium
-      homepage:
-      git:
-      twitter: https://www.twitter.com/pim_pullens
-      researchgate: https://www.researchgate.net/profile/Pim_Pullens
-      bio: Pim Pullens (PhD) is MR physicist in the University Hospital Ghent & Ghent Institute for functional and Metabolic Imaging. He is responsible for the management of three clinical MRs and one research system. Next to his clinical work, he is involved in various research projects, both in Ghent and internationally, on functional and structural imaging in multiple organs and body parts. Pim is co-lead of the Reproducibility and Standardisation workgroup of COST Action PARENCHIMA (CA16103) on the development of renal MRI biomarkers. After his initial training as biomedical engineer in medical image processing and biomedical NMR, Pim has worked both in industry (start-up and small business) and in academia. His main interests are functional and quantitative imaging of the brain and kidneys, standardisation of MR imaging, and validation/quality assurance in MRI.
-      abstract:
-      ​	title: How can Open Science Contribute to (Clinical) Research in Radiology?
-      ​	content: At the moment the use of open source tools and sharing data is not common in radiology practice. Is there a place for open 
-        source tools in a radiology department? What are drawbacks or advantages of using open source? How to deal with liabilities and regulations? What are risks and benefits of sharing data? Some examples of use of open source tools in our department will be shown.
+        title: 'Git(Hub) workshop'
+        content: 'TBA' 
   
-    - name: Dirk Smeets
-      image: DirkSmeets.jpg
+    - name: 'Melvin Selim Atay'
+      image: 'you.png'
       affiliation:
-        - icometrix
-      city: Leuven, Belgium
-      homepage:
+        - 'TBA'
+      city: 'TBA'
+      homepage: 
+      git: 'https://github.com/'
+      twitter: 'https://twitter.com/'
+      researchgate:
+      bio: 'TBA'
+      abstract:
+        title: 'Git(Hub) workshop'
+        content: 'TBA' 
+
+  - name: 'Felienne Hermans (she/her)'
+      image: 'felienne.jpg'
+      affiliation:
+        - 'LIACS, Leiden University'
+      city: 'Leiden, The Netherlands'
+      homepage: 'http://felienne.com'
       git:
-      twitter:
+      twitter: 'https://twitter.com/felienne'
+      researchgate:
+      bio: 'Felienne is associate professor at the <a href='http://liacs.leidenuniv.nl/' target='_blank'>Leiden Institute of Advanced Computer Science</a> at Leiden University, where she heads the <a href="http://perl.liacs.nl/" target='_blank'>PERL research group</a>, focused on programming education. She also works at the Vrije Universiteit Amsterdam one day a week, where she teaches <a href='https://masters.vu.nl/en/programmes/leraar-vho-betawetenschappen' target='_blank'>prospective computer science teachers</a>.
+      Felienne is the creator of the <a href='http://www.hedycode.com/' target='_blank'>Hedy programming language</a>, and was one of the founders of the <a href='http://joyofcoding.org/' target='_blank'>Joy of Coding conference</a>. Read more on <a href='https://www.felienne.com/bio-and-pic' target='_blank'>her website</a>.'
+      abstract:
+        title: 'Panel discussion: what constitutes clean, scientific code?'
+        content: ''
+  
+    - name: 'Jade Abbott (she/her)'
+      image: 'jade.jpg'
+      affiliation:
+        - 'Retro Rabbit, South Africa'
+      city: 'South Africa'
+      homepage: 'jabbott.io'
+      git: 'https://github.com/jaderabbit'
+      twitter: 'https://twitter.com/alienelf'
+      researchgate:
+      bio: 'Jade Abbott is a Staff Engineer at Retro Rabbit. She's worked in every sphere from NGO to Finance. She currently trains and deploys deep learning systems to perform a variety of NLP tasks for real life systems. She has an MSc Computer Science from the University of Pretoria, and in 2019 co-founded Masakhane, a grassroots natural language processing initiative for Africans, by Africans.'
+      abstract:
+        title: 'Panel discussion: what constitutes clean, scientific code?'
+        content: ''
+
+    - name: 'Adora Nwodo (she/her)'
+      image: 'adora.jpg'
+      affiliation:
+        - 'Software Engineer - Mixed Reality Services, Microsoft'
+      city: 'Lagos, Nigeria'
+      homepage: 'https://adoranwodo.com/'
+      git: 'https://github.com/adoranwodo'
+      twitter: 'https://twitter.com/adoranwodo'
+      researchgate:
+      bio: 'Nenne Adaora Nwodo (who fondly likes to be called Adora), is a Software Engineer based in Lagos, Nigeria. She currently works at Microsoft where she builds cloud services and high value experiences related to Artificial Intelligence and Mixed Reality. </br> In 2018, she created a blog called AdoraHack where she publishes articles on Software Engineering, Productivity & Career Growth. In June 2019, she created a YouTube channel for AdoraHack where she posts tech content that could be useful to Software Developers.
+      </br> Adora is a nominee of the Young CISO Awards 2020 (Young CISO Network), an award for young professionals in cybersecurity who go beyond the call of duty to make an impact in their workplace and industry. She is extremely passionate about the developer community and is trying to drive inclusion for women in technology. Adora also co-organizes community events, contributes to open source, mentors developers through the Microsoft LEAP program and speaks at technology conferences/meetups worldwide.'
+      abstract:
+        title: 'Panel discussion: what constitutes clean, scientific code?'
+        content: '' 
+
+    - name: 'Yo Yehudi'
+      image: 'you.png'
+      affiliation:
+        - 'TBA'
+      city: 'TBA'
+      homepage: 
+      git: 'https://github.com/'
+      twitter: 'https://twitter.com/'
+      researchgate:
+      bio: ''
+      abstract:
+        title: 'Panel discussion: what constitutes clean, scientific code?'
+        content: '' 
+
+     - name: 'Patrick Mineault (he/him)'
+      image: 'patrick.jpg'
+      affiliation:
+        - 'Neural data science'
+      city: TBA
+      homepage: 'https://xcorr.net/'
+      git: 'https://github.com/patrickmineault'
+      twitter: 'https://twitter.com/patrickmineault'
+      researchgate:
+      bio: 'Patrick Mineault is an independent researcher and neural data scientist in Montreal, CA. He was CTO of Neuromatch Academy, research scientist on BCI at Facebook Reality Labs and a data scientist at Google. He obtained his PhD in computational neuroscience from McGill.'
+      abstract:
+        title: 'Panel discussion: what constitutes clean, scientific code?'
+        content: '' 
+
+     - name: Remi Gau
+      image: 'remi.png'
+      affiliation:
+        - TBA
+      city: TBA
+      homepage: 
+      git: https://github.com/
+      twitter: https://twitter.com/
       researchgate:
       bio: TBA
       abstract:
-        title: Open Science in the Context of Companies, Intellectual Property, and Collaborative Research
-        content: There is an interesting interplay between open science practices in publicly funded research and intellectual property and   patenting in for-profit companies. This especially comes to light when such research institutions and companies collaborate, which is often the case in MRI-related work. For example, both companies and universities could be doing interesting and important work together, but apparent goals might differ. For universities it might be to publish papers and adhere to funding criteria; for companies it might be to secure a patent and monetize the work. Do these approaches necessarily contradict each other? How should they co-exist (if they can)? What should companies be doing, if anything, to improve or interact with open science practices? What should universities and research institutions be doing, if anything, to engage with companies in open science practices. This talk will explore these questions.
-  
-    - name: João Periquito
-      image: Joao.jpg
-      affiliation: 
-      - Berlin Ultrahigh Field Facility (B.U.F.F.)
-      city: Berlin, Germany
-      homepage:
-      git:
-      twitter:
-      researchgate:
-      bio: João is currently finishing his PhD at Berlin Ultrahigh Field Facility (B.U.F.F.), Berlin, Germany. His research is focused on development of new diagnosis techniques for renal MRI. Open source invaded his heart when he realized that he did not need to spend one year implementing an algorithm because someone kind went the extra mile and published a well-documented open-source tool that others can use to their purposes. João is also involved in the project <a href=https://www.opensourceimaging.org/>Open Source Imaging Initiative</a> (OSI²), a creative community of volunteers with the aim of facilitating medical devices to more people all around the world.
-      abstract:
-        title: The Open Source Imaging Initiative
-        content: MR technology is one of the most powerful medical tools ever made, yet it is not available in many places around the world. How can we change that? Make the technology cheaper? Would be a good start, but it is not enough! We need sustainable long term solutions. By applying the open-source strategy it is possible to use the immense potential of the research community in a more efficient way by means of collaboration. This will trigger innovation, customization, and cost-efficiency, but will also lead to local/regional production and knowhow transfer into regions that desperately need it. An open source strategy would furthermore diffuse into all important areas of our healthcare system, such as - technological optimization, scientific progress, regulatory harmonization, democratized markets, device safety, global health, education, and many more. Not less than that is our vision of the Open Source Imaging Initiative (OSI²) with our communication platform (www.opensourceimaging.org). We focus on sharing and not competing, because this is healthier to all of us. In this presentation we will give an update on the workings of OSI², what happened so far and what is about to happen very soon.</br> <strong>Spoiler alert</strong> The world's first open source hardware standard will be released soon and we are preparing the open source documentation of a first open source hardware MRI that makes quite decent images. Our efforts are on a voluntary basis and we are open to all who want to join and who support our vision.
-  
-    - name: Daniele Marinazzo
-      image: daniele.png
-      affiliation:
-        - Department of Data Analysis <br> Faculty of Psychology and Educational Sciences</br> Ghent University
-      city: Ghent, Belgium
-      homepage: http://users.ugent.be/~dmarinaz/
-      git: https://github.com/danielemarinazzo
-      twitter: https://twitter.com/dan_marinazzo
-      researchgate: https://www.researchgate.net/profile/Daniele_Marinazzo
-      bio: Daniele Marinazzo is an associate professor in the Department of Data Analysis of the Faculty of Psychology and Educational Sciences at Ghent University. His team focuses on methodological and computational aspects of neuroscience research, and on the dynamical networks subserving function, as well as thorough statistical validation of the results. They develop new techniques for inferring connectivity architectures from the dynamics of the recorded data, in challenging cases of short, noisy and redundant time series, as those encountered in neuroimaging. Daniele cares about open science and ways to improve the review/editorial process. He is an editor at several journals in his field, including PLOS Computational Biology, PLOS One, NeuroImage, Brain Topography, Network Neuroscience. Visit Daniele’s <a href=https://publons.com/researcher/663417/daniele-marinazzo>Publons review profile</a> for more.
-      abstract:
-        title: Current and Future Scenarios for Open Scientific Publishing and Reviewing
-        content: Communicating our research is a fundamental part of our work as scientists, and a duty towards the society. Typically this communication happens through articles published in scientific journals, after having been reviewed by our peers. We will discuss several aspects of scholarly communication and in particular of scientific publishing and peer review. Some of these aspects are (un-)surprisingly in clear contrast with the idea of science as an open and collaborative public mission. Several solutions and improvements have been proposed and sometimes implemented over the years; on some of them there’s wide consensus, on others there is not. And even when there is consensus to change, the change is slow. We will explore the state of the art and different future perspectives, and discuss our experiences and expectations
-    
-    - name: Kirstie Whitaker
-      image: kirstie_2.png
-      affiliation:
-        - The Alan Turing Institute
-      city: London, UK
-      homepage: https://kirstiewhitaker.com/
-      git: https://github.com/KirstieJane
-      twitter: https://twitter.com/kirstie_j
-      researchgate: https://www.researchgate.net/profile/Kirstie_Whitaker
-      bio: Kirstie Whitaker is a research fellow at the <a href=https://www.turing.ac.uk/>Alan Turing Institute</a> (London, UK) and senior research associate in the Department of Psychiatry at the University of Cambridge. Her work covers a broad range of interests and methods, but the driving principle is to improve the lives of neurodivergent people and people with mental health conditions. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and participatory citizen science to educate non-autistic people about how they can better support autistic friends and colleagues. She is the lead developer of <a href=https://github.com/alan-turing-institute/the-turing-way>The Turing Way</a>, an openly developed educational resource to enable more reproducible data science. Kirstie is a passionate advocate for making science “open for all” by promoting equity and inclusion for people from diverse backgrounds, and by changing the academic incentive structure to reward collaborative working. She is the chair of the Turing Institute’s Ethics Advisory Group, a Fulbright scholarship alumna and was a <a href=https://science.mozilla.org/programs/fellowships/fellows>2016/17 Mozilla Fellow for Science</a>. Kirstie was named, with her collaborator Petra Vertes, as a <a href=https://2016globalthinkers.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker?3fa4cfa909=>2016 Global Thinker</a> by Foreign Policy magazine. You can find more information at her <a href=https://whitakerlab.github.io/>lab website</a>.
-      abstract:
-        title: The Turing Way. Reproducible, Inclusive, Collaborative Data Science
-        content: Reproducible research is necessary to ensure that scientific work can be trusted. By sharing data, analysis code, and the computational environment used to generate the results, researchers can more effectively stand on the shoulders of their peers and colleagues and deliver high quality, trustworthy, and verifiable outputs. This requires skills in data management, library sciences, software development, and continuous integration techniques. Skills that are not widely taught or expected of academic researchers. Skills that are unreasonable, in fact, to expect in one individual team member. The Turing Way is a handbook to support students, their supervisors, funders, and journal editors in ensuring that reproducible research is "too easy not to do". It includes training material on version control, analysis testing, collaborating in distributed groups, open and transparent communication skills, and effective management of diverse research projects. The Turing Way is openly developed and any and all questions, comments, and recommendations are welcome at our GitHub repository. https://github.com/alan-turing-institute/the-turing-way. In this talk, Kirstie Whitaker, lead developer of The Turing Way, will take you on a whirlwind tour of the chapters that already exist, the interactive demonstrations you can use and re-use for your own research, and the directions in which we're continuing to develop. All participants will leave the talk knowing that "Every Little Helps" when making their work reproducible, where to ask for help as they start or continue their open research journey, and how they can contribute to improve The Turing Way for future readers.
-  
-- day:
-  date: Wednesday, 22 January 2020
-  speakers:
-  
-  - name: Fatma Deniz
-    image: FatmaDeniz.jpg
-    affiliation:
-      - Postdoctoral Fellow, University of California, Berkeley </br> Visiting Scientist, Technical University Berlin, Germany
-    city: Berkeley, USA
-    homepage:
-    git:
-    twitter:
-    researchgate:
-    bio: Fatma Deniz is currently a Visiting Scientist at TU Berlin and a PostDoc at the Gallant Lab in UC Berkeley. Prior to her current position, Fatma was a Moore-Sloan Data Science Fellow at Berkeley Institute for Data Science and a fellow at the International Computer Science Institute in Berkeley. She is interested in how linguistic information is encoded in the brain and uses machine-learning approaches to fit computational models to large-scale brain data. Her current work focuses on cross-modal language representation in the human brain. She did her PhD at Bernstein Center for Computational Neuroscience in Berlin, where she studied functional connectivity changes during conscious perception in humans and got a bachelor’s and master’s degrees in Computer Science from the Technical University Munich. During her master’s work, Dr. Deniz worked with Dr. Christof Koch at Caltech, where she studied visual saliency and automated text detection. As an advocate of reproducible research practices, she is the editor of the book titled “The Practice of Reproducible Research”. In addition, she works on improving Internet security applications using the knowledge gained from cognitive neuroscience and Mooney images ([mooneyauth.org](https://mooneyauth.org/static/index.php)). Her work is at the intersection between computer science, human cognition, and neuroscience. She is a passionate coder, baker, and loves to play the cello.
-    abstract:
-      title: Reproducibility in Decoded. Case Studies from Data-Intensive Sciences
-      content: Reproducibility in research is one of the main building blocks of the scientific method. However, there is rising concern about reproducibility in current scientific research that reduces the reliability of published findings in various domains. In this workshop, we will learn about the tools and practices that will help us to improve the reproducibility of our own research pipeline. Based on the book <a href=https://www.practicereproducibleresearch.org/>The Practice of Reproducible research</a>, I will first introduce reproducible research workflows by providing case-study examples. In the second part, participants will walk through their own research pipeline and create their own reproducible research workflow. In small working groups, participants will reflect on their own computational practices and learn how they can improve the reproducibility of their own research workflow.
-
-  - name: Remi Gau
-    image: remi.png
-    affiliation:
-      - Université catholique de Louvain
-    city: Louvain-la-Neuve, Belgium
-    homepage: https://remi-gau.github.io/
-    git: https://github.com/Remi-Gau
-    twitter: https://www.twitter.com/RemiGau
-    researchgate: https://www.researchgate.net/profile/Remi_Gau
-    bio: Remi is a postdoctoral fellow in the Crossmodal Perception and Plasticity laboratory (<a href=https://cpplab.be/>CPP-Lab</a>) at the Université catholique de Louvain. His work focuses on the multisensory aspects of perception and he uses high-resolution MRI to address these questions. He sees in open science a way to a) build a more inclusive research community based on cooperation rather than competition and b) addresses some of the replicability and reproducibility issues that are affecting many areas of science.
-    abstract:
-      title: Software Version Control with git and GitHub
-      content: GIT is a tool to keep track of the successive versions of your code. From different pilot experiments to the final version or for different stages of your analysis pipeline. A side effect of using GIT is that it can also improve how you organize your code. When associated with GitHub, this also facilitates collaboration with others on the same codebase, automation of many tasks, and can help you streamline your workflow. GIT and GitHub are potentially very powerful tools but tend to have a steep learning curve associated with a confusing and obscure terminology. This 2 hours workshop will not turn you into GIT and GitHub wizards but it should 1) make the terminology less scary so that you won’t be as confused when you try it on your own, 2) guide you on how to version control some simple code, 3) guide you on how to use some of GitHub’s functions by quickly creating your own academic website (e.g. https://academicpages.github.io/). </br> Things to do before to prepare for this workshop, </br> 1. Download the file editor <a href=https://atom.io/>Atom</a>. </br> 2. Create a Github account, https://github.com/ </br> 3. Download GitKraken to interact with git/Github, https://www.gitkraken.com/.
-
-  - name: Sofie Van Den Bossche
-    image: sofie.png
-    affiliation:
-      - Department of Data Analysis </br> Faculty of Psychology and Educational Sciences </br> Ghent University
-    city: Ghent, Belgium
-    homepage:
-    git: https://github.com/sofievdbos
-    twitter: https://www.twitter.com/sofie_vdbos
-    researchgate: https://www.researchgate.net/profile/Sofie_Van_Den_Bossche2
-    bio: Sofie is currently doing a PhD at the Department of Data Analysis (Ghent University, Ghent, Belgium), supervised by Prof. Dr. Daniele Marinazzo. Her research focuses on the intertwined domains of (resting-state) neuroscience and lateralization/handedness. During her PhD, she has also been involved in Open Science events, either as part of the organizing committee (BrainHack Ghent <a href=https://brainhackghent.wixsite.com/brainhackghent/submitted-projects>2017</a>/<a href=https://brainhackghent.github.io/>2018</a>) and <a href=http://www.brainhack.org/global2019/>Brainhack Global 2019</a>) or as a volunteer (e.g. Pint of Science, Ghent). Creating an Open Science community and communicating Open Science to a broader public is something she wants to be progressively involved in.
-    abstract:
-      title: Software Version Control with git and GitHub
-      content: GIT is a tool to keep track of the successive versions of your code. From different pilot experiments to the final version or for different stages of your analysis pipeline. A side effect of using GIT is that it can also improve how you organize your code. When associated with GitHub, this also facilitates collaboration with others on the same codebase, automation of many tasks, and can help you streamline your workflow. GIT and GitHub are potentially very powerful tools but tend to have a steep learning curve associated with a confusing and obscure terminology. This 2 hours workshop will not turn you into GIT and GitHub wizards but it should 1) make the terminology less scary so that you won’t be as confused when you try it on your own, 2) guide you on how to version control some simple code, 3) guide you on how to use some of GitHub’s functions by quickly creating your own academic website (e.g. https://academicpages.github.io/). </br> Things to do before to prepare for this workshop, </br> 1. Download the file editor <a href=https://atom.io/>Atom</a>. </br> 2. Create a Github account, https://github.com/ </br> 3. Download GitKraken to interact with git/Github, https://www.gitkraken.com/.
-
-  - name: Serena Bonaretti
-    image: serena.png
-    affiliation:
-      - Transparent MSK Research
-    city:
-    homepage: https://sbonaretti.github.io/
-    git: https://github.com/sbonaretti
-    twitter: https://www.twitter.com/SerenaBonaretti
-    researchgate:
-    bio: Serena Bonaretti is founder and research scientist at <a href=https://sbonaretti.github.io/transparentMSKresearch.html>Transparent MSK Research</a>. Previously, she was research scientist and postdoctoral fellow at the Departments of Radiology at Stanford University and University of California, San Francisco. She holds a PhD in Biomedical Engineering from the University of Bern, Switzerland. Her background is image acquisition, image processing, and biomechanics to investigate aging diseases of the musculoskeletal system. She has recently released <a href=https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsbonaretti.github.io%2FpyKNEEr%2F&data=02%7C01%7Ce.oei%40erasmusmc.nl%7C6137dad6bbfd42f536c408d6d3bc5313%7C526638ba6af34b0fa532a1a511f4ac80%7C0%7C0%7C636929203142714487&sdata=kWnO3g%2F3wM%2F0vQJmjgETe6wJVf%2Fxi2BxmkSS4%2F4f2Sk%3D&reserved=0>pyKNEEr</a>), an image analysis workflow for open and reproducible research on femoral knee cartilage. Previously, she developed <a href=https://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwebapps.radiology.ucsf.edu%2Frefline%2F&data=02%7C01%7Ce.oei%40erasmusmc.nl%7C6137dad6bbfd42f536c408d6d3bc5313%7C526638ba6af34b0fa532a1a511f4ac80%7C0%7C0%7C636929203142724500&sdata=kjT0exJ6lnMijM1Gd8CnYyUV7nKUy15PYM%2F6Hn0RINo%3D&reserved=0<Reference line</a>), a web application to train and evaluate HR-pQCT operators. As a member of the quantitative musculoskeletal imaging (QMSKI) working group for transparent research, she is creating hands-on  <a href=https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2FQMSKI%2FTransparentQMSKI%2Fwiki&data=02%7C01%7Ce.oei%40erasmusmc.nl%7C6137dad6bbfd42f536c408d6d3bc5313%7C526638ba6af34b0fa532a1a511f4ac80%7C0%7C0%7C636929203142734504&sdata=vCR7GAdJJOzI4JoiJSvH66D%2BO2iQDyP18pPaLFh5%2FcI%3D&reserved=0>guidelines</a> on how to conduct open and reproducible research.
-    abstract:
-      title: The Basics of Python and Jupyter Notebooks for Medical Image Analysis
-      content: Python and Jupyter notebooks are becoming more and more essential tools to conduct open and reproducible research. In this workshop, we will first briefly discuss how these tools can facilitate transparent science. Then, we will have a hands-on session where we will code in Jupyter notebook using Python. We will create reproducible workflows using packages that are both basic and specific for medical image analysis (e.g. SimpleITK). Information and materials are available at https://github.com/sbonaretti/2020_OpenMR_jupyter.
-
-  - name: Lukas Snoek
-    image: Lukas_Snoek.png
-    affiliation:
-      - Department of Psychology </br> University of Amsterdam, the Netherlands
-    city: Amsterdam, the Netherlands
-    homepage: https://lukas-snoek.com/
-    git: https://github.com/lukassnoek
-    twitter: https://www.twitter.com/LukasSnoek
-    researchgate:
-    bio: I am a PhD student at the Psychology Department of the University of Amsterdam, supervised by Dr. Steven Scholte and Dr. Suzanne Oosterwijk. I’m interested in the neural representation of affective processes such as emotion experience and (facial) emotion perception. Additionally, I’m a methods nerd, interested in novel analyses and statistical methods (for fMRI). Next to my research, I work at the Spinoza Centre for Neuroimaging (UvA), where I provide technical assistance and develop software for automated data management and preprocessing (using Docker!). Throughout the years, I developed a passion for open and transparent (neuro)science, to which I aim to contribute with various open-source projects aimed at improving transparency and reproducibility.
-    abstract:
-      title: Introduction to Docker and Binder
-      content: With the 'reproducibility crisis' in psychology and neuroscience, there is a trend towards publishing one’s data and code along with the associated article — which is great! Often, however, providing your code is not enough to reproduce your analyses, as it may depend on specific software versions, system requirements, or even operating systems. Docker and Binder are two tools that offer a solution for this! Docker allows you to specify an environment (a Docker container) using a 'recipe' (a Dockerfile), containing the particular (Linux-based) operating system (e.g., Ubuntu 18.04), software packages (FSL 6.0.1 and Python 3.6.1 with scikit-learn 0.21.3), and runtime executables (entrypoint, e.g., my_analysis.py) of your choice. Binder is a less 'complete' solution than Docker, but definitely not less useful! With Binder, you can turn your Git(hub) repository into a collection of interactive Jupyter notebooks, making them instantly reproducibly for anyone. In this workshop, you will get some hands-on experience with writing Dockerfiles and creating Docker containers in a scientific context, as well as getting started with Binder. Some experience with the (Linux) command line interface is useful, but not strictly required.
-
-  - name: Agah Karakuzu
-    image: karakuzu.jpeg
-    affiliation:
-      - NeuroPoly Lab Ecole Polytechnique de Montréal
-    city: Montréal, Canada
-    homepage:
-    git: https://github.com/agahkarakuzu/
-    twitter: https://www.twitter.com/agahkarakuzu
-    researchgate: https://www.researchgate.net/profile/Agah_Karakuzu
-    bio: Agah is a PhD student at NeuroPoly Lab (Biomedical Engineering, Polytechnique Montreal, Montreal, Canada), supervised by Dr. Nikola Stikov. His research focuses on <a href=https://qmrlab.org/>bringing quantitative MRI (qMRI) applications under one umbrella</a> <a href=https://github.com/bids-standard/bep001>through data standardization</a>, <a href=https://github.com/qMRLab/pulse_sequences>vendor-neutral acquisitions</a>, <a href=https://github.com/qMRLab/qMRFlow>fully transparent & reproducible workflows</a> and <a href=https://qmrlab.org/blog.html>community building</a>. He plays an active role in organizing of Open Science events (<a href=https://mrathon.github.io/>MRathon</a>, <a href=https://brainhackmtl.github.io/school2019/index.html>Brain Hack School</a>) and as a science communication contributor on various platforms (<a href=https://blog.ismrm.org/category/highlights/>MRM Highlights</a>, <a href=https://blog.ismrm.org/>MR Pulse</a> and <a href=https://www.ohbmbrainmappingblog.com/>OHBM Blog</a>).
-    abstract:
-      title: Introduction to Docker and Binder
-      content: The arrival of Docker containers has revolutionized the way software is developed, tested and pushed to production. Billions of containers are spawn on a weekly basis to deliver some of the most frequently used web services. We unknowingly benefit from this technology doing a web search on <a href=https://github.com/google/gvisor>Google</a> at work, on an <a href=https://github.com/uber/makisu>Uber</a> ride back home and watching our favorite TV shows on <a href=https://github.com/Netflix/conductor>Netflix</a> (ps. all hyperlinks direct to GitHub). But, how do we foster the use of containers to boost reproducibility and efficiency in the scientific realm? Following a hands-on Introduction to Docker and Binder, we will briefly explore some example use cases of container technology in creating reproducible computational workflows and mapping them onto supercomputers!
+        title: 'Panel discussion: what constitutes clean, scientific code?'
+        content: TBA 
 
 - day:
-  date: Thursday, 23 January 2020
+  date: Thursday, 25 March 2021
   speakers:
   
-  - name: Malvika Sharan
-    image: Malvika.png
+  - name: Stijn Denissen
+    image: you.png
     affiliation:
-      - European Molecular Biology Laboratory (EMBL) Heidelberg
-    city: Heidelberg, Germany
+      - Ghent </br> Belgium
+    city: Belgium
     homepage:
     git:
     twitter:
     researchgate:
-    bio: Malvika is a computational biologist at the European Molecular Biology Laboratory, Heidelberg, Germany, where she coordinates the Bio-IT project, a community-driven platform for bioinformaticians. She organizes training activities and events for EMBL, de.NBI/ELIXIR Germany and other open source communities such as The Carpentries. She promotes Open Science and inclusiveness through her work as a community outreach coordinator
+    bio: 
     abstract:
-      title: Fostering Open and Inclusive Communities
-      content: TBA
+      title: Introduction to data exploration with Python, Matlab/Octave and Jupyter Notebooks
+      content: 
   
-  - name: Natalia Bielczyk
-    image: natalia.png
+- day:
+  date: Friday, 25 March 2021
+  speakers:
+  
+  - name: Sicco de Knecht
+    image: you.png
     affiliation:
-      - Founder, Director and Chairperson Stichting Solaris Onderzoek en Ontwikkeling </br> eLife Associate </br> Career Development and Mentoring Manager Organization for Human Brain Mapping
-    city:
-    homepage: https://www.nataliabielczyk.com/
-    git:
-    twitter: https://www.twitter.com/nbielczyk_neuro
-    researchgate: https://www.researchgate.net/profile/Natalia_Bielczyk2
-    bio: Natalia Bielczyk has a background in Physics, Mathematics and Psychology (3 x MSc), obtained at the College of Interfaculty Studies in Mathematics and Natural Sciences, University of Warsaw. She is now completing her thesis within the Donders Graduate School, Donders Institute for Brain, Cognition and Behavior, Nijmegen, the Netherlands. Her research concerns developing new methods for connectomics in the domain of cognitive neuroimaging, i.e. for functional and effective connectivity research. Natalia also currently holds a position of a Career Development and Mentoring Manager within the <a href=https://www.ohbmtrainees.com/>Organization for Human Brain Mapping Student and Postdoc Special Interest Group</a>), and serves as an eLife Associate within the <a href=https://elifesciences.org/inside-elife/a946c355/elife-community-ambassadors-243-volunteers-join-the-programme-in-2019>eLife Ambassadors community</a>). In private, she is also a dedicated <a href=https://www.nataliabielczyk.com/>blogger</a>, and a speaker, giving workshops and talks about self-development in academia and transitions to industry. In November 2018, she founded Stichting Solaris Onderzoek en Ontwikkeling in a response to lack of assistance for early career researchers in career development in academia and beyond.
-    abstract:
-      title: Where to Go Next? The Landscape of Post-PhD Career Tracks
-      content: There is a growing disparity between the number of new PhD graduates and the available faculty positions. Effectively, most of the PhD graduates needs to find jobs outside academia. Yet, there is little amount of services dedicated to assisting early career researchers in discovering their core competencies, in searching for employers and landing their dream jobs in industry. Ideally, one should anticipate the potential future market sectors after completing the PhD, and focus on developing transferable skills during the PhD on that basis. This however, remains a rare practice in the graduate schools. Therefore, in this workshop, we will assume that you have no prior experience with the job market in industry. We will discuss the following. The demand for PhDs in different branches of industry; paycheck or entrepreneurship? Is a traineeship at a company a good start after a PhD?; defining your key competences, including both hard- and soft skills; searching for employers who are likely to search for these competences; searching for employers who share your personal values; the role of networking in searching for jobs; restructuring your CV and writing a competitive motivational letter; preparing for job interviews. </br> The workshop will be interactive. We will debunk certain myths related to the job market with the use of polls and quizzes. Sharing personal experience by participants will be highly encouraged. The goal of the workshop is to give the participants the information and confidence so they can further search for relevant information on their own, and take their first steps towards finding their dream job in industry.
-
-  - name: Sarah Genon
-    image: sarah.png
-    affiliation:
-      - Cognitive Neuroinformatics, Institute of Neuroscience and Medicine, Brain & Behaviour
-    city: Jülich, Germany
-    homepage: https://www.fz-juelich.de/SharedDocs/Personen/INM/INM-7/EN/genon_s.html?nn=654218
-    git:
-    twitter:
-    researchgate: https://www.researchgate.net/profile/Sarah_Genon
-    bio: Sarah Genon is a research group leader of the working group “Cognitive Neuroinformatics”, which is part of the Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), located in the Jülich Research Centre (Germany).
-    abstract:
-      title: Probing Brain Organization and Function with Neuroimaging Markers of Connectivity (HBP)
-      content: Across the past years, many developments arose in connectivity analyses based on MRI data offering now a wide range of connectivity markers. Capitalizing on this wealth of neuroimaging markers, connectivity-based parcellation can be used to unravel the complexity of brain organization. Furthermore, large population-based neuroimaging datasets with extensive psychometric characterization now open promising perspectives to link brain organization to behavior. In particular, interindividual variability in brain’s region functional connectivity can be related to interindividual variability in psychometric data by using a connectivity-based psychometric prediction approach. Despite some challenges associated to the use of these data-driven approaches, they also offer opportunities to better understand the relationships between brain connectivity and human behavior.
-
-  - name: Lyuba Zehl
-    image: zehl.png
-    affiliation:
-      - Jülich Research Centre, Institute of Neuroscience and Medicine (INM-1) </br> Jülich, Germany
-    city: Jülich, Germany
-    homepage:
-    git: https://github.com/lzehl
-    twitter: https://twitter.com/LyubaZehl
-    researchgate: https://www.researchgate.net/profile/Lyuba_Zehl
-    bio: Lyuba Zehl studied Biology and Neuroscience at the University of Cologne. During this time of study, she worked on kinematic of insect legs during locomotion (BSc thesis, supervisor, Prof. Ansgar Büschges), and the anatomical cartography of auditory nuclei in the brain stem of toothed whales using cluster analysis (Msc thesis, supervisor, Prof. Wolfgang Walkowiak). For her doctoral studies, she switched to the RWTH Aachen University and joined the Statistical Neuroscience Group of Prof. Sonja Grün at the Institute for Neuroscience and Medicine (INM-6) of the Jülich Research Centre. In her thesis, she worked on analysing multi-electrode array recordings of monkey motor cortex and, in particular, on data and metadata management of complex neuroscience experiments. After receiving her doctorate degree (Dr. rer. nat.) in 2017, she started working as a junior scientist in the curation team of the Neuroinformatics Platform of the Human Brain Project (HBP), located at the Jülich Research Centre as part of the Big Data Analytics Group from Timo Dickscheid at the Institute for Structural and Functional Organisation of the Brain (INM-1) led by Prof. Katrin Amunts. Having a high interdisciplinary orientation towards computational neuroscience and software development for data and metadata management and a broad experience in various neuroscience laboratories, she focuses now on developing and implementing concepts, standards and tools for neuroscience data and metadata management. With her current work, she strongly supports the integration of heterogeneous neuroscience data into the unified data sharing platform and the interactive atlas viewers of the HBP.
-    abstract:
-      title: The HBP Human Brain Atlas
-      content: The Human Brain Project (HBP) provides access to a comprehensive, multi-level Human Brain Atlas which includes different brain parcellations and template spaces. In particular, it integrates the 20 micron BigBrain model with 3D maps of cytoarchitectonic areas and cortical layers at microscopic detail, with the JuBrain probabilistic cytoarchitectonic atlas which covers variability across 10+ postmortem brains, as well as with a probabilistic fibre bundle atlas derived from in-vivo neuroimaging studies. HBP’s brain atlases are exposed through a set of web-based services that allow users to discover, explore and access not only the reference atlases themselves, but also a range of well curated human brain data at different scales and modalities that were linked to atlas regions in a well structured data integration process. The most intuitive interface to these atlas services is a freely accessible, web-based interactive atlas viewer, which allows intuitive visual navigation of brain anatomy and atlas regions in 3D, down to the microscopic resolution.
-
-  - name: Stefan Klein
-    image: stefan.jpg
-    affiliation:
-      - Biomedical Imaging Group Rotterdam - Eramus Medical Center
-    city: Rotterdam, the Netherlands
-    homepage: http://bigr.nl/people/StefanKlein/
-    git:
-    twitter:
-    researchgate:
-    bio: In 2002, Stefan received his MSc degree at the University of Twente, Enschede, the Netherlands, at the faculty of mechanical engineering. His MSc-project was on the segmentation of fingerprint images, using Hidden Markov Models. From 2003-2008, he worked as a PhD student on the subject of medical image registration at the Image Sciences Institute, UMC Utrecht, the Netherlands, resulting in a thesis about “Optimisation methods for medical image registration”. An important result was the development (with Marius Staring) of the open-source software package for image registration, <a href=http://elastix.isi.uu.nl/>Elastix</a>. Currently in use by several (national and international) research institutions and companies. Since 2008, he works at the Biomedical Imaging Group Rotterdam (<a href=http://www.bigr.nl/>BIGR</a>), Erasmus MC, Rotterdam, the Netherlands. There, he is assistant-professor and leading a research line on medical image registration.
-    abstract:
-      title: MR Image Registration with Elastix and Simple Elastix
-      content: From multi-modality superpositioning to atlas alignment, image registration plays a central role in medical image analysis. In this talk/workshop, Stefan will give us insights on how Elastix and Simple Elastix work, applicable modalities and how to profit the most from this amazing tool. During the workshop, a hands-on guided practical session will demonstrate how versatile Elastix is, even in novel fields, such as quantitative MRI.
-
-  - name: Marcel Zwiers
-    image: Marcel.png
-    affiliation:
-      - Donders Institute for Brain, Cognition and Behaviour
-    city: Nijmegen, The Netherlands
+      - Utrecht University
+    city: Utrecht, The Netherlands
     homepage:
     git:
     twitter:
     researchgate:
-    bio: Marcel is a physicist and has a PhD in auditory neuroscience. His main research interest is in MR physics and MR image analysis, particularly in the field of diffusion imaging, brain connectivity and morphometry, and in the application of these techniques to clinical samples. He has extensive experience with analyzing large datasets and merging data from multi-center studies.
+    bio:  
     abstract:
-      title: Converting Neuroimaging Data to BIDS
+      title: Your research matters, to others
       content: TBA
-
-  - name: Robert Oostenveld
-    image: Robert.png
-    affiliation:
-      - Donders Institute for Brain, Cognition and Behaviour
-    city: Nijmegen, The Netherlands
-    homepage: https://robertoostenveld.nl/research/
-    git:
-    twitter:
-    researchgate:
-    bio: Robert's main interest is in developing novel methods for the analysis of MEG and EEG data with applications in cognitive neuroimaging. His scientific contributions include signal processing, source reconstruction, connectivity analysis and statistical analysis. Furthermore, Robert is interested in improving the methodological aspects of cognitive neuroimaging at the meta level. He contributes to the dissemination of state-of-the-art analysis methods by developing open-source software, by data sharing and by organizing educational and scientific workshops. His contributions to the methodological advancement of the field of non-invasive electrophysiology are exemplified by FieldTrip, a project that he started about 10 years ago and that he has been heading since. To strengthen the MEG and EEG research community, Robert is not managing FieldTrip only as a data analysis toolbox, but also as a platform for the exchange of ideas and expertise.
-    abstract:
-      title: Converting Neuroimaging Data to BIDS
-      content: TBA
-
-  - name: Tim van Mourik
-    image: tim.png
-    affiliation:
-      - Donders Institute for Brain, Cognition and Behaviour
-    city: Nijmegen, the Netherlands
-    homepage: https://timvanmourik.com/
-    git: https://github.com/TimVanMourik
-    twitter: https://twitter.com/tim_van_mourik?lang=nl
-    researchgate: https://www.researchgate.net/profile/Tim_Van_Mourik
-    bio: Tim van Mourik is a PostDoc at the Donders Centre for Cognitive Neuroimaging. During his PhD he developed analysis tools to analyse fMRI scans at an even finer level of detail. That of the cortical layers. In doing so, he not only developed the new tools for obtaining laminar signals, but also applications to build graphical pipelines with these tools (<a href=https://timvanmourik.github.io/Porcupine/>Porcupine</a>). In addition, he set up web applications to facilitate sharing fMRI results in augmented reality (<a href=https://armadillo-brain.herokuapp.com/>ARmadillo</a>) and improved collaboration on interactive workflows (<a href=https://giraffe.tools/>GiraffeTools</a>). At the OHBM conference 2019, Tim was the chair of the Open Science Room and in charge of organising a week long program with talks, discussions, and demos towards open and reproducible research practices.
-    abstract:
-      title: Web Technologies in Neuroimaging
-      content: How do we share and communicate our analysis pathways? By means of a text-description in a paper, or are there other ways? In this day and age where everything happens online, it should be possible to leverage web technologies for neuroimaging. Indeed, there is a growing number of web tools to share and communicate project information, data sets, and entire interactive workflows online. In this talk I will discuss a variety of these projects, how to get started or even involved in them, and what I believe is the future of data analysis and neuroimaging.
-
-  - name: Tony Stöcker
-    image: tony.png
-    affiliation:
-      - MR physics group German Center for Neurodegenerative Diseases
-    city: Bonn, Germany
-    homepage: http://www.dzne.de/en/sites/bonn/research-groups/stoecker.html
-    git:
-    twitter:
-    researchgate: https://www.researchgate.net/profile/Tony_Stoecker
-    bio: Tony Stöcker has been Professor of Medical Physics at Bonn University since 2014 and Head of MR Physics Research Group (DZNE-Bonn) since 2012. His research focus is MRI sequence development at 7 Tesla, probing for neurodegeneration with high sensitivity and resolution, and the development of high-throughput and high-quality neuroimaging protocols for large-scale patient and population studies. Together with his group, he investigates novel medical imaging methods for biomarkers of neurodegenerative diseases.
-    abstract:
-      title: Numerical Simulation of MR Physics
-      content: MR simulations based on the Bloch Equations are of high educational value. Further, they serve as essential tools in MRI method development, e.g. for MR sequence design and protocol optimization or generating ground truth data for image reconstruction and post-processing algorithms. This lecture provides insight into practical implementation of computer simulations based on classical MR physics. Analytical solutions versus numerical implementations will be discussed. Based on pictorial examples, an introduction to various MRI simulator software packages will be given. The JEMRIS simulation environment will serve for most of the examples shown in this lecture.
-
-  - name: Oliver Schmid
-    image: oli.jpg
-    affiliation:
-      - EPFL (École politechnique fédérale de Lausanne), Switzerland
-    city: Lausanne, Switzerland
-    homepage:
-    git:
-    twitter:
-    researchgate:
-    bio: Oliver Schmid is the Product Owner of the EBRAINS Knowledge Graph developed by EPFL for the Human Brain Project. Oliver has worked as a Software Engineer and Software Architect in different companies for many years and has studied Computer Science (PhD), Information Management (MA) and Educational Sciences (BSc) at the University of Fribourg, Switzerland. His main interest is to improve existing processes by the application of interdisciplinary knowledge - accordingly, he contributes to the creation of a (neuro-)scientific IT infrastructure for data sharing and Open Science in his current position.
-    abstract:
-      title: Find, Use and Share Scientific Data with the EBRAINS Knowledge Graph (HBP)
-      content: The EBRAINS Knowledge Graph (KG) has been built to easily find, use and share neuroscientific data originating from the Human Brain Project as well as other data providers. In this talk / demo, we present the various tools built to simplify and standardize the annotation of data, to find published and citable data sets and to use the available resources in automated and semi-automated scientific workflows.
-
-  - name: Stephan Heunis
-    image: stephan.png
-    affiliation:
-      - Eindhoven University of Technology
-    city: Eindhoven, the Netherlands
-    homepage: https://www.fmrwhy.com/
-    git: https://github.com/jsheunis/
-    twitter: https://www.twitter.com/fmrwhy
-    researchgate: https://www.researchgate.net/profile/Stephan_Heunis2
-    bio: Stephan is a researcher and PhD candidate at the Electrical Engineering Department of the Eindhoven University of Technology in the Netherlands. His research focuses on developing new acquisition and signal processing methods for functional neuroimaging that allow the real-time tracking and visualisation of distributed MRI brain activity patterns. Stephan is passionate about making research and scientific practice more transparent, rigorous, and inclusive. He started the <a href=https://osceindhoven.github.io/>Open Science Community Eindhoven</a>, which is part of a wide Dutch network of researchers and university employees that focuses on improving scientific practice. He is also the founder of <a href=https://openmrbenelux.github.io/>OpenMR Benelux</a>, a community working on wider adoption of open science principles in MRI research through talks, discussions, workshops, and hackathons.
-    abstract:
-      title: Sharing GDPR Compliant Neuroimaging Research Data
-      content: Personal data privacy and research data sharing seem, on the surface, to be at odds. On the one hand the European General Data Protection Regulation provides important regulations for protecting personal information to a high standard, something that we should uphold in multiple facets of life. On the other hand, current principles of transparency and reproducibility in research (in short, open science) suggests that we should publicly share the data underlying our scientific findings. This leaves us with a conundrum. how do we protect the individual's privacy, while allowing others to access and process their data? In this talk I will provide an overview of what has been done at several EU institutions to enable neuroimaging data sharing under GDPR. We will also look at the progress made with a collaborative and open project that aims to provide open templates and resources for informed consent forms, data anonymization techniques, data usage agreements, and more.
