@@ -23,7 +23,7 @@
       affiliation:
         - 'Frictionless Data for Reproducible Research, Open Knowledge Foundation'
       city: 'Donostia-San Sebastián, Spain'
-      homepage: 
+      homepage:
       git: 'https://github.com/danalclop'
       twitter: 'https://twitter.com/danalclop'
       researchgate:
@@ -31,7 +31,6 @@
       abstract:
         title: 'The age of the researcher is over. The time of the community has come'
         content: 'Many people doing research report feeling isolated or experiencing mental health difficulties, especially given the great expectations we place on ourselves. Although it may be intimidating, being part of a community can provide a safety net for people to overcome some of these challenges with the help and support of others.'
-
     - name: 'Stefano Moia'
       image: 'you.png'
       affiliation:
@@ -44,8 +43,7 @@
       bio: 'TBA'
       abstract:
         title: 'Git(Hub) workshop'
-        content: 'TBA' 
-  
+        content: 'TBA'
     - name: 'Melvin Selim Atay'
       image: 'you.png'
       affiliation:
@@ -58,9 +56,8 @@
       bio: 'TBA'
       abstract:
         title: 'Git(Hub) workshop'
-        content: 'TBA' 
-
-  - name: 'Felienne Hermans (she/her)'
+        content: 'TBA'
+    - name: 'Felienne Hermans (she/her)'
       image: 'felienne.jpg'
       affiliation:
         - 'LIACS, Leiden University'
@@ -69,12 +66,10 @@
       git:
       twitter: 'https://twitter.com/felienne'
       researchgate:
-      bio: 'Felienne is associate professor at the <a href='http://liacs.leidenuniv.nl/' target='_blank'>Leiden Institute of Advanced Computer Science</a> at Leiden University, where she heads the <a href="http://perl.liacs.nl/" target='_blank'>PERL research group</a>, focused on programming education. She also works at the Vrije Universiteit Amsterdam one day a week, where she teaches <a href='https://masters.vu.nl/en/programmes/leraar-vho-betawetenschappen' target='_blank'>prospective computer science teachers</a>.
-      Felienne is the creator of the <a href='http://www.hedycode.com/' target='_blank'>Hedy programming language</a>, and was one of the founders of the <a href='http://joyofcoding.org/' target='_blank'>Joy of Coding conference</a>. Read more on <a href='https://www.felienne.com/bio-and-pic' target='_blank'>her website</a>.'
+      bio: "Felienne is associate professor at the <a href='http://liacs.leidenuniv.nl/' target='_blank'>Leiden Institute of Advanced Computer Science</a> at Leiden University, where she heads the <a href='http://perl.liacs.nl/' target='_blank'>PERL research group</a>, focused on programming education. She also works at the Vrije Universiteit Amsterdam one day a week, where she teaches <a href='https://masters.vu.nl/en/programmes/leraar-vho-betawetenschappen' target='_blank'>prospective computer science teachers</a>. Felienne is the creator of the <a href='http://www.hedycode.com/' target='_blank'>Hedy programming language</a>, and was one of the founders of the <a href='http://joyofcoding.org/' target='_blank'>Joy of Coding conference</a>. Read more on <a href='https://www.felienne.com/bio-and-pic' target='_blank'>her website</a>."
       abstract:
         title: 'Panel discussion: what constitutes clean, scientific code?'
-        content: ''
-  
+        content: 'TBA'
     - name: 'Jade Abbott (she/her)'
       image: 'jade.jpg'
       affiliation:
@@ -84,11 +79,10 @@
       git: 'https://github.com/jaderabbit'
       twitter: 'https://twitter.com/alienelf'
       researchgate:
-      bio: 'Jade Abbott is a Staff Engineer at Retro Rabbit. She's worked in every sphere from NGO to Finance. She currently trains and deploys deep learning systems to perform a variety of NLP tasks for real life systems. She has an MSc Computer Science from the University of Pretoria, and in 2019 co-founded Masakhane, a grassroots natural language processing initiative for Africans, by Africans.'
+      bio: "Jade Abbott is a Staff Engineer at Retro Rabbit. She's worked in every sphere from NGO to Finance. She currently trains and deploys deep learning systems to perform a variety of NLP tasks for real life systems. She has an MSc Computer Science from the University of Pretoria, and in 2019 co-founded Masakhane, a grassroots natural language processing initiative for Africans, by Africans."
       abstract:
         title: 'Panel discussion: what constitutes clean, scientific code?'
-        content: ''
-
+        content: 'TBA'
     - name: 'Adora Nwodo (she/her)'
       image: 'adora.jpg'
       affiliation:
@@ -98,12 +92,10 @@
       git: 'https://github.com/adoranwodo'
       twitter: 'https://twitter.com/adoranwodo'
       researchgate:
-      bio: 'Nenne Adaora Nwodo (who fondly likes to be called Adora), is a Software Engineer based in Lagos, Nigeria. She currently works at Microsoft where she builds cloud services and high value experiences related to Artificial Intelligence and Mixed Reality. </br> In 2018, she created a blog called AdoraHack where she publishes articles on Software Engineering, Productivity & Career Growth. In June 2019, she created a YouTube channel for AdoraHack where she posts tech content that could be useful to Software Developers.
-      </br> Adora is a nominee of the Young CISO Awards 2020 (Young CISO Network), an award for young professionals in cybersecurity who go beyond the call of duty to make an impact in their workplace and industry. She is extremely passionate about the developer community and is trying to drive inclusion for women in technology. Adora also co-organizes community events, contributes to open source, mentors developers through the Microsoft LEAP program and speaks at technology conferences/meetups worldwide.'
+      bio: 'Nenne Adaora Nwodo (who fondly likes to be called Adora), is a Software Engineer based in Lagos, Nigeria. She currently works at Microsoft where she builds cloud services and high value experiences related to Artificial Intelligence and Mixed Reality. </br> In 2018, she created a blog called AdoraHack where she publishes articles on Software Engineering, Productivity & Career Growth. In June 2019, she created a YouTube channel for AdoraHack where she posts tech content that could be useful to Software Developers.</br> Adora is a nominee of the Young CISO Awards 2020 (Young CISO Network), an award for young professionals in cybersecurity who go beyond the call of duty to make an impact in their workplace and industry. She is extremely passionate about the developer community and is trying to drive inclusion for women in technology. Adora also co-organizes community events, contributes to open source, mentors developers through the Microsoft LEAP program and speaks at technology conferences/meetups worldwide.'
       abstract:
         title: 'Panel discussion: what constitutes clean, scientific code?'
-        content: '' 
-
+        content: 'TBA'
     - name: 'Yo Yehudi'
       image: 'you.png'
       affiliation:
@@ -116,9 +108,8 @@
       bio: ''
       abstract:
         title: 'Panel discussion: what constitutes clean, scientific code?'
-        content: '' 
-
-     - name: 'Patrick Mineault (he/him)'
+        content: ''
+    - name: 'Patrick Mineault (he/him)'
       image: 'patrick.jpg'
       affiliation:
         - 'Neural data science'
@@ -130,9 +121,8 @@
       bio: 'Patrick Mineault is an independent researcher and neural data scientist in Montreal, CA. He was CTO of Neuromatch Academy, research scientist on BCI at Facebook Reality Labs and a data scientist at Google. He obtained his PhD in computational neuroscience from McGill.'
       abstract:
         title: 'Panel discussion: what constitutes clean, scientific code?'
-        content: '' 
-
-     - name: Remi Gau
+        content: ''
+    - name: Remi Gau
       image: 'remi.png'
       affiliation:
         - TBA
@@ -144,40 +134,36 @@
       bio: TBA
       abstract:
         title: 'Panel discussion: what constitutes clean, scientific code?'
-        content: TBA 
-
+        content: TBA
 - day:
   date: Thursday, 25 March 2021
   speakers:
-  
-  - name: Stijn Denissen
-    image: you.png
-    affiliation:
-      - Ghent </br> Belgium
-    city: Belgium
-    homepage:
-    git:
-    twitter:
-    researchgate:
-    bio: 
-    abstract:
-      title: Introduction to data exploration with Python, Matlab/Octave and Jupyter Notebooks
-      content: 
-  
+    - name: Stijn Denissen
+      image: you.png
+      affiliation:
+        - Ghent </br> Belgium
+      city: Belgium
+      homepage:
+      git:
+      twitter:
+      researchgate:
+      bio: 
+      abstract:
+        title: Introduction to data exploration with Python, Matlab/Octave and Jupyter Notebooks
+        content:
 - day:
   date: Friday, 25 March 2021
   speakers:
-  
-  - name: Sicco de Knecht
-    image: you.png
-    affiliation:
-      - Utrecht University
-    city: Utrecht, The Netherlands
-    homepage:
-    git:
-    twitter:
-    researchgate:
-    bio:  
-    abstract:
-      title: Your research matters, to others
-      content: TBA
+    - name: Sicco de Knecht
+      image: you.png
+      affiliation:
+        - Utrecht University
+      city: Utrecht, The Netherlands
+      homepage:
+      git:
+      twitter:
+      researchgate:
+      bio: 
+      abstract:
+        title: Your research matters, to others
+        content: TBA
