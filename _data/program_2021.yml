@@ -37,9 +37,9 @@
     - {
         startTime: "11:00",
         endTime: "12:00",
-        sessionTitle: "To be announced",
-        speaker: "",
-        speakerLink: "",
+        sessionTitle: "Keynote",
+        speaker: "Daniel Alcala Lopez",
+        speakerLink: "../page-speakers",
         breakStatus,
         sessionType: "Talk",
         slides: "",
@@ -131,8 +131,8 @@
     - {
         startTime: "13:00",
         endTime: "13:45",
-        sessionTitle: "Data visualization demo",
-        speaker: "To be announced",
+        sessionTitle: "Data visualization with MNE",
+        speaker: "Britta Westner",
         speakerLink: "../page-speakers",
         breakStatus,
         sessionType: "Demo",
@@ -155,7 +155,7 @@
         speaker: "Stephan Heunis",
         speakerLink: "../page-speakers",
         breakStatus,
-        sessionType: "Workshop",
+        sessionType: "Demo",
         slides: "",
       }
     - {
@@ -231,7 +231,7 @@
         speaker: "Simon Van Eyndhoven",
         speakerLink: "../page-speakers",
         breakStatus,
-        sessionTitle: "Falling Walls: summarizing your research in 3 minutes",
+        sessionTitle: "Falling Walls: Explaining years of research in 3 minutes",
         sessionType: "Demo",
         slides: "",
       }
@@ -258,10 +258,10 @@
     - {
         startTime: "12:15",
         endTime: "12:30",
-        speaker: "To be announced",
+        speaker: "Kayla Green",
         speakerLink: "../page-speakers",
         breakStatus,
-        sessionTitle: "To be announced",
+        sessionTitle: "Citizen Science in Developmental Neuroscience",
         sessionType: "Demo",
         slides: "",
       }
@@ -291,7 +291,7 @@
         speaker: "Veronika Cheplygina",
         speakerLink: "../page-speakers",
         breakStatus,
-        sessionTitle: "Twitter for scientists",
+        sessionTitle: "Ten Simple Rules for Using Twitter as a Scientist",
         sessionType: "Demo",
         slides: "",
       }
@@ -301,7 +301,7 @@
         speaker: "Moss Zhao",
         speakerLink: "../page-speakers",
         breakStatus,
-        sessionTitle: "Podcasting",
+        sessionTitle: "Podcast 101",
         sessionType: "Demo",
         slides: "",
       }
@@ -318,10 +318,16 @@
     - {
         startTime: "15:00",
         endTime: "15:45",
-        speaker: "To be announced",
+        speaker: 
+          {
+            "Guillaume Corradino",
+            "Elodie Chabrol",
+            "Stijn Denissen",
+            "Simon Van Eyndhoven",
+          },
         speakerLink: "../page-speakers",
         breakStatus,
-        sessionTitle: "Panel discussion: science communication and open science",
+        sessionTitle: "Panel discussion: science communication",
         sessionType: "Panel",
         slides: "",
       }
@@ -332,7 +338,7 @@
         speakerLink: "../page-team",
         breakStatus,
         sessionTitle: "Hackathon results & closing",
-        sessionType: "To be announced",
+        sessionType: "Talk",
         slides: "",
       }
     - {
