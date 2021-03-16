@@ -43,16 +43,6 @@
                 {% include speaker-card.html data=speaker%}
               </div>
 
-              {% if speaker.host %}
-              <div class="tile is-child">
-                <button class="accordion">Host of the day!</button>
-                <div class="panel">
-                  <p>{{ speaker.host }}</p>
-                  <br />
-                </div>
-              </div>
-              {% endif %}
-
               <div class="tile is-child">
                 <button class="accordion">
                   <i class="fas fa-id-card"></i>
@@ -64,7 +54,17 @@
                 </div>
               </div>
 
-              {% if speaker.abstract %}
+              {% if speaker.host %}
+              <div class="tile is-child">
+                <button class="accordion" style="color: #ffd966">
+                  Host of the day!
+                </button>
+                <div class="panel">
+                  <p>{{ speaker.host }}</p>
+                  <br />
+                </div>
+              </div>
+              {% endif %} {% if speaker.abstract %}
               <div class="tile is-child">
                 <button class="accordion">
                   <i class="fas fa-comment"></i>
@@ -111,8 +111,7 @@
 
       for (i = 0; i < acc.length; i++) {
         acc[i].addEventListener("click", function () {
-          /* Toggle between adding and removing the "active" class,
-        to highlight the button that controls the panel */
+          /* Toggle between adding and removing the "active" class, to highlight the button that controls the panel */
           this.classList.toggle("active");
 
           /* Toggle between hiding and showing the active panel */

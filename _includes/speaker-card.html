@@ -2,7 +2,9 @@
   class="container {% if include.column %} {{ include.column }}{% endif %}"
 >
   <div class="level"></div>
-  <table cellpadding="20px" style="background-color: #dbe9f4">
+  {% if include.data.host %}{% assign tile-bgcolor = '#ffd96650' %}{% else %}{%
+  assign tile-bgcolor = '#dbe9f4' %}{% endif %}
+  <table cellpadding="20px" style="background-color: {{ tile-bgcolor }}">
     <tr>
       <td
         height="300px"
