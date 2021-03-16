@@ -14,13 +14,14 @@
             <!-- limit (tiles per column) and offset (start column with that nr) are hardcoded => to improve -->
             <!-- hardcode lim (> limit) -->
             {% if team.section == "Organizing committee" %}{% assign lim = '4'
-            %}{% elsif team.section == "Advisors" %} {% assign lim = '2' %}{%
+            %}{% elsif team.section == "Advisors" %}{% assign lim = '2' %}{%
             endif %}
             <!-- hardcode nr (> offset) -->
-            {% if loop == 0 %}{% assign nr = '0' %}{% elsif loop == 1 and
-            team.section == "Organizing committee" %}{% assign nr = '4' %}{%
-            elsif loop == 1 and team.section == "Advisors" %}{% assign nr = '2'
-            %}{% endif %}
+            {% if loop == 0 %}{% assign nr = '0' %}{% endif %}
+            <!-- -->
+            {% if loop == 1 and team.section == "Organizing committee" %}{%
+            assign nr = '4' %}{% elsif loop == 1 and team.section == "Advisors"
+            %}{% assign nr = '2' %}{% endif %}
             <!-- start for loop -->
             {% for teamMember in team.members limit: lim offset: nr %}
             <div class="tile is-child box">
@@ -34,7 +35,6 @@
                   <i class="fas fa-id-card"></i>
                   &nbsp;&nbsp;Bio
                 </button>
-
                 <div class="panel">
                   <p>{{ teamMember.bio }}</p>
                 </div>

@@ -1,5 +1,5 @@
 - date: "2021-03-24"
-  dateReadable: "Day 1: Wednesday, 24<sup>th</sup> March 2021"
+  dateReadable: "Day 1: Wednesday, 24 March 2021"
   tracks:
     - { title: "TrainTrack", color: "#90be4e" }
     - { title: "HackTrack", color: "#03a9f4" }
@@ -58,11 +58,7 @@
         startTime: "13:00",
         endTime: "15:00",
         sessionTitle: "Git(Hub) workshop",
-        speaker:
-          {
-            "Stefano Moia",
-            "Melvin Selim Atay",
-          },
+        speaker: { "Stefano Moia", "Melvin Selim Atay" },
         speakerLink: "../page-speakers",
         breakStatus,
         sessionType: "Workshop",
@@ -97,7 +93,7 @@
         slides: "",
       }
 - date: "2021-03-25"
-  dateReadable: "Day 2: Thursday, 25<sup>th</sup> March 2021"
+  dateReadable: "Day 2: Thursday, 25 March 2021"
   tracks:
     - { title: "TrainTrack", color: "#90be4e" }
     - { title: "HackTrack", color: "#03a9f4" }
@@ -116,11 +112,7 @@
         startTime: "10:15",
         endTime: "12:00",
         sessionTitle: "Introduction to data exploration with Python, Matlab/Octave and Jupyter notebooks",
-        speaker:
-          {
-            "Stijn Denissen",
-            "To be announced",
-          },
+        speaker: { "Stijn Denissen", "To be announced" },
         speakerLink: "../page-speakers",
         breakStatus,
         sessionType: "Workshop",
@@ -188,7 +180,7 @@
       }
 
 - date: "2021-03-26"
-  dateReadable: "Day 3: Friday, 26<sup>th</sup> March 2021"
+  dateReadable: "Day 3: Friday, 26 March 2021"
   tracks:
     - { title: "TrainTrack", color: "#90be4e" }
     - { title: "HackTrack", color: "#03a9f4" }

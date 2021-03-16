@@ -7,4 +7,4 @@ show_sidebar: false
 #hero_image: assets/ext_images/home_logo.png
 ---
 
-Coming soon!
+{% include speakers.html this_year_speakers=site.data.speakers_2021 %}

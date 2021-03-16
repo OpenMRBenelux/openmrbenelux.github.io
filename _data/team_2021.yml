@@ -1,18 +1,20 @@
-# members:
-# - name:
-#   linkName:
-#   image:
-#   homepage:
-#   affiliation:
-#   city:
-#   twitter:
-#   git:
-#   researchgate:
-#   bio:
+# - section:
+#   members:
+#     - name:
+#       linkName:
+#       image:
+#       homepage:
+#       affiliation:
+#         -
+#       city:
+#       twitter:
+#       git:
+#       researchgate:
+#       bio:
 
 - section: "Organizing committee"
   members:
-    - name: "Stephan Heunis (He/him)"
+    - name: "Stephan Heunis (he/him)"
       linkName: "stephan"
       image: "stephan.png"
       homepage: "https://jsheunis.github.io/"
@@ -22,7 +24,7 @@
       git: "https://github.com/jsheunis/"
       researchgate: "https://www.researchgate.net/profile/Stephan_Heunis2"
       bio: "Stephan is a biomedical engineer from Stellenbosch, South Africa, where he worked in industry before moving to Europe with the goal of studying in the field of neuroscience. He is currently finishing up his PhD in real-time fMRI methods development and validation. He is passionate about making research and scientific practice more transparent, rigorous and inclusive. He started the Open Science Community Eindhoven, which is part of a wide Dutch network of researchers and university employees that works on improving the way we do science, and he is the founder of OpenMR Benelux, a community working on wider adoption of open science principles in MRI research through talks, discussions, workshops and hackathons."
-    - name: "Stijn Denissen"
+    - name: "Stijn Denissen (he/him)"
       linkName: "stijn"
       image: "stijn.jpg"
       homepage: "https://www.linkedin.com/in/stijndenissen/"
@@ -32,7 +34,7 @@
       git: "https://github.com/Sdniss"
       researchgate: ~
       bio: "I was trained as a neurological rehabilitation scientist at the KU Leuven, after which I started my PhD in medical sciences, applying artificial intelligence (AI) to the field of neurosciences. More specifically, I explore predictive models that could ultimately predict the future disease course of persons suffering from Multiple Sclerosis. Besides the content of my PhD, I am highly passionate about the idea of open and reproducible science, as well as the crystal-clear science communication of research to laymen. For the latter, I release the musician in me to the papers I write or encounter, turning them in songs that are understandable to anyone interested."
-    - name: "Sofie Van Den Bossche (She/her)"
+    - name: "Sofie Van Den Bossche (she/her)"
       linkName: "sofie"
       image: "sofie.png"
       homepage: "https://www.linkedin.com/in/sofie-van-den-bossche-bb6592113/"
@@ -42,7 +44,7 @@
       git: "https://github.com/sofievdbos"
       researchgate: "https://www.researchgate.net/profile/Sofie_Van_Den_Bossche2"
       bio: 'Sofie is currently doing a PhD at the Department of Data Analysis (Ghent University, Ghent, Belgium), supervised by Prof. Dr. Daniele Marinazzo. Her research focuses on the intertwined domains of (resting-state) neuroscience and lateralization/handedness. During her PhD, she has also been involved in Open Science events, either as part of the organizing committee (BrainHack Ghent  <a href="https://brainhackghent.wixsite.com/brainhackghent" target="_blank">2017</a>, <a href="https://brainhackghent.github.io/" target="_blank">2018</a> and <a href="http://www.brainhack.org/global2019/">Brainhack Global 2019</a>) or as a volunteer (e.g. Pint of Science, Ghent). Creating an Open Science community and communicating Open Science to a broader public is something she wants to be progressively involved in.'
-    - name: "Remi Gau (He/him)"
+    - name: "Remi Gau (he/him)"
       linkName: "remi"
       image: "remi.png"
       homepage: "https://remi-gau.github.io/"
@@ -52,7 +54,7 @@
       git: "https://github.com/Remi-Gau"
       researchgate: "https://www.researchgate.net/profile/Remi_Gau"
       bio: "Remi is a postdoctoral fellow in the Crossmodal Perception and Plasticity laboratory (CPP-Lab) at  the Université catholique de Louvain. His work focuses on the multisensory aspects of perception and he uses high-resolution MRI to address these questions. He sees in open science a way to a) build a more inclusive research community based on cooperation rather than competition and b) addresses some of the replicability and reproducibility issues that are affecting many areas of science."
-    - name: "Soetkin Beun (She/her)"
+    - name: "Soetkin Beun (she/her)"
       linkName: "soetkin"
       image: "soetkin.jpeg"
       homepage: ~
@@ -62,7 +64,7 @@
       git: "https://github.com/SoetkinB"
       researchgate: ~
       bio: "I am a PhD researcher at the department of Diagnostic Sciences at the university of Ghent. My research focuses on the development of a framework for the personalized use of brain perfusion measurements with Arterial Spin Labeling in the early diagnosis of neurodegenerative disorders."
-    - name: "Dorien Huijser (She/her)"
+    - name: "Dorien Huijser (she/her)"
       linkName: "dorien"
       image: "dorien.jpg"
       homepage: "https://erasmus-synclab.nl/"
