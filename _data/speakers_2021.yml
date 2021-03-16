@@ -214,16 +214,16 @@
 
 - date: "Day 3: Friday, 26 March 2021"
   speakers:
-    - name: "Soetkin Beun (she/her)"
-      linkName: "soetkin"
-      image: "soetkin.jpeg"
+    - name: "To be announced"
+      linkName: ~
+      image: "you.png"
       homepage: ~
-      affiliation: "Ghent University"
-      city: "Ghent, Belgium"
-      twitter: "https://www.twitter.com/Soetkin_Beun"
-      git: "https://github.com/SoetkinB"
+      affiliation: ~
+      city: ~
+      twitter: ~
+      git: ~
       researchgate: ~
-      bio: "I am a PhD researcher at the department of Diagnostic Sciences at the university of Ghent. My research focuses on the development of a framework for the personalized use of brain perfusion measurements with Arterial Spin Labeling in the early diagnosis of neurodegenerative disorders."
+      bio: "To be announced"
       host: "To be announced"
     - name: "Sicco de Knecht"
       linkName: "sicco"
