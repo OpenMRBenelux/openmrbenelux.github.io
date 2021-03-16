@@ -113,7 +113,7 @@
       image: 'patrick.jpg'
       affiliation:
         - 'Neural data science'
-      city: TBA
+      city: ''
       homepage: 'https://xcorr.net/'
       git: 'https://github.com/patrickmineault'
       twitter: 'https://twitter.com/patrickmineault'
@@ -122,35 +122,62 @@
       abstract:
         title: 'Panel discussion: what constitutes clean, scientific code?'
         content: ''
-    - name: Remi Gau
+    - name: 'Rémi Gau (he/him)'
       image: 'remi.png'
       affiliation:
-        - TBA
-      city: TBA
-      homepage: 
-      git: https://github.com/
-      twitter: https://twitter.com/
+        - 'Université catholique de Louvain'
+      city: 'Louvain-la-Neuve, Belgium'
+      homepage: 'https://remi-gau.github.io/'
+      git: 'https://github.com/Remi-Gau'
+      twitter: 'https://twitter.com/RemiGau'
       researchgate:
-      bio: TBA
+      bio: 'I am a postdoctoral fellow in the Crossmodal Perception and Plasticity laboratory (CPP-Lab) at  the Université catholique de Louvain. My work focuses on the multisensory aspects of perception and I use high-resolution MRI to address these questions. I see in open science a way to a) build a more inclusive research community based on cooperation rather than competition and b) address some of the replicability and reproducibility issues that are affecting many areas of science.'
       abstract:
         title: 'Panel discussion: what constitutes clean, scientific code?'
-        content: TBA
+        content: 'Like most scientists I was never given any training on how to write code and organize data. It is only years down the line that started realizing the mental and opportunity costs that this lack of training entails. I have recently been trying to create resources and support projects that try to prevent others making the same mistake.'
 - day:
   date: Thursday, 25 March 2021
   speakers:
-    - name: Stijn Denissen
-      image: you.png
+    - name: 'Stijn Denissen (he/him)'
+      image: 'stijn.jpeg'
       affiliation:
-        - Ghent </br> Belgium
-      city: Belgium
-      homepage:
-      git:
-      twitter:
+        - 'AIMS lab, Center for Neurosciences, UZ Brussel, Vrije Universiteit Brussel, Brussels, Belgium'
+        - 'icometrix, Leuven, Belgium'
+      city: 'Brussels, Belgium'
+      homepage: 'https://aims.research.vub.be/en/stijn-denissen'
+      git: 'https://github.com/Sdniss'
+      twitter: 'https://twitter.com/DenissenStijn'
       researchgate:
-      bio: 
+      bio: 'I am a PhD student at the Vrije Universiteit Brussel (VUB), focussing on bridging the gap between AI and neurology. By modelling disease trajectories of persons with Multiple Sclerosis, I try to predict individual disease courses to allow better clinical follow-up, and ultimately, quality of life.'
       abstract:
         title: Introduction to data exploration with Python, Matlab/Octave and Jupyter Notebooks
-        content:
+        content: ''
+    - name: Britta Westner
+      image: 'you.png'
+      affiliation:
+        - ''
+      city: ''
+      homepage: ''
+      git: 'https://github.com/'
+      twitter: 'https://twitter.com/'
+      researchgate:
+      bio: ''
+      abstract:
+        title: 'Data visualization with MNE'
+        content: ''
+    - name: 'Stephan Heunis (he/him)'
+      image: 'stephan.png'
+      affiliation:
+        - 'Eindhoven University of Technology, The Netherlands'
+      city: 'Eindhoven, The Netherlands'
+      homepage: 'https://jsheunis.github.io/'
+      git: 'https://github.com/jsheunis'
+      twitter: 'https://twitter.com/fmrwhy'
+      researchgate:
+      bio: 'Stephan is a biomedical engineer from Stellenbosch, South Africa, where he worked in industry before moving to Europe with the goal of studying in the field of neuroscience. He is currently finishing up his PhD in real-time fMRI methods development and validation. He is passionate about making research and scientific practice more transparent, rigorous and inclusive. He started the Open Science Community Eindhoven, which is part of a wide Dutch network of researchers and university employees that works on improving the way we do science, and he is the founder of OpenMR Benelux, a community working on wider adoption of open science principles in MRI research through talks, discussions, workshops and hackathons.'
+      abstract:
+        title: 'Visualizing data interactively with Plotly and Dash'
+        content: 'The tools are out there for researchers to publish their data and results in rich online formats that offer accessibility, interaction and exploration. Yet, we still see a majority of standard plots and images in PDF format. In this demo, we will explore the possibilities offered by Python, Plotly and Dash to make your research outputs interactive and future-aware! See a sneak preview here: https://rt-me-fmri.herokuapp.com/'
 - day:
   date: Friday, 25 March 2021
   speakers:
@@ -167,3 +194,107 @@
       abstract:
         title: Your research matters, to others
         content: TBA
+    - name: Sarah Leuridan
+      image: 'you.png'
+      affiliation:
+        - ''
+      city: ''
+      homepage: ''
+      git: 'https://github.com/'
+      twitter: 'https://twitter.com/'
+      researchgate:
+      bio: ''
+      abstract:
+        title: ''
+        content: ''
+    - name: 'Simon Van Eyndhoven (he/him)'
+      image: 'simon.jpg'
+      affiliation:
+        - 'icometrix'
+      city: 'Leuven, Belgium'
+      homepage: ''
+      git: 'https://github.com/svaneynd'
+      twitter: ''
+      researchgate:
+      bio: 'After completing my PhD in electrical engineering, with a focus on signal processing algorithms to analyze EEG-fMRI data from refractory epilepsy patients, I joined icometrix in 2020 as a machine learning researcher. Throughout my time as a PhD student, I discovered my passion for public speaking and participated in several science communication competitions.'
+      abstract:
+        title: 'Falling walls: Explaining years of research in 3 minutes'
+        content: 'As researchers, we delightfully go on and on and on, when someone inquires about what it is that we investigate, exactly. Deep down, we already realize that this does a disservice to our aim to express ourselves clearly. Luckily there's hope! All you need is 3 enthusiastic minutes - and a story that sticks.'
+    - name: 'Gil Costa'
+      image: 'you.png'
+      affiliation:
+        - ''
+      city: ''
+      homepage: ''
+      git: 'https://github.com/'
+      twitter: 'https://twitter.com/'
+      researchgate:
+      bio: ''
+      abstract:
+        title: ''
+        content: ''
+    - name: 'Kayla Green (she/her)'
+      image: 'kayla.JPG'
+      affiliation:
+        - 'Developmental Neuroscience in Society, Erasmus University Rotterdam'
+      city: 'Rotterdam, The Netherlands'
+      homepage: 'https://www.eur.nl/people/kayla-green'
+      git:
+      twitter: 'https://twitter.com/DrsKaylaGreen'
+      researchgate:
+      bio: 'Kayla Green is a PhD candidate in the SYNC lab at Eramus University Rotterdam. Her work mainly focuses on the developmental trajectories of emotional reactivity and wellbeing during adolescence and young adulthood. She combines neuroimaging techniques with citizen science to get create more societal impact.'
+      abstract:
+        title: 'Citizen Science in Developmental Neuroscience'
+        content: 'Society is rarely involved in the different steps of the research and design cycle. In citizen science, citizens become scientists themselves by contributing to part of the research project, for example in co-creating a new task or paradigm. '
+    - name: Guillaume Corradino
+      image: 'you.png'
+      affiliation:
+        - ''
+      city: ''
+      homepage: ''
+      git: 'https://github.com/'
+      twitter: 'https://twitter.com/'
+      researchgate:
+      bio: ''
+      abstract:
+        title: ''
+        content: ''
+    - name: Elodie Chabrol
+      image: 'you.png'
+      affiliation:
+        - ''
+      city: ''
+      homepage: ''
+      git: 'https://github.com/'
+      twitter: 'https://twitter.com/'
+      researchgate:
+      bio: ''
+      abstract:
+        title: ''
+        content: ''
+    - name: 'Veronika Cheplygina (she/her)'
+      image: 'veronika.jpg'
+      affiliation:
+        - 'Department of Computer Science, IT University Copenhagen, Denmark'
+      city: 'Copenhagen, Denmark'
+      homepage: 'https://www.veronikach.com'
+      git: 'https://github.com/vcheplygina'
+      twitter: 'https://twitter.com/DrVeronikaCh'
+      researchgate:
+      bio: 'Dr. Veronika Cheplygina's research focuses on limited labeled scenarios in machine learning, in particular in medical image analysis. She received her Ph.D. from Delft University of Technology in 2015. After a postdoc at the Erasmus Medical Center, in 2017 she started as a tenure track assistant professor at Eindhoven University of Technology. In 2020, failing to achieve various metrics, she decided to leave the tenure track of search of a place where she can contribute to open and inclusive science. She recently started as an associate professor at IT University of Copenhagen. Next to research and teaching, Veronika blogs about academic life on https://www.veronikach.com, and gives talks and workshops on failure and related topics.'
+      abstract:
+        title: 'Ten Simple Rules for using Twitter as a Scientist '
+        content: 'You have probably heard it many times from academics who have already discovered the advantages of social media - "you should be on Twitter"! Next to sharing your research, learning about advances from other fields, and cat pictures, many cite the sense of community as an important reason for being on the platform. Let's say you are already convinced and you made an account - what then? How do you get the most of Twitter, without it consuming all your time and energy? Based on a recent paper with the same name, in this talk I will discuss ten simple ideas that have helped me and other academics do exactly this'
+    - name: 'Moss Zhao (he/him)'
+      image: 'moss.jpg'
+      affiliation:
+        - 'Department of Radiology, Stanford University'
+      city: 'Stanford, USA'
+      homepage: 'https://profiles.stanford.edu/mosszhao'
+      git: ''
+      twitter: 'https://twitter.com/mosszhaodphil'
+      researchgate:
+      bio: 'I received my PhD from University of Oxford in 2019. My current research interest include arterial spin labeling, PET/MRI, and deep learning. I am passionate with open science and science communication.'
+      abstract:
+        title: 'Podcast 101'
+        content: 'In this talk, we will present the tips of making a successful science podcast.'
