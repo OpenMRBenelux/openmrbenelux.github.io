@@ -1,18 +1,43 @@
 <html>
   <body>
     <section>
-      <div class="container">
-        <a name="top"></a>
-
+      <div class="container is-fluid">
+        <h2 class="title" style="color: #004777">
+          Kudos to our amazing hosts & speakers!
+        </h2>
         {% for day in include.this_year_speakers %}
+        <h3 class="title" style="color: #004777">{{ day.date }}</h3>
 
-        <h2 style="color: #004777">{{ day.date }}</h2>
-
-        <div class="tile is-ancestor">
-          <div class="tile is-vertical is-6 is-parent">
-            {% for speaker in day.speakers %}
-
-            <div class="tile is-child box person">
+        <div class="tile is-ancestor person">
+          <!-- two columns -->
+          {% for loop in (0..1) %}
+          <div class="tile is-vertical is-parent">
+            <!-- https://gist.github.com/JJediny/a466eed62cee30ad45e2 -->
+            <!-- limit (tiles per column) and offset (start column with that nr) are hardcoded => to improve -->
+            <!-- hardcode lim (> limit) -->
+            <!-- Day 1 -->
+            {% if day.date == "Day 1: Wednesday, 24 March 2021" %}{% assign lim
+            = '5' %}{% endif %}
+            <!-- Day 2 -->
+            {% if day.date == "Day 2: Thursday, 25 March 2021" %}{% assign lim =
+            '2' %}{% endif %}
+            <!-- Day 3 -->
+            {% if day.date == "Day 3: Friday, 26 March 2021" %}{% assign lim =
+            '6' %}{% endif %}
+            <!-- hardcode nr (> offset) -->
+            {% if loop == 0 %}{% assign nr = '0' %}{% endif %}
+            <!-- Day 1 -->
+            {% if loop == 1 and day.date == "Day 1: Wednesday, 24 March 2021"
+            %}{% assign nr = '5' %}{% endif %}
+            <!-- Day 2 -->
+            {% if loop == 1 and day.date == "Day 2: Thursday, 25 March 2021"
+            %}{% assign nr = '2' %}{% endif %}
+            <!-- Day 3 -->
+            {% if loop == 1 and day.date == "Day 3: Friday, 26 March 2021" %}{%
+            assign nr = '6' %}{% endif %}
+            <!-- start for loop -->
+            {% for speaker in day.speakers limit: lim offset: nr %}
+            <div class="tile is-child box" id="{{ speaker.linkName }}">
               <div class="tile is-child">
                 <!-- <a name=teamMember.linkName></a> -->
                 {% include speaker-card.html data=speaker%}
@@ -20,46 +45,55 @@
 
               <div class="tile is-child">
                 <button class="accordion">
-                  <i class="fas fa-id-card bio-button"></i>
+                  <i class="fas fa-id-card"></i>
                   &nbsp;&nbsp;Bio
                 </button>
-
                 <div class="panel">
                   <p>{{ speaker.bio }}</p>
+                  <br />
                 </div>
               </div>
 
+              {% if speaker.host %}
+              <div class="tile is-child">
+                <button class="accordion" style="color: #ffd966">
+                  Host of the day!
+                </button>
+                <div class="panel">
+                  <p>{{ speaker.host }}</p>
+                  <br />
+                </div>
+              </div>
+              {% endif %} {% if speaker.abstract %}
               <div class="tile is-child">
                 <button class="accordion">
-                  <i class="fas fa-id-card bio-button"></i>
+                  <i class="fas fa-comment"></i>
                   &nbsp;&nbsp;Abstract
                 </button>
 
                 <div class="panel">
-                  <h6>{{ speaker.abstract.title }}</h6>
-                  <p>{{ speaker.abstract.content }}</p>
+                  {% for abstract in speaker.abstract %}
+                  <br />
+                  <!-- title -->
+                  <h6>{{ abstract[0] }}</h6>
+                  <!-- content -->
+                  <p>{{ abstract[1] }}</p>
+                  {% endfor %}
                 </div>
               </div>
+              {% endif %}
             </div>
-
-            <!-- Switch column -->
-            <!-- TODO: The 3 here is hard coded and should improved -->
-            {% if forloop.index == 4 %}
+            {% endfor %}
           </div>
-          <div class="tile is-vertical is-6 is-parent">
-            {% endif %} {% endfor %}
-          </div>
+          {% endfor %}
         </div>
 
         <img
           class="img-separator"
           src="{{ site.baseurl }}/assets/ext_images/2020/post_separator.png"
           alt="horizontal separator"
-        />
-
-        {% endfor %}
-
-        <a href="../page-speakers#top"
+        /><br />
+        <a href="#"
           ><i
             class="fas fa-arrow-alt-circle-up"
             style="
@@ -69,8 +103,10 @@
               vertical-align: middle;
               color: #004777;
             "
-          ></i
-        ></a>
+          ></i>
+        </a>
+        <br /><br />
+        {% endfor %}
       </div>
     </section>
 
@@ -80,8 +116,7 @@
 
       for (i = 0; i < acc.length; i++) {
         acc[i].addEventListener("click", function () {
-          /* Toggle between adding and removing the "active" class,
-    to highlight the button that controls the panel */
+          /* Toggle between adding and removing the "active" class, to highlight the button that controls the panel */
           this.classList.toggle("active");
 
           /* Toggle between hiding and showing the active panel */

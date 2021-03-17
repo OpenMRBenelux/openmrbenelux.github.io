@@ -1,5 +1,5 @@
 - date: "2021-03-24"
-  dateReadable: "Day 1: Wednesday, 24<sup>th</sup> March 2021"
+  dateReadable: "Day 1: Wednesday, 24 March 2021"
   tracks:
     - { title: "TrainTrack", color: "#90be4e" }
     - { title: "HackTrack", color: "#03a9f4" }
@@ -8,8 +8,7 @@
         startTime: "09:30",
         endTime: "10:00",
         sessionTitle: "Opening",
-        speaker: "OpenMR team",
-        speakerLink: "../page-team",
+        speaker: { "OpenMR team": "../page-team" },
         breakStatus,
         sessionType: "Talk",
         slides: "",
@@ -18,8 +17,10 @@
         startTime: "10:00",
         endTime: "10:30",
         sessionTitle: "Hackathon project pitches",
-        speaker: "Hackathon leaders",
-        speakerLink: "https://github.com/OpenMRBenelux/openmrb2021-hackathon",
+        speaker:
+          {
+            "Hackathon leaders": "https://github.com/OpenMRBenelux/openmrb2021-hackathon/labels/Hackathon%20Project",
+          },
         breakStatus,
         sessionType: "Talk",
         slides: "",
@@ -28,8 +29,6 @@
         startTime: "10:30",
         endTime: "11:00",
         sessionTitle: "Morning break",
-        speaker: "",
-        speakerLink: "",
         breakStatus: "break",
         sessionType: "",
         slides: "",
@@ -38,8 +37,7 @@
         startTime: "11:00",
         endTime: "12:00",
         sessionTitle: "The age of the researcher is over. The time of the community has come.",
-        speaker: "Daniel Alcalá López",
-        speakerLink: "../page-speakers",
+        speaker: { "Daniel Alcala Lopez": "../page-speakers#daniel" },
         breakStatus,
         sessionType: "Talk",
         slides: "",
@@ -48,8 +46,6 @@
         startTime: "12:00",
         endTime: "13:00",
         sessionTitle: "Lunch break",
-        speaker: "",
-        speakerLink: "",
         breakStatus: "break",
         sessionType: "",
         slides: "",
@@ -57,13 +53,12 @@
     - {
         startTime: "13:00",
         endTime: "15:00",
-        sessionTitle: "Git(Hub) workshop",
+        sessionTitle: "Introduction to Git(Hub)",
         speaker:
           {
-            "Stefano Moia",
-            "Melvin Selim Atay",
+            "Stefano Moia": "../page-speakers#stefano",
+            "Melvin Selim Atay": "../page-speakers#melvin",
           },
-        speakerLink: "../page-speakers",
         breakStatus,
         sessionType: "Workshop",
         slides: "",
@@ -72,8 +67,6 @@
         startTime: "15:00",
         endTime: "15:30",
         sessionTitle: "Afternoon break",
-        speaker: "",
-        speakerLink: "",
         breakStatus: "break",
         sessionType: "",
         slides: "",
@@ -84,20 +77,19 @@
         sessionTitle: "Panel discussion: what constitutes clean, scientific code?",
         speaker:
           {
-            "Felienne Hermans",
-            "Jade Abbott",
-            "Adora Nwodo",
-            "Yo Yehudi",
-            "Patrick Mineault",
-            "Remi Gau",
+            "Rémi Gau": "../page-speakers#remi",
+            "Felienne Hermans": "../page-speakers#felienne",
+            "Jade Abbott": "../page-speakers#jade",
+            "Adora Nwodo": "../page-speakers#adora",
+            "Yo Yehudi": "../page-speakers#yehudi",
+            "Patrick Mineault": "../page-speakers#patrick",
           },
-        speakerLink: "../page-speakers",
         breakStatus,
         sessionType: "Panel",
         slides: "",
       }
 - date: "2021-03-25"
-  dateReadable: "Day 2: Thursday, 25<sup>th</sup> March 2021"
+  dateReadable: "Day 2: Thursday, 25 March 2021"
   tracks:
     - { title: "TrainTrack", color: "#90be4e" }
     - { title: "HackTrack", color: "#03a9f4" }
@@ -106,8 +98,7 @@
         startTime: "10:00",
         endTime: "10:15",
         sessionTitle: "Opening",
-        speaker: "OpenMR team",
-        speakerLink: "../page-team",
+        speaker: { "OpenMR team": "../page-team" },
         breakStatus,
         sessionType: "Talk",
         slides: "",
@@ -118,10 +109,9 @@
         sessionTitle: "Introduction to data exploration with Python, Matlab/Octave and Jupyter notebooks",
         speaker:
           {
-            "Stijn Denissen",
-            "To be announced",
+            "Stijn Denissen": "../page-speakers#stijn",
+            "To be announced": "../page-speakers",
           },
-        speakerLink: "../page-speakers",
         breakStatus,
         sessionType: "Workshop",
         slides: "",
@@ -130,8 +120,6 @@
         startTime: "12:00",
         endTime: "13:00",
         sessionTitle: "Lunch break",
-        speaker: "",
-        speakerLink: "",
         breakStatus: "break",
         sessionType: "",
         slides: "",
@@ -140,8 +128,7 @@
         startTime: "13:00",
         endTime: "13:45",
         sessionTitle: "Data visualization with MNE",
-        speaker: "Britta Westner",
-        speakerLink: "../page-speakers",
+        speaker: { "Britta Westner": "../page-speakers#britta" },
         breakStatus,
         sessionType: "Demo",
         slides: "",
@@ -150,8 +137,6 @@
         startTime: "13:45",
         endTime: "14:00",
         sessionTitle: "Afternoon break",
-        speaker: "",
-        speakerLink: "",
         breakStatus: "break",
         sessionType: "",
         slides: "",
@@ -160,8 +145,7 @@
         startTime: "14:00",
         endTime: "14:45",
         sessionTitle: "Visualizing data interactively with Plotly and Dash",
-        speaker: "Stephan Heunis",
-        speakerLink: "../page-speakers",
+        speaker: { "Stephan Heunis": "../page-speakers#stephan" },
         breakStatus,
         sessionType: "Demo",
         slides: "",
@@ -170,8 +154,6 @@
         startTime: "14:45",
         endTime: "15:00",
         sessionTitle: "Afternoon break",
-        speaker: "",
-        speakerLink: "",
         breakStatus: "break",
         sessionType: "",
         slides: "",
@@ -180,15 +162,17 @@
         startTime: "15:00",
         endTime: "16:00",
         sessionTitle: "Unconference",
-        speaker: "You",
-        speakerLink: "",
+        speaker:
+          {
+            "You": "https://github.com/OpenMRBenelux/openmrb2021-hackathon/labels/Unconference",
+          },
         breakStatus,
         sessionType: "",
         slides: "https://github.com/OpenMRBenelux/openmrb2021-hackathon/labels/Unconference",
       }
 
 - date: "2021-03-26"
-  dateReadable: "Day 3: Friday, 26<sup>th</sup> March 2021"
+  dateReadable: "Day 3: Friday, 26 March 2021"
   tracks:
     - { title: "TrainTrack", color: "#90be4e" }
     - { title: "HackTrack", color: "#03a9f4" }
@@ -196,8 +180,7 @@
     - {
         startTime: "10:00",
         endTime: "10:10",
-        speaker: "OpenMR team",
-        speakerLink: "../page-team",
+        speaker: { "OpenMR team": "../page-team" },
         breakStatus,
         sessionTitle: "Opening",
         sessionType: "Talk",
@@ -206,8 +189,7 @@
     - {
         startTime: "10:10",
         endTime: "10:30",
-        speaker: "Sicco de Knecht",
-        speakerLink: "../page-speakers",
+        speaker: { "Sicco de Knecht": "../page-speakers#sicco" },
         breakStatus,
         sessionTitle: "Your research matters, to others",
         sessionType: "Talk",
@@ -216,8 +198,7 @@
     - {
         startTime: "10:30",
         endTime: "11:00",
-        speaker: "Sarah Leuridan",
-        speakerLink: "../page-speakers",
+        speaker: { "Sarah Leuridan": "../page-speakers#sarah" },
         breakStatus,
         sessionTitle: "Outreach at a university",
         sessionType: "Talk",
@@ -226,8 +207,6 @@
     - {
         startTime: "11:00",
         endTime: "11:15",
-        speaker: "",
-        speakerLink: "",
         breakStatus: "break",
         sessionTitle: "Morning break",
         sessionType: "",
@@ -236,8 +215,7 @@
     - {
         startTime: "11:15",
         endTime: "11:35",
-        speaker: "Simon Van Eyndhoven",
-        speakerLink: "../page-speakers",
+        speaker: { "Simon Van Eyndhoven": "../page-speakers#simon" },
         breakStatus,
         sessionTitle: "Falling Walls: Explaining years of research in 3 minutes",
         sessionType: "Demo",
@@ -246,8 +224,7 @@
     - {
         startTime: "11:35",
         endTime: "11:55",
-        speaker: "Gil Costa",
-        speakerLink: "../page-speakers",
+        speaker: { "Gil Costa": "../page-speakers#gil" },
         breakStatus,
         sessionTitle: "Visualizing neuroscience",
         sessionType: "Demo",
@@ -256,8 +233,7 @@
     - {
         startTime: "11:55",
         endTime: "12:15",
-        speaker: "Stijn Denissen",
-        speakerLink: "../page-speakers",
+        speaker: { "Stijn Denissen": "../page-speakers#stijn2" },
         breakStatus,
         sessionTitle: "A paper in a song",
         sessionType: "Demo",
@@ -266,8 +242,7 @@
     - {
         startTime: "12:15",
         endTime: "12:30",
-        speaker: "Kayla Green",
-        speakerLink: "../page-speakers",
+        speaker: { "Kayla Green": "../page-speakers#kayla" },
         breakStatus,
         sessionTitle: "Citizen Science in Developmental Neuroscience",
         sessionType: "Demo",
@@ -276,8 +251,6 @@
     - {
         startTime: "12:30",
         endTime: "13:30",
-        speaker: "",
-        speakerLink: "",
         breakStatus: "break",
         sessionTitle: "Lunch break",
         sessionType: "",
@@ -286,18 +259,20 @@
     - {
         startTime: "13:30",
         endTime: "14:05",
-        speaker: { "Guillaume Corradino", "Elodie Chabrol" },
-        speakerLink: "../page-speakers",
+        speaker:
+          {
+            "Guillaume Corradino": "../page-speakers#guillaume",
+            "Elodie Chabrol": "../page-speakers#elodie",
+          },
         breakStatus,
-        sessionTitle: "Pint of Science, Beyond Research",
-        sessionType: "Demo",
+        sessionTitle: "From science festivals to institutional projects: the case for a grassroots approach",
+        sessionType: "Talk",
         slides: "",
       }
     - {
         startTime: "14:05",
         endTime: "14:25",
-        speaker: "Veronika Cheplygina",
-        speakerLink: "../page-speakers",
+        speaker: { "Veronika Cheplygina": "../page-speakers#veronika" },
         breakStatus,
         sessionTitle: "Ten Simple Rules for Using Twitter as a Scientist",
         sessionType: "Demo",
@@ -306,8 +281,7 @@
     - {
         startTime: "14:25",
         endTime: "14:45",
-        speaker: "Moss Zhao",
-        speakerLink: "../page-speakers",
+        speaker: { "Moss Zhao": "../page-speakers#moss" },
         breakStatus,
         sessionTitle: "Podcast 101",
         sessionType: "Demo",
@@ -316,8 +290,6 @@
     - {
         startTime: "14:45",
         endTime: "15:00",
-        speaker: "",
-        speakerLink: "",
         breakStatus: "break",
         sessionTitle: "Afternoon break",
         sessionType: "",
@@ -326,14 +298,15 @@
     - {
         startTime: "15:00",
         endTime: "15:45",
-        speaker: 
+        speaker:
           {
-            "Guillaume Corradino",
-            "Elodie Chabrol",
-            "Stijn Denissen",
-            "Simon Van Eyndhoven",
+            "Stijn Denissen": "../page-speakers#stijn2",
+            "Guillaume Corradino": "../page-speakers#guillaume",
+            "Elodie Chabrol": "../page-speakers#elodie",
+            "Simon Van Eyndhoven": "../page-speakers#simon",
+            "Sarah Leuridan": "../page-speakers#sarah",
+            "Gil Costa": "../page-speakers#gil",
           },
-        speakerLink: "../page-speakers",
         breakStatus,
         sessionTitle: "Panel discussion: science communication",
         sessionType: "Panel",
@@ -342,8 +315,11 @@
     - {
         startTime: "15:45",
         endTime: "16:00",
-        speaker: { "OpenMR team", "Hackathon leaders" },
-        speakerLink: "../page-team",
+        speaker:
+          {
+            "OpenMR team": "../page-team",
+            "Hackathon leaders": "https://github.com/OpenMRBenelux/openmrb2021-hackathon/labels/Hackathon%20Project",
+          },
         breakStatus,
         sessionTitle: "Hackathon results & closing",
         sessionType: "Talk",
@@ -352,8 +328,7 @@
     - {
         startTime: "16:00",
         endTime: "...",
-        speaker: "You",
-        speakerLink: "",
+        speaker: { "You": "" },
         breakStatus,
         sessionTitle: "Virtual drinks",
         sessionType: "",
