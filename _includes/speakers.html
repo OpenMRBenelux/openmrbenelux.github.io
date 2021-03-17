@@ -37,7 +37,7 @@
             assign nr = '5' %}{% endif %}
             <!-- start for loop -->
             {% for speaker in day.speakers limit: lim offset: nr %}
-            <div class="tile is-child box">
+            <div class="tile is-child box" id="{{ speaker.linkName }}">
               <div class="tile is-child">
                 <!-- <a name=teamMember.linkName></a> -->
                 {% include speaker-card.html data=speaker%}

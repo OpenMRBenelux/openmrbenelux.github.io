@@ -52,10 +52,10 @@
                 <p>
                   {% for speaker in timeSlot.speaker %}
                   <span style="color: #ffd966">
-                    <i class="fas fa-user-astronaut"></i>&nbsp;&nbsp;
+                    <i class="fas fa-user-astronaut"></i> &nbsp;&nbsp;
                   </span>
-                  <a href="{{ timeSlot.speakerLink }}">{{ speaker }}</a
-                  >&nbsp;&nbsp; {% endfor %}
+                  <a href="{{ speaker[1] }}">{{ speaker[0] }}</a> &nbsp;&nbsp;
+                  {% endfor %}
                 </p>
                 {% endif %}
               </td>
