@@ -19,7 +19,7 @@
         sessionTitle: "Hackathon project pitches",
         speaker:
           {
-            "Hackathon leaders": "https://github.com/OpenMRBenelux/openmrb2021-hackathon",
+            "Hackathon leaders": "https://github.com/OpenMRBenelux/openmrb2021-hackathon/labels/Hackathon%20Project",
           },
         breakStatus,
         sessionType: "Talk",
@@ -163,7 +163,9 @@
         endTime: "16:00",
         sessionTitle: "Unconference",
         speaker:
-          { "You": "https://github.com/OpenMRBenelux/openmrb2021-hackathon" },
+          {
+            "You": "https://github.com/OpenMRBenelux/openmrb2021-hackathon/labels/Unconference",
+          },
         breakStatus,
         sessionType: "",
         slides: "",
@@ -316,7 +318,7 @@
         speaker:
           {
             "OpenMR team": "../page-team",
-            "Hackathon leaders": "https://github.com/OpenMRBenelux/openmrb2021-hackathon",
+            "Hackathon leaders": "https://github.com/OpenMRBenelux/openmrb2021-hackathon/labels/Hackathon%20Project",
           },
         breakStatus,
         sessionTitle: "Hackathon results & closing",
