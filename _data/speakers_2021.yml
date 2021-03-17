@@ -299,17 +299,21 @@
           title: "Citizen Science in Developmental Neuroscience",
           content: "Society is rarely involved in the different steps of the research and design cycle. In citizen science, citizens become scientists themselves by contributing to part of the research project, for example in co-creating a new task or paradigm.",
         }
-    - name: "Guillaume Corradino"
+    - name: "Guillaume Corradino (he/him)"
       linkName: "guillaume"
-      image: "you.png"
-      homepage: ~
-      affiliation: ~
+      image: "guillaume.jpg"
+      homepage: "www.beyondresearch.eu"
+      affiliation: "Pint of Science Belgium, Beyond Research"
       city: ~
-      twitter: ~
+      twitter: "https://twitter.com/guicorradino"
       git: ~
       researchgate: ~
-      bio: "To be announced"
-      abstract: { title: "To be announced", content: "To be announced" }
+      bio: "While my academic background is in political sciences, my career has largely focused on promoting and disseminating results from European research projects, mainly in the energy, transport and environmental sectors. Since 2017, I have co-founded two non profit organisations dedicated to science outreach:  the Belgian chapter of the Pint of Science festival, and Beyond Research."
+      abstract:
+        {
+          title: "From science festivals to institutional projects: the case for a grassroots approach",
+          content: "In this talk I will present how the international science festival Pint of Science is implemented in Belgium at the local level, and how, concretely, researchers can get involved. In the second part of the talk, I will show how such grassroots initiatives can also be part of  broader outreach and dissemination strategies for public funded research projects.",
+        }
     - name: "Elodie Chabrol"
       linkName: "elodie"
       image: "you.png"
