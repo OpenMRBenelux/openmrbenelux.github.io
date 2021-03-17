@@ -41,17 +41,21 @@
           title: "The age of the researcher is over. The time of the community has come.",
           content: "Many people doing research report feeling isolated or experiencing mental health difficulties, especially given the great expectations we place on ourselves. Although it may be intimidating, being part of a community can provide a safety net for people to overcome some of these challenges with the help and support of others.",
         }
-    - name: "Stefano Moia"
+    - name: "Stefano Moia (he/him)"
       linkName: "stefano"
-      image: "you.png"
-      homepage: ~
-      affiliation: ~
+      image: "stefano.jpg"
+      homepage: "https://www.bcbl.eu/en/conocenos/equipo/stefano-moia"
+      affiliation: "Basque Center on Cognition, Brain and Language"
       city: ~
-      twitter: ~
-      git: ~
+      twitter: "https://twitter.com/SteMoia"
+      git: "https://github.com/smoia"
       researchgate: ~
-      bio: "To be announced"
-      abstract: { title: "Git(Hub) workshop", content: "To be announced" }
+      bio: "As co-founder and current project manager of physiopy and strong advocate of open science and open development, I'm currently studying the impact of cerebral physiology on BOLD imaging, from resting state to task induced activations. When I'm not at the desk, you can probably find me cooking or baking something (hopefully) delicious."
+      abstract:
+        {
+          title: "Introduction to Git(Hub)",
+          content: "The workshop aims at helping participants move their first steps into the world of Version Control Systems (git) and possible real life situations they might encounter when collaborating on git-based projects with others.",
+        }
     - name: "Melvin Selim Atay"
       linkName: "melvin"
       image: "you.png"
