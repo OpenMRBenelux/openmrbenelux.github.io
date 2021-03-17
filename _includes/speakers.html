@@ -70,10 +70,15 @@
                   <i class="fas fa-comment"></i>
                   &nbsp;&nbsp;Abstract
                 </button>
+
                 <div class="panel">
+                  {% for abstract in speaker.abstract %}
                   <br />
-                  <h6>{{ speaker.abstract.title }}</h6>
-                  <p>{{ speaker.abstract.content }}</p>
+                  <!-- title -->
+                  <h6>{{ abstract[0] }}</h6>
+                  <!-- content -->
+                  <p>{{ abstract[1] }}</p>
+                  {% endfor %}
                 </div>
               </div>
               {% endif %}

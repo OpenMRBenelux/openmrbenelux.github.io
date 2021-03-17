@@ -11,7 +11,7 @@
 #       git:
 #       researchgate:
 #       bio:
-#       abstract: { title: "To be announced", content: "To be announced" }
+#       abstract: { "title": "content" }
 
 - date: "Day 1: Wednesday, 24 March 2021"
   speakers:
@@ -38,8 +38,7 @@
       bio: "My background in psychology and neuroscience inspired me to start walking the path of academic research. After working for several years in the field of neuroimaging as a PhD student (RWTH Aachen, Germany) and postdoc (BCBL, Spain), I am now taking the leap out of academia as a biostatistician. Looking for a contribution to the scientific enterprise from another perspective."
       abstract:
         {
-          title: "The age of the researcher is over. The time of the community has come.",
-          content: "Many people doing research report feeling isolated or experiencing mental health difficulties, especially given the great expectations we place on ourselves. Although it may be intimidating, being part of a community can provide a safety net for people to overcome some of these challenges with the help and support of others.",
+          "The age of the researcher is over. The time of the community has come.": "Many people doing research report feeling isolated or experiencing mental health difficulties, especially given the great expectations we place on ourselves. Although it may be intimidating, being part of a community can provide a safety net for people to overcome some of these challenges with the help and support of others.",
         }
     - name: "Stefano Moia (he/him)"
       linkName: "stefano"
@@ -53,8 +52,7 @@
       bio: "As co-founder and current project manager of physiopy and strong advocate of open science and open development, I'm currently studying the impact of cerebral physiology on BOLD imaging, from resting state to task induced activations. When I'm not at the desk, you can probably find me cooking or baking something (hopefully) delicious."
       abstract:
         {
-          title: "Introduction to Git(Hub)",
-          content: "The workshop aims at helping participants move their first steps into the world of Version Control Systems (git) and possible real life situations they might encounter when collaborating on git-based projects with others.",
+          "Introduction to Git(Hub)": "The workshop aims at helping participants move their first steps into the world of Version Control Systems (git) and possible real life situations they might encounter when collaborating on git-based projects with others.",
         }
     - name: "Melvin Selim Atay"
       linkName: "melvin"
@@ -66,7 +64,7 @@
       git: ~
       researchgate: ~
       bio: "To be announced"
-      abstract: { title: "Git(Hub) workshop", content: "To be announced" }
+      abstract: { "Git(Hub) workshop": "To be announced" }
     - name: "Felienne Hermans (she/her)"
       linkName: "felienne"
       image: "felienne.jpg"
@@ -79,8 +77,7 @@
       bio: "Felienne is associate professor at the <a href='http://liacs.leidenuniv.nl/' target='_blank'>Leiden Institute of Advanced Computer Science</a> at Leiden University, where she heads the <a href='http://perl.liacs.nl/' target='_blank'>PERL research group</a>, focused on programming education. She also works at the Vrije Universiteit Amsterdam one day a week, where she teaches <a href='https://masters.vu.nl/en/programmes/leraar-vho-betawetenschappen' target='_blank'>prospective computer science teachers</a>. Felienne is the creator of the <a href='http://www.hedycode.com/' target='_blank'>Hedy programming language</a>, and was one of the founders of the <a href='http://joyofcoding.org/' target='_blank'>Joy of Coding conference</a>. Read more on <a href='https://www.felienne.com/bio-and-pic' target='_blank'>her website</a>."
       abstract:
         {
-          title: "Panel discussion: what constitutes clean, scientific code?",
-          content: "To be announced",
+          "Panel discussion: what constitutes clean, scientific code?": "To be announced",
         }
     - name: "Jade Abbott (she/her)"
       linkName: "jade"
@@ -94,8 +91,7 @@
       bio: "Jade Abbott is a Staff Engineer at Retro Rabbit. She's worked in every sphere from NGO to Finance. She currently trains and deploys deep learning systems to perform a variety of NLP tasks for real life systems. She has an MSc Computer Science from the University of Pretoria, and in 2019 co-founded Masakhane, a grassroots natural language processing initiative for Africans, by Africans."
       abstract:
         {
-          title: "Panel discussion: what constitutes clean, scientific code?",
-          content: "To be announced",
+          "Panel discussion: what constitutes clean, scientific code?": "To be announced",
         }
     - name: "Adora Nwodo (she/her)"
       linkName: "adora"
@@ -109,8 +105,7 @@
       bio: "Nenne Adaora Nwodo (who fondly likes to be called Adora), is a Software Engineer based in Lagos, Nigeria. She currently works at Microsoft where she builds cloud services and high value experiences related to Artificial Intelligence and Mixed Reality. In 2018, she created a blog called AdoraHack where she publishes articles on Software Engineering, Productivity & Career Growth. In June 2019, she created a YouTube channel for AdoraHack where she posts tech content that could be useful to Software Developers. Adora is a nominee of the Young CISO Awards 2020 (Young CISO Network), an award for young professionals in cybersecurity who go beyond the call of duty to make an impact in their workplace and industry. She is extremely passionate about the developer community and is trying to drive inclusion for women in technology. Adora also co-organizes community events, contributes to open source, mentors developers through the Microsoft LEAP program and speaks at technology conferences/meetups worldwide."
       abstract:
         {
-          title: "Panel discussion: what constitutes clean, scientific code?",
-          content: "To be announced",
+          "Panel discussion: what constitutes clean, scientific code?": "To be announced",
         }
     - name: "Yo Yehudi"
       linkName: "yehudi"
@@ -124,8 +119,7 @@
       bio: "To be announced"
       abstract:
         {
-          title: "Panel discussion: what constitutes clean, scientific code?",
-          content: "To be announced",
+          "Panel discussion: what constitutes clean, scientific code?": "To be announced",
         }
     - name: "Patrick Mineault (he/him)"
       linkName: "patrick"
@@ -139,8 +133,7 @@
       bio: "Patrick Mineault is an independent researcher and neural data scientist in Montreal, CA. He was CTO of Neuromatch Academy, research scientist on BCI at Facebook Reality Labs and a data scientist at Google. He obtained his PhD in computational neuroscience from McGill."
       abstract:
         {
-          title: "Panel discussion: what constitutes clean, scientific code?",
-          content: "To be announced",
+          "Panel discussion: what constitutes clean, scientific code?": "To be announced",
         }
     - name: "Rémi Gau (he/him)"
       linkName: "remi"
@@ -154,8 +147,7 @@
       bio: "I am a postdoctoral fellow in the Crossmodal Perception and Plasticity laboratory (CPP-Lab) at  the Université catholique de Louvain. My work focuses on the multisensory aspects of perception and I use high-resolution MRI to address these questions. I see in open science a way to a) build a more inclusive research community based on cooperation rather than competition and b) address some of the replicability and reproducibility issues that are affecting many areas of science."
       abstract:
         {
-          title: "Panel discussion: what constitutes clean, scientific code?",
-          content: "Like most scientists I was never given any training on how to write code and organize data. It is only years down the line that I started realizing the mental and opportunity costs that this lack of training entails. I have recently been trying to create resources and support projects that try to prevent others from making the same mistake.",
+          "Panel discussion: what constitutes clean, scientific code?": "Like most scientists I was never given any training on how to write code and organize data. It is only years down the line that I started realizing the mental and opportunity costs that this lack of training entails. I have recently been trying to create resources and support projects that try to prevent others from making the same mistake.",
         }
 
 - date: "Day 2: Thursday, 25 March 2021"
@@ -185,8 +177,7 @@
       bio: "I am a PhD student at the Vrije Universiteit Brussel (VUB), focussing on bridging the gap between AI and neurology. By modelling disease trajectories of persons with Multiple Sclerosis, I try to predict individual disease courses to allow better clinical follow-up, and ultimately, quality of life."
       abstract:
         {
-          title: "Introduction to data exploration with Python, Matlab/Octave and Jupyter Notebooks",
-          content: "To be announced",
+          "Introduction to data exploration with Python, Matlab/Octave and Jupyter Notebooks": "To be announced",
         }
     - name: "Britta Westner (she/her)"
       linkName: "britta"
@@ -198,11 +189,7 @@
       git: "https://github.com/britta-wstnr"
       researchgate: ~
       bio: "My current research focuses on predictive processes in the visual system using MEG methods, working at the Donders Institute in Nijmegen with Prof. Floris de Lange. Before, I worked on retinocortical interactions with Prof. Sarang Dalal, first at the University of Konstanz (Germany), where I obtained my PhD, and then at Aarhus University (Denmark) as a post-doctoral researcher. I am also interested in MEG decoding as well as MEG/EEG source reconstruction techniques and I am a core developer for the MEG/EEG data analysis toolbox MNE-Python, where I maintain the beamformer module."
-      abstract:
-        {
-          title: "Data visualization with MNE-Python",
-          content: "To be announced",
-        }
+      abstract: { "Data visualization with MNE-Python": "To be announced" }
     - name: "Stephan Heunis (he/him)"
       linkName: "stephan"
       image: "stephan.png"
@@ -215,8 +202,7 @@
       bio: "Stephan is a biomedical engineer from Stellenbosch, South Africa, where he worked in industry before moving to Europe with the goal of studying in the field of neuroscience. He is currently finishing up his PhD in real-time fMRI methods development and validation. He is passionate about making research and scientific practice more transparent, rigorous and inclusive. He started the Open Science Community Eindhoven, which is part of a wide Dutch network of researchers and university employees that works on improving the way we do science, and he is the founder of OpenMR Benelux, a community working on wider adoption of open science principles in MRI research through talks, discussions, workshops and hackathons."
       abstract:
         {
-          title: "Visualizing data interactively with Plotly and Dash",
-          content: "The tools are out there for researchers to publish their data and results in rich online formats that offer accessibility, interaction and exploration. Yet, we still see a majority of standard plots and images in PDF format. In this demo, we will explore the possibilities offered by Python, Plotly and Dash to make your research outputs interactive and future-aware! See a sneak preview here: <a href='https://rt-me-fmri.herokuapp.com/' target='_blank'>https://rt-me-fmri.herokuapp.com/</a>",
+          "Visualizing data interactively with Plotly and Dash": "The tools are out there for researchers to publish their data and results in rich online formats that offer accessibility, interaction and exploration. Yet, we still see a majority of standard plots and images in PDF format. In this demo, we will explore the possibilities offered by Python, Plotly and Dash to make your research outputs interactive and future-aware! See a sneak preview here: <a href='https://rt-me-fmri.herokuapp.com/' target='_blank'>https://rt-me-fmri.herokuapp.com/</a>",
         }
 
 - date: "Day 3: Friday, 26 March 2021"
@@ -242,11 +228,7 @@
       git: ~
       researchgate: ~
       bio: "To be announced"
-      abstract:
-        {
-          title: "Your research matters, to others",
-          content: "To be announced",
-        }
+      abstract: { "Your research matters, to others": "To be announced" }
     - name: "Sarah Leuridan"
       linkName: "sarah"
       image: "you.png"
@@ -257,7 +239,11 @@
       git: ~
       researchgate: ~
       bio: "To be announced"
-      abstract: { title: "To be announced", content: "To be announced" }
+      abstract:
+        {
+          "To be announced": "To be announced",
+          "Panel discussion: science communication": "To be announced",
+        }
     - name: "Simon Van Eyndhoven (he/him)"
       linkName: "simon"
       image: "simon.jpg"
@@ -270,8 +256,8 @@
       bio: "After completing my PhD in electrical engineering, with a focus on signal processing algorithms to analyze EEG-fMRI data from refractory epilepsy patients, I joined icometrix in 2020 as a machine learning researcher. Throughout my time as a PhD student, I discovered my passion for public speaking and participated in several science communication competitions."
       abstract:
         {
-          title: "Falling walls: Explaining years of research in 3 minutes",
-          content: "As researchers, we delightfully go on and on and on, when someone inquires about what it is that we investigate, exactly. Deep down, we already realize that this does a disservice to our aim to express ourselves clearly. Luckily there's hope! All you need is 3 enthusiastic minutes - and a story that sticks.",
+          "Falling walls: Explaining years of research in 3 minutes": "As researchers, we delightfully go on and on and on, when someone inquires about what it is that we investigate, exactly. Deep down, we already realize that this does a disservice to our aim to express ourselves clearly. Luckily there's hope! All you need is 3 enthusiastic minutes - and a story that sticks.",
+          "Panel discussion: science communication": "To be announced",
         }
     - name: "Gil Costa"
       linkName: "gil"
@@ -283,7 +269,11 @@
       git: ~
       researchgate: ~
       bio: "To be announced"
-      abstract: { title: "To be announced", content: "To be announced" }
+      abstract:
+        {
+          "To be announced": "To be announced",
+          "Panel discussion: science communication": "To be announced",
+        }
     - name: "Stijn Denissen (he/him)"
       linkName: "stijn2"
       image: "stijn.jpeg"
@@ -296,7 +286,11 @@
       git: "https://github.com/Sdniss"
       researchgate: ~
       bio: "I am a PhD student at the Vrije Universiteit Brussel (VUB), focussing on bridging the gap between AI and neurology. By modelling disease trajectories of persons with Multiple Sclerosis, I try to predict individual disease courses to allow better clinical follow-up, and ultimately, quality of life."
-      abstract: { title: "To be announced", content: "To be announced" }
+      abstract:
+        {
+          "To be announced": "To be announced",
+          "Panel discussion: science communication": "To be announced",
+        }
 
     - name: "Kayla Green (she/her)"
       linkName: "kayla"
@@ -310,8 +304,7 @@
       bio: "Kayla Green is a PhD candidate in the SYNC lab at Eramus University Rotterdam. Her work mainly focuses on the developmental trajectories of emotional reactivity and wellbeing during adolescence and young adulthood. She combines neuroimaging techniques with citizen science to get create more societal impact."
       abstract:
         {
-          title: "Citizen Science in Developmental Neuroscience",
-          content: "Society is rarely involved in the different steps of the research and design cycle. In citizen science, citizens become scientists themselves by contributing to part of the research project, for example in co-creating a new task or paradigm.",
+          "Citizen Science in Developmental Neuroscience": "Society is rarely involved in the different steps of the research and design cycle. In citizen science, citizens become scientists themselves by contributing to part of the research project, for example in co-creating a new task or paradigm.",
         }
     - name: "Guillaume Corradino (he/him)"
       linkName: "guillaume"
@@ -325,8 +318,8 @@
       bio: "While my academic background is in political sciences, my career has largely focused on promoting and disseminating results from European research projects, mainly in the energy, transport and environmental sectors. Since 2017, I have co-founded two non profit organisations dedicated to science outreach:  the Belgian chapter of the Pint of Science festival, and Beyond Research."
       abstract:
         {
-          title: "From science festivals to institutional projects: the case for a grassroots approach",
-          content: "In this talk I will present how the international science festival Pint of Science is implemented in Belgium at the local level, and how, concretely, researchers can get involved. In the second part of the talk, I will show how such grassroots initiatives can also be part of  broader outreach and dissemination strategies for public funded research projects.",
+          "From science festivals to institutional projects: the case for a grassroots approach": "In this talk I will present how the international science festival Pint of Science is implemented in Belgium at the local level, and how, concretely, researchers can get involved. In the second part of the talk, I will show how such grassroots initiatives can also be part of  broader outreach and dissemination strategies for public funded research projects.",
+          "Panel discussion: science communication": "To be announced",
         }
     - name: "Elodie Chabrol"
       linkName: "elodie"
@@ -338,7 +331,11 @@
       git: ~
       researchgate: ~
       bio: "To be announced"
-      abstract: { title: "To be announced", content: "To be announced" }
+      abstract:
+        {
+          "To be announced": "To be announced",
+          "Panel discussion: science communication": "To be announced",
+        }
     - name: "Veronika Cheplygina (she/her)"
       linkName: "veronika"
       image: "veronika.jpg"
@@ -351,8 +348,7 @@
       bio: "Dr. Veronika Cheplygina's research focuses on limited labeled scenarios in machine learning, in particular in medical image analysis. She received her Ph.D. from Delft University of Technology in 2015. After a postdoc at the Erasmus Medical Center, in 2017 she started as a tenure track assistant professor at Eindhoven University of Technology. In 2020, failing to achieve various metrics, she decided to leave the tenure track of search of a place where she can contribute to open and inclusive science. She recently started as an associate professor at IT University of Copenhagen. Next to research and teaching, Veronika blogs about academic life on https://www.veronikach.com, and gives talks and workshops on failure and related topics."
       abstract:
         {
-          title: "Ten Simple Rules for using Twitter as a Scientist",
-          content: "You have probably heard it many times from academics who have already discovered the advantages of social media - 'you should be on Twitter'! Next to sharing your research, learning about advances from other fields, and cat pictures, many cite the sense of community as an important reason for being on the platform. Let's say you are already convinced and you made an account - what then? How do you get the most of Twitter, without it consuming all your time and energy? Based on a recent paper with the same name, in this talk I will discuss ten simple ideas that have helped me and other academics do exactly this.",
+          "Ten Simple Rules for using Twitter as a Scientist": "You have probably heard it many times from academics who have already discovered the advantages of social media - 'you should be on Twitter'! Next to sharing your research, learning about advances from other fields, and cat pictures, many cite the sense of community as an important reason for being on the platform. Let's say you are already convinced and you made an account - what then? How do you get the most of Twitter, without it consuming all your time and energy? Based on a recent paper with the same name, in this talk I will discuss ten simple ideas that have helped me and other academics do exactly this.",
         }
     - name: "Moss Zhao (he/him)"
       linkName: "moss"
@@ -366,8 +362,7 @@
       bio: "I received my PhD from University of Oxford in 2019. My current research interest include arterial spin labeling, PET/MRI, and deep learning. I am passionate with open science and science communication."
       abstract:
         {
-          title: "Podcast 101",
-          content: "In this talk, we will present the tips of making a successful science podcast.",
+          "Podcast 101": "In this talk, we will present the tips of making a successful science podcast.",
         }
     - name: "To be announced"
       linkName: "you"
@@ -379,4 +374,4 @@
       git: ~
       researchgate: ~
       bio: "To be announced"
-      abstract: { title: "To be announced1", content: "To be announced2" }
+      abstract: { "To be announced": "To be announced" }
