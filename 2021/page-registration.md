@@ -31,6 +31,8 @@ show_sidebar: false
 
 <p><div style="text-align: justify"><i>If the registration form does not display correctly on your device, you can also access the online registration form <a href="https://forms.gle/nC9keHfWe7mQcsLp7" target="_blank">here</a>. </i></div></p>
 
+<p><div style="text-align: justify"><b>Please note: The deadline for applying for a mini-grant is March 19th, 2021!</b></div></p>
+
 <style>
 .reg-form {
   position: relative;

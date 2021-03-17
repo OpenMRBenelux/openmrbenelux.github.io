@@ -36,7 +36,7 @@
     - {
         startTime: "11:00",
         endTime: "12:00",
-        sessionTitle: "Keynote",
+        sessionTitle: "The age of the researcher is over. The time of the community has come.",
         speaker: { "Daniel Alcala Lopez": "../page-speakers#daniel" },
         breakStatus,
         sessionType: "Talk",
@@ -74,7 +74,7 @@
     - {
         startTime: "15:30",
         endTime: "16:30",
-        sessionTitle: "Panel discussion: what constitutes clean, scienctific code?",
+        sessionTitle: "Panel discussion: what constitutes clean, scientific code?",
         speaker:
           {
             "Rémi Gau": "../page-speakers#remi",
@@ -168,7 +168,7 @@
           },
         breakStatus,
         sessionType: "",
-        slides: "",
+        slides: "https://github.com/OpenMRBenelux/openmrb2021-hackathon/labels/Unconference",
       }
 
 - date: "2021-03-26"
