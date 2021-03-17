@@ -3,7 +3,7 @@ title: Home
 subtitle: ""
 layout: page
 show_sidebar: false
-hero_image: ../assets/ext_images/logo/openmr_benelux_2021_logo_regopen.svg
+hero_image: ../assets/ext_images/logo/openmr_benelux_2021_logo_regopen.png
 ---
 
 <style>
