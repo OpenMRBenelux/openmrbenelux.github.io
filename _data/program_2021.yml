@@ -263,8 +263,8 @@
             "Elodie Chabrol": "../page-speakers#elodie",
           },
         breakStatus,
-        sessionTitle: "Pint of Science, Beyond Research",
-        sessionType: "Demo",
+        sessionTitle: "From science festivals to institutional projects: the case for a grassroots approach",
+        sessionType: "Talk",
         slides: "",
       }
     - {
