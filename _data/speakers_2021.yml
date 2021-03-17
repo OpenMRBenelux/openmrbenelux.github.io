@@ -147,7 +147,7 @@
       bio: "I am a postdoctoral fellow in the Crossmodal Perception and Plasticity laboratory (CPP-Lab) at  the Université catholique de Louvain. My work focuses on the multisensory aspects of perception and I use high-resolution MRI to address these questions. I see in open science a way to a) build a more inclusive research community based on cooperation rather than competition and b) address some of the replicability and reproducibility issues that are affecting many areas of science."
       abstract:
         {
-          "Panel discussion: what constitutes clean, scientific code?": "Like most scientists I was never given any training on how to write code and organize data. It is only years down the line that I started realizing the mental and opportunity costs that this lack of training entails. I have recently been trying to create resources and support projects that try to prevent others from making the same mistake.",
+          "Moderator - Panel discussion: what constitutes clean, scientific code?": "Like most scientists I was never given any training on how to write code and organize data. It is only years down the line that I started realizing the mental and opportunity costs that this lack of training entails. I have recently been trying to create resources and support projects that try to prevent others from making the same mistake.",
         }
 
 - date: "Day 2: Thursday, 25 March 2021"
@@ -289,7 +289,7 @@
       abstract:
         {
           "To be announced": "To be announced",
-          "Panel discussion: science communication": "To be announced",
+          "Moderator - Panel discussion: science communication": "To be announced",
         }
 
     - name: "Kayla Green (she/her)"

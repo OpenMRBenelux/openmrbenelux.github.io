@@ -77,11 +77,11 @@
         sessionTitle: "Panel discussion: what constitutes clean, scienctific code?",
         speaker:
           {
+            "Rémi Gau": "../page-speakers#remi",
             "Felienne Hermans": "../page-speakers#felienne",
             "Jade Abbott": "../page-speakers#jade",
             "Adora Nwodo": "../page-speakers#adora",
             "Yo Yehudi": "../page-speakers#yehudi",
-            "Rémi Gau": "../page-speakers#remi",
             "Patrick Mineault": "../page-speakers#patrick",
           },
         breakStatus,
@@ -298,9 +298,9 @@
         endTime: "15:45",
         speaker:
           {
+            "Stijn Denissen": "../page-speakers#stijn2",
             "Guillaume Corradino": "../page-speakers#guillaume",
             "Elodie Chabrol": "../page-speakers#elodie",
-            "Stijn Denissen": "../page-speakers#stijn2",
             "Simon Van Eyndhoven": "../page-speakers#simon",
             "Sarah Leuridan": "../page-speakers#sarah",
             "Gil Costa": "../page-speakers#gil",
