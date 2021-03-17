@@ -64,7 +64,7 @@
       git: ~
       researchgate: ~
       bio: "To be announced"
-      abstract: { "Git(Hub) workshop": "To be announced" }
+      abstract: { "Introduction to Git(Hub)": "The workshop aims at helping participants move their first steps into the world of Version Control Systems (git) and possible real life situations they might encounter when collaborating on git-based projects with others." }
     - name: "Felienne Hermans (she/her)"
       linkName: "felienne"
       image: "felienne.jpg"
@@ -176,9 +176,9 @@
       researchgate: ~
       bio: "I am a PhD student at the Vrije Universiteit Brussel (VUB), focussing on bridging the gap between AI and neurology. By modelling disease trajectories of persons with Multiple Sclerosis, I try to predict individual disease courses to allow better clinical follow-up, and ultimately, quality of life."
       abstract:
-        {
+          {
           "Introduction to data exploration with Python, Matlab/Octave and Jupyter Notebooks": "To be announced",
-        }
+          }
     - name: "Britta Westner (she/her)"
       linkName: "britta"
       image: "britta.jpg"
@@ -287,10 +287,10 @@
       researchgate: ~
       bio: "I am a PhD student at the Vrije Universiteit Brussel (VUB), focussing on bridging the gap between AI and neurology. By modelling disease trajectories of persons with Multiple Sclerosis, I try to predict individual disease courses to allow better clinical follow-up, and ultimately, quality of life."
       abstract:
-        {
+          {
           "To be announced": "To be announced",
           "Moderator - Panel discussion: science communication": "To be announced",
-        }
+          }
 
     - name: "Kayla Green (she/her)"
       linkName: "kayla"
