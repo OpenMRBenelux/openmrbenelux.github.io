@@ -284,6 +284,20 @@
       researchgate: ~
       bio: "To be announced"
       abstract: { title: "To be announced", content: "To be announced" }
+    - name: "Stijn Denissen (he/him)"
+      linkName: "stijn2"
+      image: "stijn.jpeg"
+      homepage: "https://aims.research.vub.be/en/stijn-denissen"
+      affiliation:
+        - "AIMS lab, Center for Neurosciences, UZ Brussel, Vrije Universiteit Brussel, Brussels, Belgium"
+        - "icometrix, Leuven, Belgium"
+      city: "Brussels, Belgium"
+      twitter: "https://twitter.com/DenissenStijn"
+      git: "https://github.com/Sdniss"
+      researchgate: ~
+      bio: "I am a PhD student at the Vrije Universiteit Brussel (VUB), focussing on bridging the gap between AI and neurology. By modelling disease trajectories of persons with Multiple Sclerosis, I try to predict individual disease courses to allow better clinical follow-up, and ultimately, quality of life."
+      abstract: { title: "To be announced", content: "To be announced" }
+
     - name: "Kayla Green (she/her)"
       linkName: "kayla"
       image: "kayla.JPG"
@@ -355,3 +369,14 @@
           title: "Podcast 101",
           content: "In this talk, we will present the tips of making a successful science podcast.",
         }
+    - name: "To be announced"
+      linkName: "you"
+      image: "you.png"
+      homepage: ~
+      affiliation: ~
+      city: ~
+      twitter: ~
+      git: ~
+      researchgate: ~
+      bio: "To be announced"
+      abstract: { title: "To be announced1", content: "To be announced2" }

@@ -231,7 +231,7 @@
     - {
         startTime: "11:55",
         endTime: "12:15",
-        speaker: { "Stijn Denissen": "../page-speakers#stijn" },
+        speaker: { "Stijn Denissen": "../page-speakers#stijn2" },
         breakStatus,
         sessionTitle: "A paper in a song",
         sessionType: "Demo",
@@ -300,8 +300,10 @@
           {
             "Guillaume Corradino": "../page-speakers#guillaume",
             "Elodie Chabrol": "../page-speakers#elodie",
-            "Stijn Denissen": "../page-speakers#stijn",
+            "Stijn Denissen": "../page-speakers#stijn2",
             "Simon Van Eyndhoven": "../page-speakers#simon",
+            "Sarah Leuridan": "../page-speakers#sarah",
+            "Gil Costa": "../page-speakers#gil",
           },
         breakStatus,
         sessionTitle: "Panel discussion: science communication",
