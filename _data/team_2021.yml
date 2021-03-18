@@ -69,11 +69,11 @@
       image: "dorien.jpg"
       homepage: "https://erasmus-synclab.nl/"
       affiliation: "Erasmus University Rotterdam & Leiden University"
-      city: "Rotterdam & Leiden, the Netherlands"
+      city: "Rotterdam & Leiden, The Netherlands"
       twitter: "https://www.twitter.com/DorienHuijser"
       git: "https://github.com/DorienHuijser"
       researchgate: ~
-      bio: 'Dorien is lab and data manager at the <a href="http://erasmus-synclab.nl/" target="_blank">Society, Youth and Neuroscience Connected (SYNC) lab</a> at Erasmus University Rotterdam, the Netherlands. As lab manager, she works closely with lab members and coordinates lab-wide projects, among which citizen science projects. As data manager, she takes care of data management (e.g., data structure, privacy issues, long-term access) and fosters open science initiatives in the lab, university-wide and sometimes even outside of the university walls. At Leiden University, Dorien is involved as a data manager in a large longitudinal <a href="https://www.universiteitleiden.nl/en/research/research-projects/social-and-behavioural-sciences/leiden-consortium-on-individual-development-l-cid" target="_blank">twin study</a>.'
+      bio: 'Dorien is lab and data manager at the <a href="http://erasmus-synclab.nl/" target="_blank">Society, Youth and Neuroscience Connected (SYNC) lab</a> at Erasmus University Rotterdam, The Netherlands. As lab manager, she works closely with lab members and coordinates lab-wide projects, among which citizen science projects. As data manager, she takes care of data management (e.g., data structure, privacy issues, long-term access) and fosters open science initiatives in the lab, university-wide and sometimes even outside of the university walls. At Leiden University, Dorien is involved as a data manager in a large longitudinal <a href="https://www.universiteitleiden.nl/en/research/research-projects/social-and-behavioural-sciences/leiden-consortium-on-individual-development-l-cid" target="_blank">twin study</a>.'
     - name: "Dhaval Shah"
       linkName: "dhaval"
       image: "dhaval.jpg"

@@ -20,11 +20,11 @@
       image: "dorien.jpg"
       homepage: "https://erasmus-synclab.nl/"
       affiliation: "Erasmus University Rotterdam & Leiden University"
-      city: "Rotterdam & Leiden, the Netherlands"
+      city: "Rotterdam & Leiden, The Netherlands"
       twitter: "https://www.twitter.com/DorienHuijser"
       git: "https://github.com/DorienHuijser"
       researchgate: ~
-      bio: 'Dorien is lab and data manager at the <a href="http://erasmus-synclab.nl/" target="_blank">Society, Youth and Neuroscience Connected (SYNC) lab</a> at Erasmus University Rotterdam, the Netherlands. As lab manager, she works closely with lab members and coordinates lab-wide projects, among which citizen science projects. As data manager, she takes care of data management (e.g., data structure, privacy issues, long-term access) and fosters open science initiatives in the lab, university-wide and sometimes even outside of the university walls. At Leiden University, Dorien is involved as a data manager in a large longitudinal <a href="https://www.universiteitleiden.nl/en/research/research-projects/social-and-behavioural-sciences/leiden-consortium-on-individual-development-l-cid" target="_blank">twin study</a>.'
+      bio: 'Dorien is lab and data manager at the <a href="http://erasmus-synclab.nl/" target="_blank">Society, Youth and Neuroscience Connected (SYNC) lab</a> at Erasmus University Rotterdam, The Netherlands. As lab manager, she works closely with lab members and coordinates lab-wide projects, among which citizen science projects. As data manager, she takes care of data management (e.g., data structure, privacy issues, long-term access) and fosters open science initiatives in the lab, university-wide and sometimes even outside of the university walls. At Leiden University, Dorien is involved as a data manager in a large longitudinal <a href="https://www.universiteitleiden.nl/en/research/research-projects/social-and-behavioural-sciences/leiden-consortium-on-individual-development-l-cid" target="_blank">twin study</a>.'
       host: "More practical info coming soon!"
     - name: "Daniel Alcalá López (he/him)"
       linkName: "daniel"
@@ -54,17 +54,20 @@
         {
           "Introduction to Git(Hub)": "The workshop aims at helping participants move their first steps into the world of Version Control Systems (git) and possible real life situations they might encounter when collaborating on git-based projects with others.",
         }
-    - name: "Melvin Selim Atay"
+    - name: "Melvin Selim Atay (he/him)"
       linkName: "melvin"
-      image: "you.png"
-      homepage: ~
-      affiliation: ~
+      image: "melvin.jpg"
+      homepage: "https://i-am-mel-dev.github.io/"
+      affiliation: "Neuroscience and Neurotechnology"
       city: ~
-      twitter: ~
-      git: ~
+      twitter: "https://twitter.com/i_am_mel_dev"
+      git: "https://github.com/i-am-mel-dev"
       researchgate: ~
-      bio: "To be announced"
-      abstract: { "Introduction to Git(Hub)": "The workshop aims at helping participants move their first steps into the world of Version Control Systems (git) and possible real life situations they might encounter when collaborating on git-based projects with others." }
+      bio: "PhD candidate working on explainable deep learning solutions for early diagnosis of Alzheimer's disease."
+      abstract:
+        {
+          "Introduction to Git(Hub)": "The workshop aims at helping participants move their first steps into the world of Version Control Systems (git) and possible real life situations they might encounter when collaborating on git-based projects with others.",
+        }
     - name: "Felienne Hermans (she/her)"
       linkName: "felienne"
       image: "felienne.jpg"
@@ -176,9 +179,9 @@
       researchgate: ~
       bio: "I am a PhD student at the Vrije Universiteit Brussel (VUB), focussing on bridging the gap between AI and neurology. By modelling disease trajectories of persons with Multiple Sclerosis, I try to predict individual disease courses to allow better clinical follow-up, and ultimately, quality of life."
       abstract:
-          {
+        {
           "Introduction to data exploration with Python, Matlab/Octave and Jupyter Notebooks": "To be announced",
-          }
+        }
     - name: "Britta Westner (she/her)"
       linkName: "britta"
       image: "britta.jpg"
@@ -229,19 +232,19 @@
       researchgate: ~
       bio: "To be announced"
       abstract: { "Your research matters, to others": "To be announced" }
-    - name: "Sarah Leuridan"
+    - name: "Sarah Leuridan (she/her)"
       linkName: "sarah"
       image: "you.png"
-      homepage: ~
-      affiliation: ~
-      city: ~
+      homepage: "Wtnschp.be"
+      affiliation: "Science Outreach Office, Vrije Universiteit Brussel, Brussels, Belgium"
+      city: "Brussels, Belgium"
       twitter: ~
       git: ~
       researchgate: ~
-      bio: "To be announced"
+      bio: "Helping researchers to engage with the general public is Sarah's life goal. As a Science Outreach Officer at the Vrije Universiteit Brussel, she gets to do exactly that. Sarah is currently chief editor of the popular science blog Wtnschp.be, and supervises outreach projects like the VUB Children's University."
       abstract:
         {
-          "To be announced": "To be announced",
+          "Outreach at a university": "Taking your first steps in science outreach should not be a lonely experience. Sarah from the Vrije Universiteit Brussel will explain how the university supports researchers to engage with society. (Warning: you might get inspired to join similar outreach projects at your university!)",
           "Panel discussion: science communication": "To be announced",
         }
     - name: "Simon Van Eyndhoven (he/him)"
@@ -261,7 +264,7 @@
         }
     - name: "Gil Costa"
       linkName: "gil"
-      image: "you.png"
+      image: "gil.png"
       homepage: ~
       affiliation: ~
       city: ~
@@ -287,10 +290,10 @@
       researchgate: ~
       bio: "I am a PhD student at the Vrije Universiteit Brussel (VUB), focussing on bridging the gap between AI and neurology. By modelling disease trajectories of persons with Multiple Sclerosis, I try to predict individual disease courses to allow better clinical follow-up, and ultimately, quality of life."
       abstract:
-          {
-          "To be announced": "To be announced",
+        {
+          "A paper in a song": "Friday night, working week is over and there you are, hosting your own karaoke session in your living room! Or perhaps you are more of the shower shouter type? Whatever scenario you recognise yourself to be in once in a while, you will notice that you will effortlessly vocalise the lyrics of your favourite songs. Doesn’t that sound as a great opportunity for people to memorise your research better? Let’s put our papers in songs, hear all about it in this talk!",
           "Moderator - Panel discussion: science communication": "To be announced",
-          }
+        }
 
     - name: "Kayla Green (she/her)"
       linkName: "kayla"
