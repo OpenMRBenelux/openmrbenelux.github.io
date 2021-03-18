@@ -37,7 +37,7 @@
         startTime: "11:00",
         endTime: "12:00",
         sessionTitle: "The age of the researcher is over. The time of the community has come.",
-        speaker: { "Daniel Alcala Lopez": "../page-speakers#daniel" },
+        speaker: { "Daniel Alcalá López": "../page-speakers#daniel" },
         breakStatus,
         sessionType: "Talk",
         slides: "",
