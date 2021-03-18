@@ -324,19 +324,19 @@
           "From science festivals to institutional projects: the case for a grassroots approach": "In this talk I will present how the international science festival Pint of Science is implemented in Belgium at the local level, and how, concretely, researchers can get involved. In the second part of the talk, I will show how such grassroots initiatives can also be part of  broader outreach and dissemination strategies for public funded research projects.",
           "Panel discussion: science communication": "To be announced",
         }
-    - name: "Elodie Chabrol"
+    - name: "Elodie Chabrol (she/her)"
       linkName: "elodie"
-      image: "you.png"
-      homepage: ~
-      affiliation: ~
+      image: "elodie.jpg"
+      homepage: "https://www.beyondresearch.eu/"
+      affiliation: "Beyond Research / Pint of Science"
       city: ~
-      twitter: ~
+      twitter: "https://twitter.com/EloScicomm"
       git: ~
       researchgate: ~
-      bio: "To be announced"
+      bio: "Elodie has a PhD in Neurogenetics and is the international director for the Pint of Science festival. She is also a freelance science communicator involved in different freelance projects and co-founded Beyond Research in 2020. Her mission is to make science accessible to everyone, everywhere."
       abstract:
         {
-          "To be announced": "To be announced",
+          "From science festivals to institutional projects: the case for a grassroots approach": "We'll talk about science communication and our initiatives Beyond Research and Pint of Science.",
           "Panel discussion: science communication": "To be announced",
         }
     - name: "Veronika Cheplygina (she/her)"
