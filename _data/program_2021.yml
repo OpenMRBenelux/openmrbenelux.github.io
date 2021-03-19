@@ -110,7 +110,7 @@
         speaker:
           {
             "Stijn Denissen": "../page-speakers#stijn",
-            "To be announced": "../page-speakers",
+            "Rémi Gau": "../page-speakers#remi2",
           },
         breakStatus,
         sessionType: "Workshop",
@@ -306,6 +306,7 @@
             "Simon Van Eyndhoven": "../page-speakers#simon",
             "Sarah Leuridan": "../page-speakers#sarah",
             "Gil Costa": "../page-speakers#gil",
+            "Moss Zhao": "../page-speakers#moss",
           },
         breakStatus,
         sessionTitle: "Panel discussion: science communication",
