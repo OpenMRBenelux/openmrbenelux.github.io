@@ -182,6 +182,21 @@
         {
           "Introduction to data exploration with Python, Matlab/Octave and Jupyter Notebooks": "To be announced",
         }
+    - name: "Rémi Gau (he/him)"
+      linkName: "remi2"
+      image: "remi.png"
+      homepage: "https://remi-gau.github.io/"
+      affiliation: "Université catholique de Louvain"
+      city: "Louvain-la-Neuve, Belgium"
+      twitter: "https://twitter.com/RemiGau"
+      git: "https://github.com/Remi-Gau"
+      researchgate: ~
+      bio: "I am a postdoctoral fellow in the Crossmodal Perception and Plasticity laboratory (CPP-Lab) at  the Université catholique de Louvain. My work focuses on the multisensory aspects of perception and I use high-resolution MRI to address these questions. I see in open science a way to a) build a more inclusive research community based on cooperation rather than competition and b) address some of the replicability and reproducibility issues that are affecting many areas of science."
+      abstract:
+        {
+          "Introduction to data exploration with Python, Matlab/Octave and Jupyter Notebooks": "To be announced",
+        }
+
     - name: "Britta Westner (she/her)"
       linkName: "britta"
       image: "britta.jpg"
@@ -210,16 +225,27 @@
 
 - date: "Day 3: Friday, 26 March 2021"
   speakers:
-    - name: "To be announced"
-      linkName: ~
-      image: "you.png"
-      homepage: ~
-      affiliation: ~
-      city: ~
-      twitter: ~
-      git: ~
+    - name: "Stephan Heunis"
+      linkName: "stephan2"
+      image: "stephan.png"
+      homepage: "https://jsheunis.github.io/"
+      affiliation: "Eindhoven University of Technology, The Netherlands"
+      city: "Eindhoven, The Netherlands"
+      twitter: "https://twitter.com/fmrwhy"
+      git: "https://github.com/jsheunis"
       researchgate: ~
-      bio: "To be announced"
+      bio: "Stephan is a biomedical engineer from Stellenbosch, South Africa, where he worked in industry before moving to Europe with the goal of studying in the field of neuroscience. He is currently finishing up his PhD in real-time fMRI methods development and validation. He is passionate about making research and scientific practice more transparent, rigorous and inclusive. He started the Open Science Community Eindhoven, which is part of a wide Dutch network of researchers and university employees that works on improving the way we do science, and he is the founder of OpenMR Benelux, a community working on wider adoption of open science principles in MRI research through talks, discussions, workshops and hackathons."
+      host: "More practical info coming soon!"
+    - name: "Rémi Gau"
+      linkName: "remi3"
+      image: "remi.png"
+      homepage: "https://remi-gau.github.io/"
+      affiliation: "Université catholique de Louvain"
+      city: "Louvain-la-Neuve, Belgium"
+      twitter: "https://twitter.com/RemiGau"
+      git: "https://github.com/Remi-Gau"
+      researchgate: ~
+      bio: "I am a postdoctoral fellow in the Crossmodal Perception and Plasticity laboratory (CPP-Lab) at  the Université catholique de Louvain. My work focuses on the multisensory aspects of perception and I use high-resolution MRI to address these questions. I see in open science a way to a) build a more inclusive research community based on cooperation rather than competition and b) address some of the replicability and reproducibility issues that are affecting many areas of science."
       host: "More practical info coming soon!"
     - name: "Sicco de Knecht"
       linkName: "sicco"
@@ -245,7 +271,7 @@
       abstract:
         {
           "Outreach at a university": "Taking your first steps in science outreach should not be a lonely experience. Sarah from the Vrije Universiteit Brussel will explain how the university supports researchers to engage with society. (Warning: you might get inspired to join similar outreach projects at your university!)",
-          "Panel discussion: science communication": "To be announced",
+          "Panel discussion: science communication": "Too many papers remain locked by the ability to understand academic language. In this panel discussion, we will discuss how to make our research more understandable and transparent for the wider audience. Furthermore, we will discuss how we can lower the threshold to engage in science communication.",
         }
     - name: "Simon Van Eyndhoven (he/him)"
       linkName: "simon"
@@ -260,7 +286,7 @@
       abstract:
         {
           "Falling walls: Explaining years of research in 3 minutes": "As researchers, we delightfully go on and on and on, when someone inquires about what it is that we investigate, exactly. Deep down, we already realize that this does a disservice to our aim to express ourselves clearly. Luckily there's hope! All you need is 3 enthusiastic minutes - and a story that sticks.",
-          "Panel discussion: science communication": "To be announced",
+          "Panel discussion: science communication": "Too many papers remain locked by the ability to understand academic language. In this panel discussion, we will discuss how to make our research more understandable and transparent for the wider audience. Furthermore, we will discuss how we can lower the threshold to engage in science communication.",
         }
     - name: "Gil Costa"
       linkName: "gil"
@@ -275,7 +301,7 @@
       abstract:
         {
           "To be announced": "To be announced",
-          "Panel discussion: science communication": "To be announced",
+          "Panel discussion: science communication": "Too many papers remain locked by the ability to understand academic language. In this panel discussion, we will discuss how to make our research more understandable and transparent for the wider audience. Furthermore, we will discuss how we can lower the threshold to engage in science communication.",
         }
     - name: "Stijn Denissen (he/him)"
       linkName: "stijn2"
@@ -292,7 +318,7 @@
       abstract:
         {
           "A paper in a song": "Friday night, working week is over and there you are, hosting your own karaoke session in your living room! Or perhaps you are more of the shower shouter type? Whatever scenario you recognise yourself to be in once in a while, you will notice that you will effortlessly vocalise the lyrics of your favourite songs. Doesn’t that sound as a great opportunity for people to memorise your research better? Let’s put our papers in songs, hear all about it in this talk!",
-          "Moderator - Panel discussion: science communication": "To be announced",
+          "Moderator - Panel discussion: science communication": "Too many papers remain locked by the ability to understand academic language. In this panel discussion, we will discuss how to make our research more understandable and transparent for the wider audience. Furthermore, we will discuss how we can lower the threshold to engage in science communication.",
         }
 
     - name: "Kayla Green (she/her)"
@@ -322,7 +348,7 @@
       abstract:
         {
           "From science festivals to institutional projects: the case for a grassroots approach": "In this talk I will present how the international science festival Pint of Science is implemented in Belgium at the local level, and how, concretely, researchers can get involved. In the second part of the talk, I will show how such grassroots initiatives can also be part of  broader outreach and dissemination strategies for public funded research projects.",
-          "Panel discussion: science communication": "To be announced",
+          "Panel discussion: science communication": "Too many papers remain locked by the ability to understand academic language. In this panel discussion, we will discuss how to make our research more understandable and transparent for the wider audience. Furthermore, we will discuss how we can lower the threshold to engage in science communication.",
         }
     - name: "Elodie Chabrol (she/her)"
       linkName: "elodie"
@@ -337,7 +363,7 @@
       abstract:
         {
           "From science festivals to institutional projects: the case for a grassroots approach": "We'll talk about science communication and our initiatives Beyond Research and Pint of Science.",
-          "Panel discussion: science communication": "To be announced",
+          "Panel discussion: science communication": "Too many papers remain locked by the ability to understand academic language. In this panel discussion, we will discuss how to make our research more understandable and transparent for the wider audience. Furthermore, we will discuss how we can lower the threshold to engage in science communication.",
         }
     - name: "Veronika Cheplygina (she/her)"
       linkName: "veronika"
@@ -366,15 +392,5 @@
       abstract:
         {
           "Podcast 101": "In this talk, we will present the tips of making a successful science podcast.",
+          "Panel discussion: science communication": "Too many papers remain locked by the ability to understand academic language. In this panel discussion, we will discuss how to make our research more understandable and transparent for the wider audience. Furthermore, we will discuss how we can lower the threshold to engage in science communication.",
         }
-    - name: "To be announced"
-      linkName: "you"
-      image: "you.png"
-      homepage: ~
-      affiliation: ~
-      city: ~
-      twitter: ~
-      git: ~
-      researchgate: ~
-      bio: "To be announced"
-      abstract: { "Panel discussion: science communication": "To be announced" }
