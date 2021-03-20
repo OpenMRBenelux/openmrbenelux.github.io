@@ -110,19 +110,19 @@
         {
           "Panel discussion: what constitutes clean, scientific code?": "To be announced",
         }
-    - name: "Yo Yehudi"
+    - name: "Yo Yehudi (they/them or she/her)"
       linkName: "yehudi"
-      image: "you.png"
-      homepage: ~
-      affiliation: ~
-      city: ~
-      twitter: ~
-      git: ~
+      image: "yo.png"
+      homepage: "https://yo-yehudi.com/"
+      affiliation: "Data for Science and Health, Wellcome Trust"
+      city: "UK"
+      twitter: "https://twitter.com/yoyehudi"
+      git: "https://github.com/yochannah"
       researchgate: ~
-      bio: "To be announced"
+      bio: "Yo Yehudi is the Open Source Technology Lead at the Wellcome Trust, advocating for open, robust, and re-usable research software, as well as recognition for the careers of the people who create it. Prior to this, Yo worked as a software engineer both in academia and in industry. Yo is also a Software Sustainability Institute Fellow and co founder of Open Life Science."
       abstract:
         {
-          "Panel discussion: what constitutes clean, scientific code?": "To be announced",
+          "Panel discussion: what constitutes clean, scientific code?": "Clean code is a hugely variable concept: different programming languages, communities, and domains will all have different conventions. After adhering to conventions, the next biggest opportunity is to write your code for humans. Not code that looks smart or really short, not code that is fast - but code that is intended for someone to understand quickly and easily, and ideally designed to automatically generate documentation from.",
         }
     - name: "Patrick Mineault (he/him)"
       linkName: "patrick"
@@ -180,7 +180,7 @@
       bio: "I am a PhD student at the Vrije Universiteit Brussel (VUB), focussing on bridging the gap between AI and neurology. By modelling disease trajectories of persons with Multiple Sclerosis, I try to predict individual disease courses to allow better clinical follow-up, and ultimately, quality of life."
       abstract:
         {
-          "Introduction to data exploration with Python, Matlab/Octave and Jupyter Notebooks": "To be announced",
+          "Introduction to data exploration with Python, Matlab/Octave and Jupyter Notebooks": "This data visualisation workshop aims to offer a structured introduction in visualisation of neuro-imaging data in Python and Matlab, although we attempt to also surprise visualisation experts. We will cover tips and tricks to convert your data into a clear, compact and reproducible image. All code remains available to all attendees of OpenMR 2021!",
         }
     - name: "Rémi Gau (he/him)"
       linkName: "remi2"
@@ -194,7 +194,7 @@
       bio: "I am a postdoctoral fellow in the Crossmodal Perception and Plasticity laboratory (CPP-Lab) at  the Université catholique de Louvain. My work focuses on the multisensory aspects of perception and I use high-resolution MRI to address these questions. I see in open science a way to a) build a more inclusive research community based on cooperation rather than competition and b) address some of the replicability and reproducibility issues that are affecting many areas of science."
       abstract:
         {
-          "Introduction to data exploration with Python, Matlab/Octave and Jupyter Notebooks": "To be announced",
+          "Introduction to data exploration with Python, Matlab/Octave and Jupyter Notebooks": "This data visualisation workshop aims to offer a structured introduction in visualisation of neuro-imaging data in Python and Matlab, although we attempt to also surprise visualisation experts. We will cover tips and tricks to convert your data into a clear, compact and reproducible image. All code remains available to all attendees of OpenMR 2021!",
         }
 
     - name: "Britta Westner (she/her)"
