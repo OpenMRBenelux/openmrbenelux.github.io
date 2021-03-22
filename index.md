@@ -83,6 +83,8 @@ div_twitter {
 <p><div style="text-align: justify">We focus on working together on implementable solutions in all forms: software toolboxes, process descriptions, community projects, knowledge-sharing initiatives, and more. Open discussion is central to our event and we foster open-minded attitudes and a readiness to participate. Want to see the people working hard in the background to make this a success? Meet the <a href="/2021/page-team">Team</a>!</div></p> 
 <p><div style="text-align: justify">Last year's edition of OpenMR Benelux was a blast! You can check out last year’s program, speakers, and more at the <a href="page-past-events">Past events Page</a>.</div></p>
 
+<p><div style="text-align: justify"><b>Interested in organizing OpenMR next year? Awesome!! Please fill in <a href="https://forms.gle/Fhxdv5yL8KD8vQSo9" target="_blank">this form</a> and we will get back to you!</b>.</div></p>
+
 <img class="img-separator" src="{{ site.baseurl }}/assets/ext_images/2020/post_separator.png" alt="horizontal separator" />
 <br>
 <a href="#"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>

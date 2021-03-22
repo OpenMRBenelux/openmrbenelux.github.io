@@ -84,7 +84,7 @@
       git: "https://github.com/MRIjumbo"
       researchgate: ~
       bio: "MRI researcher in radiology and open-science enthusiast. Always eager to engage with the community and learn new technology."
-    - name: "You in 2022?"
+    - name: "<a href='https://forms.gle/Fhxdv5yL8KD8vQSo9' target='_blank'>You in 2022?</a>"
       linkName: "you_team"
       image: "you.png"
       homepage: ~
@@ -93,7 +93,7 @@
       twitter: ~
       git: ~
       researchgate: ~
-      bio: "You are amazing!"
+      bio: "Interested in organizing OpenMR next year? Awesome!! Please fill in <a href='https://forms.gle/Fhxdv5yL8KD8vQSo9' target='_blank'>this form</a> and we will get back to you!"
 
 - section: "Advisors"
   members:
