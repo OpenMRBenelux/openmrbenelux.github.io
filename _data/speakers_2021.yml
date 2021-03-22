@@ -207,7 +207,10 @@
       git: "https://github.com/britta-wstnr"
       researchgate: ~
       bio: "My current research focuses on predictive processes in the visual system using MEG methods, working at the Donders Institute in Nijmegen with Prof. Floris de Lange. Before, I worked on retinocortical interactions with Prof. Sarang Dalal, first at the University of Konstanz (Germany), where I obtained my PhD, and then at Aarhus University (Denmark) as a post-doctoral researcher. I am also interested in MEG decoding as well as MEG/EEG source reconstruction techniques and I am a core developer for the MEG/EEG data analysis toolbox MNE-Python, where I maintain the beamformer module."
-      abstract: { "Data visualization with MNE-Python": "To be announced" }
+      abstract:
+        {
+          "Data visualization with MNE-Python": "Dr. Westner will share her personal story of being involved in the MNE Python package, which offers nice tools for analysis and visualisation of neurophysiological data.",
+        }
     - name: "Stephan Heunis (he/him)"
       linkName: "stephan"
       image: "stephan.png"
