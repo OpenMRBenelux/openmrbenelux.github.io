@@ -297,7 +297,7 @@
       }
     - {
         startTime: "15:00",
-        endTime: "16:00",
+        endTime: "15:45",
         speaker:
           {
             "Stijn Denissen": "../page-speakers#stijn2",
@@ -314,8 +314,8 @@
         slides: "",
       }
     - {
-        startTime: "16:00",
-        endTime: "16:30",
+        startTime: "15:45",
+        endTime: "16:00",
         speaker:
           {
             "OpenMR team": "../page-team",
@@ -327,7 +327,7 @@
         slides: "",
       }
     - {
-        startTime: "16:30",
+        startTime: "16:00",
         endTime: "...",
         speaker: { "You" },
         breakStatus: "drinks",
