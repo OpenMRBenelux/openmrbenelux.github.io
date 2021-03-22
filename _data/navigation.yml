@@ -23,6 +23,8 @@
   dropdown:
     - name: I have a general question!
       link: /2021/page-faq/#general
+    - name: I have a question about software!
+      link: /2021/page-faq/#software
     - name: I have a question about the TrainTrack & HackTrack!
       link: /2021/page-faq/#train+hacktrack
     - name: I have another question!

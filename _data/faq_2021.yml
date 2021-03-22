@@ -36,6 +36,37 @@
           <a href='https://www.youtube.com/channel/UCHF85C2YjCEJ7LsS0vz-RXQ' target='_blank'>YouTube channel</a> after the event (see our <a href='../../privacy-policy/' target='_blank'>Privacy Policy</a>).
           If speakers agree, we will also include the links to their materials on <a href='../page-content/'>our website</a>.",
       }
+- section: "Software - Zoom and Discord"
+  nameLink: "software"
+  questions:
+    - {
+        question: "Is the software I need for OpenMR free?",
+        answer:
+          "Yes! For communication purposes, we will use Zoom and Discord. They are free to download and use for all our attendees.
+          Additionally, all software used for workshops and demos on OpenMR will, where possible, be open source and therefore also free!",
+      }
+    - {
+        question: "I’m new to Zoom, how do I get started?",
+        answer:
+          "We will use Zoom for the TrainTrack, please refer to the documentation on Zoom’s <a href='https://zoom.us/' target='_blank'>official website</a> and their
+          <a href='https://support.zoom.us/hc/en-us' target='_blank'>support website</a> for more information. Here are some useful further resources:
+          <ul><li>General information on getting started: click <a href='https://support.zoom.us/hc/en-us/categories/200101697' target='_blank'>here</a></li>
+          <li>Video tutorials (e.g. on joining a meeting): click <a href='https://support.zoom.us/hc/en-us/articles/206618765-Zoom-video-tutorials' target='_blank'>here</a></li>
+          <li>Information on the desktop application: click <a href='https://support.zoom.us/hc/en-us/sections/200305583-Desktop' target='_blank'>here</a>.
+          Specifically for installing the desktop application: click <a href='https://support.zoom.us/hc/en-us/articles/360032812931-Starting-the-Zoom-desktop-client' target='_blank'>here</a></li>
+          <li>Use Zoom in your web browser: click <a href='https://support.zoom.us/hc/en-us/articles/214629443-Quick-start-guide-for-the-Zoom-web-client' target='_blank'>here</a></li></ul>",
+      }
+    - {
+        question: "I’m new to Discord, how do I get started?",
+        answer:
+          "We will use Discord as the main communication platform for announcements, interactions during the TrainTrack workshops and hackathon projects, and
+          communicating with other OpenMR attendees. Please refer to documentation on the <a href='https://discord.com/' target='_blank'>official Discord website</a> and
+          the <a href='https://support.discord.com/hc/en-us' target='_blank'>support website</a>. Here are some useful resources:
+          <ul><li>Download discord: click <a href='https://discord.com/download' target='_blank'>here</a></li>
+          <li>Getting started: click <a href='https://support.discord.com/hc/en-us/categories/115000217151' target='_blank'>here</a></li>
+          <li>Discord interface: click <a href='https://support.discord.com/hc/en-us/categories/200404398' target='_blank'>here</a></li>
+          <li>Account settings: click <a href='https://support.discord.com/hc/en-us/categories/200404358' target='_blank'>here</a></li></ul>",
+      }
 - section: "TrainTrack & HackTrack"
   nameLink: "train+hacktrack"
   questions:
