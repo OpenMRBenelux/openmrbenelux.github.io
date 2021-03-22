@@ -106,7 +106,7 @@
     - {
         startTime: "10:15",
         endTime: "12:00",
-        sessionTitle: "Introduction to data exploration with Python, Matlab/Octave and Jupyter notebooks",
+        sessionTitle: "Introduction to data exploration with Python, Matlab/Octave and Jupyter Notebooks",
         speaker:
           {
             "Stijn Denissen": "../page-speakers#stijn",
@@ -301,11 +301,11 @@
         speaker:
           {
             "Stijn Denissen": "../page-speakers#stijn2",
+            "Sarah Leuridan": "../page-speakers#sarah",
+            "Simon Van Eyndhoven": "../page-speakers#simon",
+            "Gil Costa": "../page-speakers#gil",
             "Guillaume Corradino": "../page-speakers#guillaume",
             "Elodie Chabrol": "../page-speakers#elodie",
-            "Simon Van Eyndhoven": "../page-speakers#simon",
-            "Sarah Leuridan": "../page-speakers#sarah",
-            "Gil Costa": "../page-speakers#gil",
             "Moss Zhao": "../page-speakers#moss",
           },
         breakStatus,
