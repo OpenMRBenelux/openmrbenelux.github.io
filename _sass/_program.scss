@@ -1,22 +1,30 @@
 .program {
-    
-    tbody{
-      td{background: white}
+  tbody {
+    td {
+      background: white;
+    }
+  }
+
+  .break {
+    background: #cecaca;
+  }
+  .drinks {
+    background: #eae9e9;
+  }
+
+  thead {
+    tr {
+      background: #004777;
+      th {
+        p {
+          color: white;
+        }
       }
-
-    .break{background: #cecaca}
-    
-    thead{
-        tr{background: #004777;
-        th{
-            p{color:white}
-
-        }}
-
     }
+  }
 
-    .strong_font{
-        font-size: 100%;
-        font-weight: bold
-    }
+  .strong_font {
+    font-size: 100%;
+    font-weight: bold;
+  }
 }

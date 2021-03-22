@@ -10,7 +10,7 @@
         sessionTitle: "Opening",
         speaker: { "OpenMR team": "../page-team" },
         breakStatus,
-        sessionType: "Talk",
+        sessionType: "<i class='far fa-smile-beam'></i>&nbsp;<i class='fas fa-comment-dots'></i>",
         slides: "",
       }
     - {
@@ -22,7 +22,7 @@
             "Hackathon leaders": "https://github.com/OpenMRBenelux/openmrb2021-hackathon/labels/Hackathon%20Project",
           },
         breakStatus,
-        sessionType: "Talk",
+        sessionType: "<i class='fas fa-comment-dots'></i>&nbsp;<i class='fas fa-comment-dots'></i>&nbsp;<i class='fas fa-comment-dots'></i>",
         slides: "",
       }
     - {
@@ -100,7 +100,7 @@
         sessionTitle: "Opening",
         speaker: { "OpenMR team": "../page-team" },
         breakStatus,
-        sessionType: "Talk",
+        sessionType: "<i class='far fa-smile-beam'></i>&nbsp;<i class='fas fa-comment-dots'></i>",
         slides: "",
       }
     - {
@@ -167,7 +167,7 @@
             "You": "https://github.com/OpenMRBenelux/openmrb2021-hackathon/labels/Unconference",
           },
         breakStatus,
-        sessionType: "",
+        sessionType: "<i class='fas fa-comment-dots'></i>&nbsp;<i class='fas fa-comment-dots'></i>&nbsp;<i class='fas fa-comment-dots'></i>",
         slides: "https://github.com/OpenMRBenelux/openmrb2021-hackathon/labels/Unconference",
       }
 
@@ -183,7 +183,7 @@
         speaker: { "OpenMR team": "../page-team" },
         breakStatus,
         sessionTitle: "Opening",
-        sessionType: "Talk",
+        sessionType: "<i class='far fa-smile-beam'></i>&nbsp;<i class='fas fa-comment-dots'></i>",
         slides: "",
       }
     - {
@@ -192,7 +192,7 @@
         speaker: { "Sicco de Knecht": "../page-speakers#sicco" },
         breakStatus,
         sessionTitle: "Your research matters, to others",
-        sessionType: "Talk",
+        sessionType: "Flash talk",
         slides: "",
       }
     - {
@@ -218,7 +218,7 @@
         speaker: { "Simon Van Eyndhoven": "../page-speakers#simon" },
         breakStatus,
         sessionTitle: "Falling Walls: Explaining years of research in 3 minutes",
-        sessionType: "Demo",
+        sessionType: "Flash talk",
         slides: "",
       }
     - {
@@ -227,7 +227,7 @@
         speaker: { "Gil Costa": "../page-speakers#gil" },
         breakStatus,
         sessionTitle: "Visualizing neuroscience",
-        sessionType: "Demo",
+        sessionType: "Flash talk",
         slides: "",
       }
     - {
@@ -236,20 +236,20 @@
         speaker: { "Stijn Denissen": "../page-speakers#stijn2" },
         breakStatus,
         sessionTitle: "A paper in a song",
-        sessionType: "Demo",
+        sessionType: "Flash talk",
         slides: "",
       }
     - {
         startTime: "12:15",
-        endTime: "12:30",
+        endTime: "12:35",
         speaker: { "Kayla Green": "../page-speakers#kayla" },
         breakStatus,
         sessionTitle: "Citizen Science in Developmental Neuroscience",
-        sessionType: "Demo",
+        sessionType: "Flash talk",
         slides: "",
       }
     - {
-        startTime: "12:30",
+        startTime: "12:35",
         endTime: "13:30",
         breakStatus: "break",
         sessionTitle: "Lunch break",
@@ -275,7 +275,7 @@
         speaker: { "Veronika Cheplygina": "../page-speakers#veronika" },
         breakStatus,
         sessionTitle: "Ten Simple Rules for Using Twitter as a Scientist",
-        sessionType: "Demo",
+        sessionType: "Flash talk",
         slides: "",
       }
     - {
@@ -284,7 +284,7 @@
         speaker: { "Moss Zhao": "../page-speakers#moss" },
         breakStatus,
         sessionTitle: "Podcast 101",
-        sessionType: "Demo",
+        sessionType: "Flash talk",
         slides: "",
       }
     - {
@@ -297,7 +297,7 @@
       }
     - {
         startTime: "15:00",
-        endTime: "15:45",
+        endTime: "16:00",
         speaker:
           {
             "Stijn Denissen": "../page-speakers#stijn2",
@@ -314,8 +314,8 @@
         slides: "",
       }
     - {
-        startTime: "15:45",
-        endTime: "16:00",
+        startTime: "16:00",
+        endTime: "16:30",
         speaker:
           {
             "OpenMR team": "../page-team",
@@ -323,15 +323,15 @@
           },
         breakStatus,
         sessionTitle: "Hackathon results & closing",
-        sessionType: "Talk",
+        sessionType: "<i class='fas fa-comment-dots'></i>&nbsp;<i class='fas fa-comment-dots'></i>&nbsp;<i class='fas fa-comment-dots'></i><br><i class='far fa-sad-tear'></i>&nbsp;<i class='fas fa-sign-out-alt'></i><i class='fas fa-door-open'></i>",
         slides: "",
       }
     - {
-        startTime: "16:00",
+        startTime: "16:30",
         endTime: "...",
-        speaker: { "You": "" },
-        breakStatus,
+        speaker: { "You" },
+        breakStatus: "drinks",
         sessionTitle: "Virtual drinks",
-        sessionType: "",
+        sessionType: "<i class='fas fa-cocktail'></i>&nbsp;<i class='fas fa-wine-glass-alt'></i>&nbsp;<i class='fas fa-beer'></i>&nbsp;<i class='fas fa-coffee'></i>",
         slides: "",
       }
