@@ -250,17 +250,20 @@
       researchgate: ~
       bio: "I am a postdoctoral fellow in the Crossmodal Perception and Plasticity laboratory (CPP-Lab) at  the Université catholique de Louvain. My work focuses on the multisensory aspects of perception and I use high-resolution MRI to address these questions. I see in open science a way to a) build a more inclusive research community based on cooperation rather than competition and b) address some of the replicability and reproducibility issues that are affecting many areas of science."
       host: "More practical info coming soon!"
-    - name: "Sicco de Knecht"
+    - name: "Sicco de Knecht (he/him)"
       linkName: "sicco"
       image: "you.png"
       homepage: ~
       affiliation: "Utrecht University"
       city: "Utrecht, The Netherlands"
-      twitter: ~
+      twitter: "https://twitter.com/SiccodeKnecht"
       git: ~
       researchgate: ~
-      bio: "To be announced"
-      abstract: { "Your research matters, to others": "To be announced" }
+      bio: "Sicco de Knecht (1987) lives in Amsterdam West with his wife, son and brand new daughter. Today, he is the programme coordinator of the University Utrecht Open Science Programme, but before that his career was a bit of a rollercoaster. After finishing his bachelor’s in Psychobiology at the University of Amsterdam (UvA) he became programme director of Psychobiology, taught in a number of undergraduate courses, and founded a new master’s programme in Neurobiology. After that he studied Brain and Cognitive Sciences (MSc) at the UvA and rolled into a PhD-project at the same university. After four years he decided to quit his PhD and moved onto a new career in journalism. Between 2016 and 2020 he was the Editor in Chief of the science and higher education news site ScienceGuide, where he wrote about many themes related to the open science movement. Recently, he started yet another career combining many of the experiences mentioned above – including teaching. Also, he loves podcasts and podcasting."
+      abstract:
+        {
+          "Your research matters, to others": "Coming from the point of view of open science I'll make the case that public engagement and an open attitude are an intrinsic part of being a researcher - especially now.",
+        }
     - name: "Sarah Leuridan (she/her)"
       linkName: "sarah"
       image: "you.png"
