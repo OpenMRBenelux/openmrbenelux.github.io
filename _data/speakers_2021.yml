@@ -274,7 +274,7 @@
       abstract:
         {
           "Outreach at a university": "Taking your first steps in science outreach should not be a lonely experience. Sarah from the Vrije Universiteit Brussel will explain how the university supports researchers to engage with society. (Warning: you might get inspired to join similar outreach projects at your university!)",
-          "Panel discussion: science communication": "<span style='color:#ffd966'> <i class='fas fa-long-arrow-alt-right'></i>&nbsp;&nbsp;DISCUSSION TOPICS&nbsp;&nbsp;<i class='fas fa-long-arrow-alt-left'></i></span><br> Too many papers remain locked by the ability to understand academic language. In this panel discussion, we will discuss how to make our research more understandable and transparent for the wider audience. Furthermore, we will discuss how we can lower the threshold to engage in science communication.",
+          "Panel discussion: science communication": "Too many papers remain locked by the ability to understand academic language. In this panel discussion, we will discuss how to make our research more understandable and transparent for the wider audience. Furthermore, we will discuss how we can lower the threshold to engage in science communication.",
         }
     - name: "Simon Van Eyndhoven (he/him)"
       linkName: "simon"
