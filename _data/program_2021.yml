@@ -11,7 +11,7 @@
         speaker: { "OpenMR team": "../page-team" },
         breakStatus,
         sessionType: "<i class='far fa-smile-beam'></i>&nbsp;<i class='fas fa-comment-dots'></i>",
-        slides: "",
+        slides,
       }
     - {
         startTime: "10:00",
@@ -23,7 +23,7 @@
           },
         breakStatus,
         sessionType: "<i class='fas fa-comment-dots'></i>&nbsp;<i class='fas fa-comment-dots'></i>&nbsp;<i class='fas fa-comment-dots'></i>",
-        slides: "",
+        slides,
       }
     - {
         startTime: "10:30",
@@ -31,7 +31,7 @@
         sessionTitle: "Morning break",
         breakStatus: "break",
         sessionType: "",
-        slides: "",
+        slides,
       }
     - {
         startTime: "11:00",
@@ -40,7 +40,7 @@
         speaker: { "Daniel Alcalá López": "../page-speakers#daniel" },
         breakStatus,
         sessionType: "Talk",
-        slides: "",
+        slides,
       }
     - {
         startTime: "12:00",
@@ -48,7 +48,7 @@
         sessionTitle: "Lunch break",
         breakStatus: "break",
         sessionType: "",
-        slides: "",
+        slides,
       }
     - {
         startTime: "13:00",
@@ -61,7 +61,7 @@
           },
         breakStatus,
         sessionType: "Workshop",
-        slides: "",
+        slides,
       }
     - {
         startTime: "15:00",
@@ -69,7 +69,7 @@
         sessionTitle: "Afternoon break",
         breakStatus: "break",
         sessionType: "",
-        slides: "",
+        slides,
       }
     - {
         startTime: "15:30",
@@ -86,7 +86,7 @@
           },
         breakStatus,
         sessionType: "Panel",
-        slides: "",
+        slides,
       }
 - date: "2021-03-25"
   dateReadable: "Day 2: Thursday, 25 March 2021"
@@ -101,7 +101,7 @@
         speaker: { "OpenMR team": "../page-team" },
         breakStatus,
         sessionType: "<i class='far fa-smile-beam'></i>&nbsp;<i class='fas fa-comment-dots'></i>",
-        slides: "",
+        slides,
       }
     - {
         startTime: "10:15",
@@ -122,7 +122,7 @@
         sessionTitle: "Lunch break",
         breakStatus: "break",
         sessionType: "",
-        slides: "",
+        slides,
       }
     - {
         startTime: "13:00",
@@ -131,7 +131,7 @@
         speaker: { "Britta Westner": "../page-speakers#britta" },
         breakStatus,
         sessionType: "Demo",
-        slides: "",
+        slides,
       }
     - {
         startTime: "13:45",
@@ -139,7 +139,7 @@
         sessionTitle: "Afternoon break",
         breakStatus: "break",
         sessionType: "",
-        slides: "",
+        slides,
       }
     - {
         startTime: "14:00",
@@ -156,16 +156,14 @@
         sessionTitle: "Afternoon break",
         breakStatus: "break",
         sessionType: "",
-        slides: "",
+        slides,
       }
     - {
         startTime: "15:00",
         endTime: "16:00",
         sessionTitle: "Unconference",
-        speaker:
-          {
-            "You": "https://github.com/OpenMRBenelux/openmrb2021-hackathon/labels/Unconference",
-          },
+        speaker: { "You": "../page-speakers#you_speaker1" },
+
         breakStatus,
         sessionType: "<i class='fas fa-comment-dots'></i>&nbsp;<i class='fas fa-comment-dots'></i>&nbsp;<i class='fas fa-comment-dots'></i>",
         slides: "https://github.com/OpenMRBenelux/openmrb2021-hackathon/labels/Unconference",
@@ -184,7 +182,7 @@
         breakStatus,
         sessionTitle: "Opening",
         sessionType: "<i class='far fa-smile-beam'></i>&nbsp;<i class='fas fa-comment-dots'></i>",
-        slides: "",
+        slides,
       }
     - {
         startTime: "10:10",
@@ -193,7 +191,7 @@
         breakStatus,
         sessionTitle: "Your research matters, to others",
         sessionType: "Flash talk",
-        slides: "",
+        slides,
       }
     - {
         startTime: "10:30",
@@ -202,7 +200,7 @@
         breakStatus,
         sessionTitle: "Outreach at a university",
         sessionType: "Talk",
-        slides: "",
+        slides,
       }
     - {
         startTime: "11:00",
@@ -210,7 +208,7 @@
         breakStatus: "break",
         sessionTitle: "Morning break",
         sessionType: "",
-        slides: "",
+        slides,
       }
     - {
         startTime: "11:15",
@@ -219,7 +217,7 @@
         breakStatus,
         sessionTitle: "Falling Walls: Explaining years of research in 3 minutes",
         sessionType: "Flash talk",
-        slides: "",
+        slides,
       }
     - {
         startTime: "11:35",
@@ -228,7 +226,7 @@
         breakStatus,
         sessionTitle: "Visualizing neuroscience",
         sessionType: "Flash talk",
-        slides: "",
+        slides,
       }
     - {
         startTime: "11:55",
@@ -237,7 +235,7 @@
         breakStatus,
         sessionTitle: "A paper in a song",
         sessionType: "Flash talk",
-        slides: "",
+        slides,
       }
     - {
         startTime: "12:15",
@@ -246,7 +244,7 @@
         breakStatus,
         sessionTitle: "Citizen Science in Developmental Neuroscience",
         sessionType: "Flash talk",
-        slides: "",
+        slides,
       }
     - {
         startTime: "12:35",
@@ -254,7 +252,7 @@
         breakStatus: "break",
         sessionTitle: "Lunch break",
         sessionType: "",
-        slides: "",
+        slides,
       }
     - {
         startTime: "13:30",
@@ -267,7 +265,7 @@
         breakStatus,
         sessionTitle: "From science festivals to institutional projects: the case for a grassroots approach",
         sessionType: "Talk",
-        slides: "",
+        slides,
       }
     - {
         startTime: "14:05",
@@ -276,7 +274,7 @@
         breakStatus,
         sessionTitle: "Ten Simple Rules for Using Twitter as a Scientist",
         sessionType: "Flash talk",
-        slides: "",
+        slides,
       }
     - {
         startTime: "14:25",
@@ -289,7 +287,7 @@
         breakStatus,
         sessionTitle: "Podcast 101",
         sessionType: "Flash talk",
-        slides: "",
+        slides,
       }
     - {
         startTime: "14:45",
@@ -297,7 +295,7 @@
         breakStatus: "break",
         sessionTitle: "Afternoon break",
         sessionType: "",
-        slides: "",
+        slides,
       }
     - {
         startTime: "15:00",
@@ -316,7 +314,7 @@
         breakStatus,
         sessionTitle: "Panel discussion: science communication",
         sessionType: "Panel",
-        slides: "",
+        slides,
       }
     - {
         startTime: "15:45",
@@ -329,14 +327,14 @@
         breakStatus,
         sessionTitle: "Hackathon results & closing",
         sessionType: "<i class='fas fa-comment-dots'></i>&nbsp;<i class='fas fa-comment-dots'></i>&nbsp;<i class='fas fa-comment-dots'></i><br><i class='far fa-sad-tear'></i>&nbsp;<i class='fas fa-sign-out-alt'></i><i class='fas fa-door-open'></i>",
-        slides: "",
+        slides,
       }
     - {
         startTime: "16:00",
         endTime: "...",
-        speaker: { "You": "../page-speakers#you_speaker" },
+        speaker: { "You": "../page-speakers#you_speaker2" },
         breakStatus: "drinks",
         sessionTitle: "Virtual drinks",
         sessionType: "<i class='fas fa-cocktail'></i>&nbsp;<i class='fas fa-wine-glass-alt'></i>&nbsp;<i class='fas fa-beer'></i>&nbsp;<i class='fas fa-coffee'></i>",
-        slides: "",
+        slides,
       }

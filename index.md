@@ -36,6 +36,18 @@ div_twitter {
       display: inline;
     }
 }
+.reg-form {
+  position: relative;
+  padding-bottom: 50%; // This is the aspect ratio
+  overflow: hidden;
+}
+.reg-form iframe {
+  position: absolute;
+  top: 30px;
+  left: 1px;
+  width: 100% !important;
+  height: 100% !important;
+}
 </style>
 
 <!-- https://stackoverflow.com/questions/13476267/hide-div-element-when-screen-size-is-smaller-than-a-specific-size/13476297 -->
@@ -71,6 +83,7 @@ div_twitter {
 <p><div style="text-align: justify">For the third year in a row, OpenMR Benelux organizes a meeting concerning open MRI science but this year, we're going virtual. That's right: OpenMR Benelux 2021 has transformed into <b>OpenMR Virtual 2021</b>! We invite you to join us and a team of amazing MRI researchers and developers to learn, speak up, develop, and discuss open (MRI) science practices. It doesn't matter whether you are from the Europe, Middle East, and Africa (EMEA) region or a night zombie who would like to attend from further away. <b>We are welcoming you all</b>!</div></p>
 <p><div style="text-align: justify">The best part: OpenMR Virtual 2021 is <span style="color:#ffd966"><b>completely free of charge</b></span>!</div></p>
 <p><div><i class="fas fa-long-arrow-alt-right"></i>&nbsp;&nbsp;<a href="./2021/page-registration">REGISTER NOW</a>&nbsp;&nbsp;<i class="fas fa-long-arrow-alt-left"></i></div></p> 
+<blockquote><div style="text-align: justify">Before you register, please read our <a href="../page-code-of-conduct" target="_blank"><b>Code of Conduct</b></a> carefully. You will be asked to adhere to this code when attending OpenMR Virtual 2021. Please also read our <a href="../privacy-policy" target="_blank"><b>Privacy Policy</b></a> to understand how we process your personal data. Take note that the data you enter in this registration form will be hosted on Google servers outside of the EU. This is necessary for the time period required to organize and run the event, after which it will be deleted unless you want to receive communication from us in the future.</div></blockquote>
 <!-- an exciting 3-day program lined up with talks, discussions, workshops, training sessions, and <a href="./page-resources-hackathon">hackathons</a> -->
 
 <img class="img-separator" src="{{ site.baseurl }}/assets/ext_images/2020/post_separator.png" alt="horizontal separator" />
@@ -85,6 +98,10 @@ div_twitter {
 
 <p><div style="text-align: justify"><b>Interested in organizing OpenMR next year? Awesome!! Please fill in <a href="https://forms.gle/Fhxdv5yL8KD8vQSo9" target="_blank">this form</a> and we will get back to you!</b></div></p>
 
+<div id="registration" class="reg-form"> 
+<iframe src="https://forms.gle/Fhxdv5yL8KD8vQSo9" width="640" height="1086" frameborder="0" marginheight="0" marginwidth="0" style="border:0" allowfullscreen>Laden…</iframe>
+</div>
+<br>
 <img class="img-separator" src="{{ site.baseurl }}/assets/ext_images/2020/post_separator.png" alt="horizontal separator" />
 <br>
 <a href="#"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
