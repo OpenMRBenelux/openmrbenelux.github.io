@@ -114,7 +114,7 @@
           },
         breakStatus,
         sessionType: "Workshop",
-        slides: "",
+        slides: "https://github.com/OpenMRBenelux/openmr2021-dataviz-workshop-python",
       }
     - {
         startTime: "12:00",
@@ -148,7 +148,7 @@
         speaker: { "Stephan Heunis": "../page-speakers#stephan" },
         breakStatus,
         sessionType: "Demo",
-        slides: "",
+        slides: "https://github.com/OpenMRBenelux/openmr2021-dataviz-dash-demo",
       }
     - {
         startTime: "14:45",
@@ -281,7 +281,11 @@
     - {
         startTime: "14:25",
         endTime: "14:45",
-        speaker: { "Moss Zhao": "../page-speakers#moss" },
+        speaker:
+          {
+            "Moss Zhao": "../page-speakers#moss",
+            "Patricia Clement": "../page-speakers#patricia",
+          },
         breakStatus,
         sessionTitle: "Podcast 101",
         sessionType: "Flash talk",
