@@ -36,6 +36,18 @@ div_twitter {
       display: inline;
     }
 }
+.reg-form {
+  position: relative;
+  padding-bottom: 50%; // This is the aspect ratio
+  overflow: hidden;
+}
+.reg-form iframe {
+  position: absolute;
+  top: 30px;
+  left: 1px;
+  width: 100% !important;
+  height: 100% !important;
+}
 </style>
 
 <!-- https://stackoverflow.com/questions/13476267/hide-div-element-when-screen-size-is-smaller-than-a-specific-size/13476297 -->
@@ -86,6 +98,10 @@ div_twitter {
 
 <p><div style="text-align: justify"><b>Interested in organizing OpenMR next year? Awesome!! Please fill in <a href="https://forms.gle/Fhxdv5yL8KD8vQSo9" target="_blank">this form</a> and we will get back to you!</b></div></p>
 
+<div id="registration" class="reg-form"> 
+<iframe src="https://forms.gle/Fhxdv5yL8KD8vQSo9" width="640" height="1086" frameborder="0" marginheight="0" marginwidth="0" style="border:0" allowfullscreen>Laden…</iframe>
+</div>
+<br>
 <img class="img-separator" src="{{ site.baseurl }}/assets/ext_images/2020/post_separator.png" alt="horizontal separator" />
 <br>
 <a href="#"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
