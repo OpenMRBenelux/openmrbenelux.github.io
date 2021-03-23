@@ -227,6 +227,16 @@
         {
           "Visualizing data interactively with Plotly and Dash": "The tools are out there for researchers to publish their data and results in rich online formats that offer accessibility, interaction and exploration. Yet, we still see a majority of standard plots and images in PDF format. In this demo, we will explore the possibilities offered by Python, Plotly and Dash to make your research outputs interactive and future-aware! See a sneak preview here: <a href='https://rt-me-fmri.herokuapp.com/' target='_blank'>https://rt-me-fmri.herokuapp.com/</a>",
         }
+    - name: "You!"
+      linkName: "you_speaker1"
+      image: "you.png"
+      homepage: ~
+      affiliation: ~
+      city: "Anywhere on earth"
+      twitter: ~
+      git: ~
+      researchgate: ~
+      thnx: "Do not hesitate to propose an unconference <a href='https://github.com/OpenMRBenelux/openmrb2021-hackathon/labels/Unconference' target='_blank'>here</a>!"
 
 - date: "Day 3: Friday, 26 March 2021"
   speakers:
@@ -417,7 +427,7 @@
           "Podcast 101": "In this talk, we will present the tips of making a successful science podcast.",
         }
     - name: "You!"
-      linkName: "you_speaker"
+      linkName: "you_speaker2"
       image: "you.png"
       homepage: ~
       affiliation: ~

@@ -162,10 +162,8 @@
         startTime: "15:00",
         endTime: "16:00",
         sessionTitle: "Unconference",
-        speaker:
-          {
-            "You": "https://github.com/OpenMRBenelux/openmrb2021-hackathon/labels/Unconference",
-          },
+        speaker: { "You": "../page-speakers#you_speaker1" },
+
         breakStatus,
         sessionType: "<i class='fas fa-comment-dots'></i>&nbsp;<i class='fas fa-comment-dots'></i>&nbsp;<i class='fas fa-comment-dots'></i>",
         slides: "https://github.com/OpenMRBenelux/openmrb2021-hackathon/labels/Unconference",
@@ -334,7 +332,7 @@
     - {
         startTime: "16:00",
         endTime: "...",
-        speaker: { "You": "../page-speakers#you_speaker" },
+        speaker: { "You": "../page-speakers#you_speaker2" },
         breakStatus: "drinks",
         sessionTitle: "Virtual drinks",
         sessionType: "<i class='fas fa-cocktail'></i>&nbsp;<i class='fas fa-wine-glass-alt'></i>&nbsp;<i class='fas fa-beer'></i>&nbsp;<i class='fas fa-coffee'></i>",
