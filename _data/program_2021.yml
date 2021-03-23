@@ -334,7 +334,7 @@
     - {
         startTime: "16:00",
         endTime: "...",
-        speaker: { "You" },
+        speaker: { "You": "../page-speakers#you_speaker" },
         breakStatus: "drinks",
         sessionTitle: "Virtual drinks",
         sessionType: "<i class='fas fa-cocktail'></i>&nbsp;<i class='fas fa-wine-glass-alt'></i>&nbsp;<i class='fas fa-beer'></i>&nbsp;<i class='fas fa-coffee'></i>",

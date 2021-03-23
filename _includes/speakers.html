@@ -23,7 +23,7 @@
             '2' %}{% endif %}
             <!-- Day 3 -->
             {% if day.date == "Day 3: Friday, 26 March 2021" %}{% assign lim =
-            '6' %}{% endif %}
+            '7' %}{% endif %}
             <!-- hardcode nr (> offset) -->
             {% if loop == 0 %}{% assign nr = '0' %}{% endif %}
             <!-- Day 1 -->
@@ -34,7 +34,7 @@
             %}{% assign nr = '2' %}{% endif %}
             <!-- Day 3 -->
             {% if loop == 1 and day.date == "Day 3: Friday, 26 March 2021" %}{%
-            assign nr = '6' %}{% endif %}
+            assign nr = '7' %}{% endif %}
             <!-- start for loop -->
             {% for speaker in day.speakers limit: lim offset: nr %}
             <div class="tile is-child box" id="{{ speaker.linkName }}">
@@ -43,6 +43,7 @@
                 {% include speaker-card.html data=speaker%}
               </div>
 
+              {% if speaker.bio %}
               <div class="tile is-child">
                 <button class="accordion">
                   <i class="fas fa-id-card"></i>
@@ -53,8 +54,19 @@
                   <br />
                 </div>
               </div>
+              {% endif %} {% if speaker.thnx %}
+              <div class="tile is-child">
+                <button class="accordion" style="color: #ffd966">
+                  <i class="far fa-grin-hearts"></i>
+                  &nbsp;&nbsp;Thank you!
+                </button>
+                <div class="panel">
+                  <p>{{ speaker.thnx }}</p>
+                  <br />
+                </div>
+              </div>
 
-              {% if speaker.host %}
+              {% endif %} {% if speaker.host %}
               <div class="tile is-child">
                 <button class="accordion" style="color: #ffd966">
                   Host of the day!
