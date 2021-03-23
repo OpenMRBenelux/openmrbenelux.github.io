@@ -416,3 +416,13 @@
         {
           "Podcast 101": "In this talk, we will present the tips of making a successful science podcast.",
         }
+    - name: "You!"
+      linkName: "you_speaker"
+      image: "you.png"
+      homepage: ~
+      affiliation: ~
+      city: "Anywhere on earth"
+      twitter: ~
+      git: ~
+      researchgate: ~
+      thnx: "You are amazing! Thank you for attending OpenMR Virtual 2021!"
