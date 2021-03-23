@@ -25,7 +25,7 @@
       git: "https://github.com/DorienHuijser"
       researchgate: ~
       bio: 'Dorien is lab and data manager at the <a href="http://erasmus-synclab.nl/" target="_blank">Society, Youth and Neuroscience Connected (SYNC) lab</a> at Erasmus University Rotterdam, The Netherlands. As lab manager, she works closely with lab members and coordinates lab-wide projects, among which citizen science projects. As data manager, she takes care of data management (e.g., data structure, privacy issues, long-term access) and fosters open science initiatives in the lab, university-wide and sometimes even outside of the university walls. At Leiden University, Dorien is involved as a data manager in a large longitudinal <a href="https://www.universiteitleiden.nl/en/research/research-projects/social-and-behavioural-sciences/leiden-consortium-on-individual-development-l-cid" target="_blank">twin study</a>.'
-      host: "More practical info coming soon!"
+      host: "<b>All attendees of OpenMR Virtual 2021</b>:<br><br><span style='color:#000477'><i class='fas fa-envelope-square'></i></span>&nbsp;&nbsp;You've got mail!&nbsp;&nbsp;<span style='color:#000477'><i class='fas fa-envelope-square'></i></span><br>Please check your inbox for the latest practical info on how to connect & partipate on 24-26 March.<br><br><b>And for everyone else</b>: it's not too late! You can still <a href='../../2021/page-registration'>register</a>!"
     - name: "Daniel Alcalá López (he/him)"
       linkName: "daniel"
       image: "daniel.jpeg"
@@ -152,7 +152,7 @@
       abstract:
         {
           "Moderator - Panel discussion: what constitutes clean, scientific code?": "In this panel discussion, we would like to get opinions from people working in academia and/or industry on good coding practices and to use this as an opportunity to give concrete advice to early career researchers on how to improve their coding",
-          "<span style='color:#ffd966'> <i class='fas fa-long-arrow-alt-right'></i>&nbsp;&nbsp;MY POINT OF VIEW&nbsp;&nbsp;<i class='fas fa-long-arrow-alt-left'></i></span>": "Like most scientists I was never given any training on how to write code and organize data. It is only years down the line that I started realizing the mental and opportunity costs that this lack of training entails. I have recently been trying to create resources and support projects that try to prevent others from making the same mistake.",
+          "<span style='color:#ffd966'><i class='fas fa-long-arrow-alt-right'></i>&nbsp;&nbsp;MY POINT OF VIEW&nbsp;&nbsp;<i class='fas fa-long-arrow-alt-left'></i></span>": "Like most scientists I was never given any training on how to write code and organize data. It is only years down the line that I started realizing the mental and opportunity costs that this lack of training entails. I have recently been trying to create resources and support projects that try to prevent others from making the same mistake.",
         }
 
 - date: "Day 2: Thursday, 25 March 2021"
@@ -167,7 +167,7 @@
       git: "https://github.com/sofievdbos"
       researchgate: "https://www.researchgate.net/profile/Sofie_Van_Den_Bossche2"
       bio: 'Sofie is currently doing a PhD at the Department of Data Analysis (Ghent University, Ghent, Belgium), supervised by Prof. Dr. Daniele Marinazzo. Her research focuses on the intertwined domains of (resting-state) neuroscience and lateralization/handedness. During her PhD, she has also been involved in Open Science events, either as part of the organizing committee (BrainHack Ghent  <a href="https://brainhackghent.wixsite.com/brainhackghent" target="_blank">2017</a>, <a href="https://brainhackghent.github.io/" target="_blank">2018</a> and <a href="http://www.brainhack.org/global2019/">Brainhack Global 2019</a>) or as a volunteer (e.g. Pint of Science, Ghent). Creating an Open Science community and communicating Open Science to a broader public is something she wants to be progressively involved in.'
-      host: "More practical info coming soon!"
+      host: "<b>All attendees of OpenMR Virtual 2021</b>:<br><br><span style='color:#000477'><i class='fas fa-envelope-square'></i></span>&nbsp;&nbsp;You've got mail!&nbsp;&nbsp;<span style='color:#000477'><i class='fas fa-envelope-square'></i></span><br>Please check your inbox for the latest practical info on how to connect & partipate on 24-26 March.<br><br><b>And for everyone else</b>: it's not too late! You can still <a href='../../2021/page-registration'>register</a>!"
     - name: "Stijn Denissen (he/him)"
       linkName: "stijn"
       image: "stijn.jpeg"
@@ -240,7 +240,7 @@
       git: "https://github.com/jsheunis"
       researchgate: ~
       bio: "Stephan is a biomedical engineer from Stellenbosch, South Africa, where he worked in industry before moving to Europe with the goal of studying in the field of neuroscience. He is currently finishing up his PhD in real-time fMRI methods development and validation. He is passionate about making research and scientific practice more transparent, rigorous and inclusive. He started the Open Science Community Eindhoven, which is part of a wide Dutch network of researchers and university employees that works on improving the way we do science, and he is the founder of OpenMR Benelux, a community working on wider adoption of open science principles in MRI research through talks, discussions, workshops and hackathons."
-      host: "More practical info coming soon!"
+      host: "<b>All attendees of OpenMR Virtual 2021</b>:<br><br><span style='color:#000477'><i class='fas fa-envelope-square'></i></span>&nbsp;&nbsp;You've got mail!&nbsp;&nbsp;<span style='color:#000477'><i class='fas fa-envelope-square'></i></span><br>Please check your inbox for the latest practical info on how to connect & partipate on 24-26 March.<br><br><b>And for everyone else</b>: it's not too late! You can still <a href='../../2021/page-registration'>register</a>!"
     - name: "Rémi Gau (he/him)"
       linkName: "remi3"
       image: "remi.png"
@@ -251,7 +251,7 @@
       git: "https://github.com/Remi-Gau"
       researchgate: ~
       bio: "I am a postdoctoral fellow in the Crossmodal Perception and Plasticity laboratory (CPP-Lab) at  the Université catholique de Louvain. My work focuses on the multisensory aspects of perception and I use high-resolution MRI to address these questions. I see in open science a way to a) build a more inclusive research community based on cooperation rather than competition and b) address some of the replicability and reproducibility issues that are affecting many areas of science."
-      host: "More practical info coming soon!"
+      host: "<b>All attendees of OpenMR Virtual 2021</b>:<br><br><span style='color:#000477'><i class='fas fa-envelope-square'></i></span>&nbsp;&nbsp;You've got mail!&nbsp;&nbsp;<span style='color:#000477'><i class='fas fa-envelope-square'></i></span><br>Please check your inbox for the latest practical info on how to connect & partipate on 24-26 March.<br><br><b>And for everyone else</b>: it's not too late! You can still <a href='../../2021/page-registration'>register</a>!"
     - name: "Sicco de Knecht (he/him)"
       linkName: "sicco"
       image: "you.png"
