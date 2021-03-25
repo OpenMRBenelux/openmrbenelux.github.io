@@ -10,7 +10,9 @@
         sessionTitle: "Opening",
         speaker: { "OpenMR team": "../page-team" },
         breakStatus,
-        sessionType: "<i class='far fa-smile-beam'></i>&nbsp;<i class='fas fa-comment-dots'></i>",
+        sessionType:
+          "<i class='far fa-smile-beam'></i>&nbsp;<i class='fas
+          fa-comment-dots'></i>",
         slides,
       }
     - {
@@ -22,7 +24,9 @@
             "Hackathon leaders": "https://github.com/OpenMRBenelux/openmrb2021-hackathon/labels/Hackathon%20Project",
           },
         breakStatus,
-        sessionType: "<i class='fas fa-comment-dots'></i>&nbsp;<i class='fas fa-comment-dots'></i>&nbsp;<i class='fas fa-comment-dots'></i>",
+        sessionType:
+          "<i class='fas fa-comment-dots'></i>&nbsp;<i class='fas
+          fa-comment-dots'></i>&nbsp;<i class='fas fa-comment-dots'></i>",
         slides,
       }
     - {
@@ -36,7 +40,9 @@
     - {
         startTime: "11:00",
         endTime: "12:00",
-        sessionTitle: "The age of the researcher is over. The time of the community has come.",
+        sessionTitle:
+          "The age of the researcher is over. The time of the community has
+          come.",
         speaker: { "Daniel Alcalá López": "../page-speakers#daniel" },
         breakStatus,
         sessionType: "Talk",
@@ -74,7 +80,8 @@
     - {
         startTime: "15:30",
         endTime: "16:30",
-        sessionTitle: "Panel discussion: what constitutes clean, scientific code?",
+        sessionTitle:
+          "Panel discussion: what constitutes clean, scientific code?",
         speaker:
           {
             "Rémi Gau": "../page-speakers#remi",
@@ -100,13 +107,17 @@
         sessionTitle: "Opening",
         speaker: { "OpenMR team": "../page-team" },
         breakStatus,
-        sessionType: "<i class='far fa-smile-beam'></i>&nbsp;<i class='fas fa-comment-dots'></i>",
+        sessionType:
+          "<i class='far fa-smile-beam'></i>&nbsp;<i class='fas
+          fa-comment-dots'></i>",
         slides,
       }
     - {
         startTime: "10:15",
         endTime: "12:00",
-        sessionTitle: "Introduction to data exploration with Python, Matlab/Octave and Jupyter Notebooks",
+        sessionTitle:
+          "Introduction to data exploration with Python, Matlab/Octave and
+          Jupyter Notebooks",
         speaker:
           {
             "Stijn Denissen": "../page-speakers#stijn",
@@ -165,7 +176,9 @@
         speaker: { "You": "../page-speakers#you_speaker1" },
 
         breakStatus,
-        sessionType: "<i class='fas fa-comment-dots'></i>&nbsp;<i class='fas fa-comment-dots'></i>&nbsp;<i class='fas fa-comment-dots'></i>",
+        sessionType:
+          "<i class='fas fa-comment-dots'></i>&nbsp;<i class='fas
+          fa-comment-dots'></i>&nbsp;<i class='fas fa-comment-dots'></i>",
         slides: "https://github.com/OpenMRBenelux/openmrb2021-hackathon/labels/Unconference",
       }
 
@@ -181,7 +194,9 @@
         speaker: { "OpenMR team": "../page-team" },
         breakStatus,
         sessionTitle: "Opening",
-        sessionType: "<i class='far fa-smile-beam'></i>&nbsp;<i class='fas fa-comment-dots'></i>",
+        sessionType:
+          "<i class='far fa-smile-beam'></i>&nbsp;<i class='fas
+          fa-comment-dots'></i>",
         slides,
       }
     - {
@@ -215,7 +230,8 @@
         endTime: "11:35",
         speaker: { "Simon Van Eyndhoven": "../page-speakers#simon" },
         breakStatus,
-        sessionTitle: "Falling Walls: Explaining years of research in 3 minutes",
+        sessionTitle:
+          "Falling Walls: Explaining years of research in 3 minutes",
         sessionType: "Flash talk",
         slides,
       }
@@ -224,7 +240,7 @@
         endTime: "11:55",
         speaker: { "Gil Costa": "../page-speakers#gil" },
         breakStatus,
-        sessionTitle: "Visualizing neuroscience",
+        sessionTitle: "Designing for Science",
         sessionType: "Flash talk",
         slides,
       }
@@ -263,7 +279,9 @@
             "Elodie Chabrol": "../page-speakers#elodie",
           },
         breakStatus,
-        sessionTitle: "From science festivals to institutional projects: the case for a grassroots approach",
+        sessionTitle:
+          "From science festivals to institutional projects: the case for a
+          grassroots approach",
         sessionType: "Talk",
         slides,
       }
@@ -326,7 +344,11 @@
           },
         breakStatus,
         sessionTitle: "Hackathon results & closing",
-        sessionType: "<i class='fas fa-comment-dots'></i>&nbsp;<i class='fas fa-comment-dots'></i>&nbsp;<i class='fas fa-comment-dots'></i><br><i class='far fa-sad-tear'></i>&nbsp;<i class='fas fa-sign-out-alt'></i><i class='fas fa-door-open'></i>",
+        sessionType:
+          "<i class='fas fa-comment-dots'></i>&nbsp;<i class='fas
+          fa-comment-dots'></i>&nbsp;<i class='fas fa-comment-dots'></i><br><i
+          class='far fa-sad-tear'></i>&nbsp;<i class='fas
+          fa-sign-out-alt'></i><i class='fas fa-door-open'></i>",
         slides,
       }
     - {
@@ -335,6 +357,9 @@
         speaker: { "You": "../page-speakers#you_speaker2" },
         breakStatus: "drinks",
         sessionTitle: "Virtual drinks",
-        sessionType: "<i class='fas fa-cocktail'></i>&nbsp;<i class='fas fa-wine-glass-alt'></i>&nbsp;<i class='fas fa-beer'></i>&nbsp;<i class='fas fa-coffee'></i>",
+        sessionType:
+          "<i class='fas fa-cocktail'></i>&nbsp;<i class='fas
+          fa-wine-glass-alt'></i>&nbsp;<i class='fas fa-beer'></i>&nbsp;<i
+          class='fas fa-coffee'></i>",
         slides,
       }
