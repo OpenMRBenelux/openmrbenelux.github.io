@@ -620,19 +620,27 @@
             Furthermore, we will discuss how we can lower the threshold to
             engage in science communication.",
         }
-    - name: "Gil Costa"
+    - name: "Gil Costa (he/him)"
       linkName: "gil"
       image: "gil.png"
-      homepage: ~
+      homepage: "www.gilcosta.com"
       affiliation: ~
-      city: ~
-      twitter: ~
+      city: "Brussels, Belgium"
+      twitter: "https://twitter.com/GilCostaDesign"
       git: ~
       researchgate: ~
-      bio: "To be announced"
+      bio:
+        "Gil Costa is a Scientific Designer and Illustrator, with a background
+        in Biology and a PhD in Neurosciences, working to bridge the worlds of
+        Science, Design and Arts together. "
       abstract:
         {
-          "To be announced": "To be announced",
+          "Designing for Science":
+            "In this talk I will talk about Designing for Science. I will cover
+            the space of possibilities of visual communication of science, with
+            examples from my own experience. I will also slightly hint at
+            references and resources that might be helpful to explore, as
+            starting points to improve visuals and create impactful images.",
           "Panel discussion: science communication":
             "Too many papers remain locked by the ability to understand academic
             language. In this panel discussion, we will discuss how to make our
