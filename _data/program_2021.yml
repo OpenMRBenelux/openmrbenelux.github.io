@@ -240,7 +240,7 @@
         endTime: "11:55",
         speaker: { "Gil Costa": "../page-speakers#gil" },
         breakStatus,
-        sessionTitle: "Visualizing neuroscience",
+        sessionTitle: "Designing for Science",
         sessionType: "Flash talk",
         slides,
       }
