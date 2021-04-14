@@ -3,139 +3,178 @@
 <!-- img: https://bulma.io/documentation/elements/image/ -->
 
 <style>
-.card {
-  background-color: #dbe9f4;
-}
-.bm--card-equal-height {
-   display: flex;
-   flex-direction: column;
-   height: 100%;
-}
-.bm--card-equal-height .card-footer {
-   margin-top: auto;
-}
-.card-footer {
-  background-color: white;
-}
-.responsive {
-      display: block;
-      max-width: 60px;
-      max-height: 60px;
-      width: 100%;
-      height: auto;
-   }
+  .card {
+    background-color: #dbe9f4;
+  }
+  .bm--card-equal-height {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+  .bm--card-equal-height .card-footer {
+    margin-top: auto;
+  }
+  .card-footer {
+    background-color: white;
+  }
+  .responsive {
+    display: block;
+    max-width: 60px;
+    max-height: 60px;
+    width: 100%;
+    height: auto;
+  }
 </style>
 
 <h2>The 2020 way</h2>
 
 <div class="columns is-multiline">
-
   {% for talk in site.data.content2021.talks %}
-    <div class="column is-4-desktop is-6-tablet">
-      
-      <div class="card bm--card-equal-height">
-        
-        <!-- Upper part of card -->
-        <div class="card-content">
-          <div class="media">
-            
-            <!-- Image(s) -->
-            {% if talk.image %}
-              {% for image in talk.image %}
-              <div class="media-left">
-              <!--<figure>--><img src="../../img/speakers/{{ image }}" alt="{{ talk.name }}" style="border: 2px solid #004777; width: 60px; height: 60px; border-radius: 50%; object-fit: cover;" class="responsive"><!--</figure>-->
-              </div>
-              {% endfor %}
-            {% endif %}
-            
-            <!-- Name(s) of speaker(s) -->
-            <div class="media-content"><p class="title is-4" style="color: #004777">{{ talk.name }}</p></div>
+  <div class="column is-4-desktop is-6-tablet">
+    <div class="card bm--card-equal-height">
+      <!-- Upper part of card -->
+      <div class="card-content">
+        <div class="media">
+          <!-- Image(s) -->
+          {% if talk.image %} {% for image in talk.image %}
+          <div class="media-left">
+            <!--<figure>--><img
+              src="../../img/speakers/{{ image }}"
+              alt="{{ talk.name }}"
+              style="
+                border: 2px solid #004777;
+                width: 60px;
+                height: 60px;
+                border-radius: 50%;
+                object-fit: cover;
+              "
+              class="responsive"
+            /><!--</figure>-->
           </div>
+          {% endfor %} {% endif %}
 
-          <!-- Title of talk -->
-            <div class="content"><p class="subtitle is-4">{{ talk.title }}</p></div>
-            <div class="content"> 
-              <details><summary>Description</summary>
-              {{ talk.description }}
-              </details>
-            </div>
+          <!-- Name(s) of speaker(s) -->
+          <div class="media-content">
+            <p class="title is-4" style="color: #004777">{{ talk.name }}</p>
+          </div>
+        </div>
 
-        </div> 
-
-        <!-- Footer -->
-        <footer class="card-footer">
-          {% if talk.materials %}
-            {% for item in talk.materials%}<a href="{{ item }}" class="card-footer-item" target="_blank">Materials</a>{% endfor %} <!-- Maybe call this slides -->
-          {% endif %}
-          {% if talk.video %}
-            {% for item in talk.video %}<a href="{{ item }}" class="card-footer-item" target="_blank">Video</a>{% endfor %}
-          {% endif %}
-          {% if talk.repo %}
-            {% for item in talk.repo %}<a href="{{ item }}" class="card-footer-item" target="_blank">Repository</a>{% endfor %}
-          {% endif %}
-        </footer>
-
+        <!-- Title of talk -->
+        <div class="content"><p class="subtitle is-4">{{ talk.title }}</p></div>
+        <div class="content">
+          <details>
+            <summary>Description</summary>
+            {{ talk.description }}
+          </details>
+        </div>
       </div>
+
+      <!-- Footer -->
+      <footer class="card-footer">
+        {% if talk.materials %} {% for item in talk.materials%}<a
+          href="{{ item }}"
+          class="card-footer-item"
+          target="_blank"
+          >Materials</a
+        >{% endfor %}
+        <!-- Maybe call this slides -->
+        {% endif %} {% if talk.video %} {% for item in talk.video %}<a
+          href="{{ item }}"
+          class="card-footer-item"
+          target="_blank"
+          >Video</a
+        >{% endfor %} {% endif %} {% if talk.repo %} {% for item in talk.repo
+        %}<a href="{{ item }}" class="card-footer-item" target="_blank"
+          >Repository</a
+        >{% endfor %} {% endif %}
+      </footer>
     </div>
+  </div>
   {% endfor %}
 </div>
 
-<h2>The speaker card way (does not work well yet) </h2>
-<!-- Copied and simplified from speakers.html and speakercard.html. If we are going to use this, we need to define columns in some way -->
+<h2>The speaker card way (does not work well yet)</h2>
+<!-- Copied and simplified from speakers.html and speakercard.html. 
+  If we are going to use this, we need to define columns in some way -->
 
-  <div class="container is-fluid">
+<div class="container is-fluid">
+  <div class="tile is-ancestor person">
+    <!-- two columns -->
+    <div class="tile is-vertical is-parent">
+      {% for talk in site.data.content2021.talks %}
 
-    <div class="tile is-ancestor person">
-      <!-- two columns -->
-      <div class="tile is-vertical is-parent">
-        {% for talk in site.data.content2021.talks %}
-        
-        <div class="tile is-child box" id="{{ talk.linkname }}">
-          <div class="tile is-child">              
-              
-              <!-- Speaker card -->
-              <section class="container {% if include.column %} {{ include.column }}{% endif %}">
-                <table cellpadding="20px" style="background-color: #dbe9f4">
-                  <tr>
-                    <td height="300px" style="width: 40%; text-align: center; vertical-align: middle">
-                      {% for item in talk.image %}
-                      <img src="/img/speakers/{{ item }}" style="border: 2px solid #004777; height: auto; width: 250px; border-radius: 50%;"/>
-                      {% endfor %}
-                    </td>
-                    
-                    <td height="300px" style="width: 60%; text-align: left; vertical-align: middle">
+      <div class="tile is-child box" id="{{ talk.linkname }}">
+        <div class="tile is-child">
+          <!-- Speaker card -->
+          <section
+            class="container {% if include.column %} {{ include.column }}{% endif %}"
+          >
+            <table cellpadding="20px" style="background-color: #dbe9f4">
+              <tr>
+                <td
+                  height="300px"
+                  style="width: 40%; text-align: center; vertical-align: middle"
+                >
+                  {% for item in talk.image %}
+                  <img
+                    src="/img/speakers/{{ item }}"
+                    style="
+                      border: 2px solid #004777;
+                      height: auto;
+                      width: 250px;
+                      border-radius: 50%;
+                    "
+                  />
+                  {% endfor %}
+                </td>
 
-                    <div class="media-content"><p class="title is-4" style="color: #004777">{{ talk.name }}</p></div>
-                    <div class="content"><p class="subtitle is-4">{{ talk.title }}</p></div>
+                <td
+                  height="300px"
+                  style="width: 60%; text-align: left; vertical-align: middle"
+                >
+                  <div class="media-content">
+                    <p class="title is-4" style="color: #004777">
+                      {{ talk.name }}
+                    </p>
+                  </div>
+                  <div class="content">
+                    <p class="subtitle is-4">{{ talk.title }}</p>
+                  </div>
 
-                      {% if talk.materials %} <h6><a href="{{ talk.materials }}" target="_blank">Materials</a></h6> {% endif %}
-                      {% if talk.video %} <h6><a href="{{ talk.video }}" target="_blank">Video</a></h6> {% endif %}
-                      {% if talk.repo %} <h6><a href="{{ talk.repo }}" target="_blank">Projects</a></h6> {% endif %}
-                    </td>
-                  </tr>
-                </table>
-              </section>
-          </div>
-
-          {% if talk.description %}
-          <div class="tile is-child">
-            <button class="accordion">
-              <i class="fas fa-id-card"></i>
-              &nbsp;&nbsp;Description
-            </button>
-            <div class="panel">
-              <p>{{ talk.description }}</p>
-              <br />
-            </div>
-          </div>
-          {% endif %} 
-
+                  {% if talk.materials %}
+                  <h6>
+                    <a href="{{ talk.materials }}" target="_blank">Materials</a>
+                  </h6>
+                  {% endif %} {% if talk.video %}
+                  <h6><a href="{{ talk.video }}" target="_blank">Video</a></h6>
+                  {% endif %} {% if talk.repo %}
+                  <h6>
+                    <a href="{{ talk.repo }}" target="_blank">Projects</a>
+                  </h6>
+                  {% endif %}
+                </td>
+              </tr>
+            </table>
+          </section>
         </div>
-        {% endfor %}
-      </div>
-    </div>
 
+        {% if talk.description %}
+        <div class="tile is-child">
+          <button class="accordion">
+            <i class="fas fa-id-card"></i>
+            &nbsp;&nbsp;Description
+          </button>
+          <div class="panel">
+            <p>{{ talk.description }}</p>
+            <br />
+          </div>
+        </div>
+        {% endif %}
+      </div>
+      {% endfor %}
+    </div>
   </div>
+</div>
 
 <!-- Script for accordion -->
 <script>
@@ -144,7 +183,8 @@
 
   for (i = 0; i < acc.length; i++) {
     acc[i].addEventListener("click", function () {
-      /* Toggle between adding and removing the "active" class, to highlight the button that controls the panel */
+      /* Toggle between adding and removing the "active" class, 
+      to highlight the button that controls the panel */
       this.classList.toggle("active");
 
       /* Toggle between hiding and showing the active panel */
