@@ -5,4 +5,6 @@ layout: page
 show_sidebar: false
 ---
 
-After OpenMR Virtual 2021, you will find all materials presented during the conference on this page!
+Here you can find the materials (description, slides, video) for all the talks and workshops that occurred during OpenMR Virtual 2021:
+
+{% include content2021.html %}
