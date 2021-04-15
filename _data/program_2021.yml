@@ -10,8 +10,7 @@
         sessionTitle: "Opening",
         speaker: { "OpenMR team": "../page-team" },
         breakStatus,
-        sessionType:
-          "<i class='far fa-smile-beam'></i>&nbsp;<i class='fas
+        sessionType: "<i class='far fa-smile-beam'></i>&nbsp;<i class='fas
           fa-comment-dots'></i>",
         slides,
       }
@@ -24,10 +23,9 @@
             "Hackathon leaders": "https://github.com/OpenMRBenelux/openmrb2021-hackathon/labels/Hackathon%20Project",
           },
         breakStatus,
-        sessionType:
-          "<i class='fas fa-comment-dots'></i>&nbsp;<i class='fas
+        sessionType: "<i class='fas fa-comment-dots'></i>&nbsp;<i class='fas
           fa-comment-dots'></i>&nbsp;<i class='fas fa-comment-dots'></i>",
-        slides,
+        slides: "https://github.com/OpenMRBenelux/openmrb2021-hackathon/issues?q=is%3Aissue+is%3Aopen+label%3A%22Hackathon+Project%22",
       }
     - {
         startTime: "10:30",
@@ -46,7 +44,7 @@
         speaker: { "Daniel Alcalá López": "../page-speakers#daniel" },
         breakStatus,
         sessionType: "Talk",
-        slides,
+        slides: "../page-content#daniel",
       }
     - {
         startTime: "12:00",
@@ -67,7 +65,7 @@
           },
         breakStatus,
         sessionType: "Workshop",
-        slides,
+        slides: "../page-content#github",
       }
     - {
         startTime: "15:00",
@@ -80,8 +78,7 @@
     - {
         startTime: "15:30",
         endTime: "16:30",
-        sessionTitle:
-          "Panel discussion: what constitutes clean, scientific code?",
+        sessionTitle: "Panel discussion: what constitutes clean, scientific code?",
         speaker:
           {
             "Rémi Gau": "../page-speakers#remi",
@@ -93,7 +90,7 @@
           },
         breakStatus,
         sessionType: "Panel",
-        slides,
+        slides: "../page-content#codepanel",
       }
 - date: "2021-03-25"
   dateReadable: "Day 2: Thursday, 25 March 2021"
@@ -107,8 +104,7 @@
         sessionTitle: "Opening",
         speaker: { "OpenMR team": "../page-team" },
         breakStatus,
-        sessionType:
-          "<i class='far fa-smile-beam'></i>&nbsp;<i class='fas
+        sessionType: "<i class='far fa-smile-beam'></i>&nbsp;<i class='fas
           fa-comment-dots'></i>",
         slides,
       }
@@ -125,7 +121,7 @@
           },
         breakStatus,
         sessionType: "Workshop",
-        slides: "https://github.com/OpenMRBenelux/openmr2021-dataviz-workshop-python",
+        slides: "../page-content#jupyter",
       }
     - {
         startTime: "12:00",
@@ -138,11 +134,11 @@
     - {
         startTime: "13:00",
         endTime: "13:45",
-        sessionTitle: "Data visualization with MNE",
+        sessionTitle: "Data visualization with MNE-Python",
         speaker: { "Britta Westner": "../page-speakers#britta" },
         breakStatus,
         sessionType: "Demo",
-        slides,
+        slides: "../page-content#mne",
       }
     - {
         startTime: "13:45",
@@ -155,11 +151,11 @@
     - {
         startTime: "14:00",
         endTime: "14:45",
-        sessionTitle: "Visualizing data interactively with Plotly and Dash",
+        sessionTitle: "Interactive data visualization with Python, Plotly and Dash",
         speaker: { "Stephan Heunis": "../page-speakers#stephan" },
         breakStatus,
         sessionType: "Demo",
-        slides: "https://github.com/OpenMRBenelux/openmr2021-dataviz-dash-demo",
+        slides: "../page-content#plotly",
       }
     - {
         startTime: "14:45",
@@ -176,10 +172,9 @@
         speaker: { "You": "../page-speakers#you_speaker1" },
 
         breakStatus,
-        sessionType:
-          "<i class='fas fa-comment-dots'></i>&nbsp;<i class='fas
+        sessionType: "<i class='fas fa-comment-dots'></i>&nbsp;<i class='fas
           fa-comment-dots'></i>&nbsp;<i class='fas fa-comment-dots'></i>",
-        slides: "https://github.com/OpenMRBenelux/openmrb2021-hackathon/labels/Unconference",
+        slides: "../page-content#unconference1",
       }
 
 - date: "2021-03-26"
@@ -194,8 +189,7 @@
         speaker: { "OpenMR team": "../page-team" },
         breakStatus,
         sessionTitle: "Opening",
-        sessionType:
-          "<i class='far fa-smile-beam'></i>&nbsp;<i class='fas
+        sessionType: "<i class='far fa-smile-beam'></i>&nbsp;<i class='fas
           fa-comment-dots'></i>",
         slides,
       }
@@ -204,9 +198,9 @@
         endTime: "10:30",
         speaker: { "Sicco de Knecht": "../page-speakers#sicco" },
         breakStatus,
-        sessionTitle: "Your research matters, to others",
+        sessionTitle: "Why popularize when you can problematize?",
         sessionType: "Flash talk",
-        slides,
+        slides: "../page-content#sicco",
       }
     - {
         startTime: "10:30",
@@ -215,7 +209,7 @@
         breakStatus,
         sessionTitle: "Outreach at a university",
         sessionType: "Talk",
-        slides,
+        slides: "../page-content#sarah",
       }
     - {
         startTime: "11:00",
@@ -230,10 +224,9 @@
         endTime: "11:35",
         speaker: { "Simon Van Eyndhoven": "../page-speakers#simon" },
         breakStatus,
-        sessionTitle:
-          "Falling Walls: Explaining years of research in 3 minutes",
+        sessionTitle: "Explaining years of research in 3 minutes",
         sessionType: "Flash talk",
-        slides,
+        slides: "../page-content#simon",
       }
     - {
         startTime: "11:35",
@@ -242,7 +235,7 @@
         breakStatus,
         sessionTitle: "Designing for Science",
         sessionType: "Flash talk",
-        slides,
+        slides: "../page-content#gil",
       }
     - {
         startTime: "11:55",
@@ -251,7 +244,7 @@
         breakStatus,
         sessionTitle: "A paper in a song",
         sessionType: "Flash talk",
-        slides,
+        slides: "../page-content#stijn",
       }
     - {
         startTime: "12:15",
@@ -260,7 +253,7 @@
         breakStatus,
         sessionTitle: "Citizen Science in Developmental Neuroscience",
         sessionType: "Flash talk",
-        slides,
+        slides: "../page-content#kayla",
       }
     - {
         startTime: "12:35",
@@ -283,7 +276,7 @@
           "From science festivals to institutional projects: the case for a
           grassroots approach",
         sessionType: "Talk",
-        slides,
+        slides: "../page-content#grassroots",
       }
     - {
         startTime: "14:05",
@@ -292,7 +285,7 @@
         breakStatus,
         sessionTitle: "Ten Simple Rules for Using Twitter as a Scientist",
         sessionType: "Flash talk",
-        slides,
+        slides: "../page-content#veronika",
       }
     - {
         startTime: "14:25",
@@ -305,7 +298,7 @@
         breakStatus,
         sessionTitle: "Podcast 101",
         sessionType: "Flash talk",
-        slides,
+        slides: "../page-content#podcast",
       }
     - {
         startTime: "14:45",
@@ -332,7 +325,7 @@
         breakStatus,
         sessionTitle: "Panel discussion: science communication",
         sessionType: "Panel",
-        slides,
+        slides: "../page-content#scicompanel",
       }
     - {
         startTime: "15:45",
@@ -344,12 +337,11 @@
           },
         breakStatus,
         sessionTitle: "Hackathon results & closing",
-        sessionType:
-          "<i class='fas fa-comment-dots'></i>&nbsp;<i class='fas
+        sessionType: "<i class='fas fa-comment-dots'></i>&nbsp;<i class='fas
           fa-comment-dots'></i>&nbsp;<i class='fas fa-comment-dots'></i><br><i
           class='far fa-sad-tear'></i>&nbsp;<i class='fas
           fa-sign-out-alt'></i><i class='fas fa-door-open'></i>",
-        slides,
+        slides: "https://github.com/OpenMRBenelux/openmrb2021-hackathon/issues?q=is%3Aissue+is%3Aopen+label%3A%22Hackathon+Project%22",
       }
     - {
         startTime: "16:00",
@@ -357,8 +349,7 @@
         speaker: { "You": "../page-speakers#you_speaker2" },
         breakStatus: "drinks",
         sessionTitle: "Virtual drinks",
-        sessionType:
-          "<i class='fas fa-cocktail'></i>&nbsp;<i class='fas
+        sessionType: "<i class='fas fa-cocktail'></i>&nbsp;<i class='fas
           fa-wine-glass-alt'></i>&nbsp;<i class='fas fa-beer'></i>&nbsp;<i
           class='fas fa-coffee'></i>",
         slides,

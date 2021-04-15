@@ -24,8 +24,7 @@
       twitter: "https://www.twitter.com/DorienHuijser"
       git: "https://github.com/DorienHuijser"
       researchgate: ~
-      bio:
-        'Dorien is lab and data manager at the <a
+      bio: 'Dorien is lab and data manager at the <a
         href="http://erasmus-synclab.nl/" target="_blank">Society, Youth and
         Neuroscience Connected (SYNC) lab</a> at Erasmus University Rotterdam,
         The Netherlands. As lab manager, she works closely with lab members and
@@ -37,8 +36,7 @@
         large longitudinal <a
         href="https://www.universiteitleiden.nl/en/research/research-projects/social-and-behavioural-sciences/leiden-consortium-on-individual-development-l-cid"
         target="_blank">twin study</a>.'
-      host:
-        "<b>All attendees of OpenMR Virtual 2021</b>:<br><br><span
+      host: "<b>All attendees of OpenMR Virtual 2021</b>:<br><br><span
         style='color:#004777'><i class='fas
         fa-envelope-square'></i></span>&nbsp;&nbsp;You've got
         mail!&nbsp;&nbsp;<span style='color:#004777'><i class='fas
@@ -50,29 +48,25 @@
       linkName: "daniel"
       image: "daniel.jpeg"
       homepage: ~
-      affiliation:
-        "Frictionless Data for Reproducible Research, Open Knowledge Foundation"
+      affiliation: "Frictionless Data for Reproducible Research, Open Knowledge Foundation"
       city: "Donostia-San Sebastián, Spain"
       twitter: "https://twitter.com/danalclop"
       git: "https://github.com/danalclop"
       researchgate: ~
-      bio:
-        "My background in psychology and neuroscience inspired me to start
+      bio: "My background in psychology and neuroscience inspired me to start
         walking the path of academic research. After working for several years
         in the field of neuroimaging as a PhD student (RWTH Aachen, Germany) and
         postdoc (BCBL, Spain), I am now taking the leap out of academia as a
         biostatistician. Looking for a contribution to the scientific enterprise
         from another perspective."
       abstract:
-        {
-          ? "The age of the researcher is over. The time of the community has
+        { ? "The age of the researcher is over. The time of the community has
             come."
           : "Many people doing research report feeling isolated or experiencing
             mental health difficulties, especially given the great expectations
             we place on ourselves. Although it may be intimidating, being part
             of a community can provide a safety net for people to overcome some
-            of these challenges with the help and support of others.",
-        }
+            of these challenges with the help and support of others." }
     - name: "Stefano Moia (he/him)"
       linkName: "stefano"
       image: "stefano.jpg"
@@ -82,8 +76,7 @@
       twitter: "https://twitter.com/SteMoia"
       git: "https://github.com/smoia"
       researchgate: ~
-      bio:
-        "As co-founder and current project manager of physiopy and strong
+      bio: "As co-founder and current project manager of physiopy and strong
         advocate of open science and open development, I'm currently studying
         the impact of cerebral physiology on BOLD imaging, from resting state to
         task induced activations. When I'm not at the desk, you can probably
@@ -100,8 +93,7 @@
       linkName: "melvin"
       image: "melvin.jpg"
       homepage: "https://i-am-mel-dev.github.io/"
-      affiliation:
-        "Neuroscience and Neurotechnology, Middle East Technical University"
+      affiliation: "Neuroscience and Neurotechnology, Middle East Technical University"
       city: "Ankara, Turkey"
       twitter: "https://twitter.com/i_am_mel_dev"
       git: "https://github.com/i-am-mel-dev"
@@ -126,8 +118,7 @@
       twitter: "https://twitter.com/felienne"
       git: ~
       researchgate: ~
-      bio:
-        "Felienne is associate professor at the <a
+      bio: "Felienne is associate professor at the <a
         href='http://liacs.leidenuniv.nl/' target='_blank'>Leiden Institute of
         Advanced Computer Science</a> at Leiden University, where she heads the
         <a href='http://perl.liacs.nl/' target='_blank'>PERL research group</a>,
@@ -215,8 +206,7 @@
       twitter: "https://twitter.com/yoyehudi"
       git: "https://github.com/yochannah"
       researchgate: ~
-      bio:
-        "Yo Yehudi is the Open Source Technology Lead at the Wellcome Trust,
+      bio: "Yo Yehudi is the Open Source Technology Lead at the Wellcome Trust,
         advocating for open, robust, and re-usable research software, as well as
         recognition for the careers of the people who create it. Prior to this,
         Yo worked as a software engineer both in academia and in industry. Yo is
@@ -281,14 +271,12 @@
         rather than competition and b) address some of the replicability and
         reproducibility issues that are affecting many areas of science."
       abstract:
-        {
-          ? "Moderator - Panel discussion: what constitutes clean, scientific
+        { ? "Moderator - Panel discussion: what constitutes clean, scientific
             code?"
           : "In this panel discussion, we would like to get opinions from people
             working in academia and/or industry on good coding practices and to
             use this as an opportunity to give concrete advice to early career
-            researchers on how to improve their coding",
-          ? "<span style='color:#ffd966'><i class='fas
+            researchers on how to improve their coding", ? "<span style='color:#ffd966'><i class='fas
             fa-long-arrow-alt-right'></i>&nbsp;&nbsp;MY POINT OF
             VIEW&nbsp;&nbsp;<i class='fas fa-long-arrow-alt-left'></i></span>"
           : "Like most scientists I was never given any training on how to write
@@ -296,8 +284,7 @@
             started realizing the mental and opportunity costs that this lack of
             training entails. I have recently been trying to create resources
             and support projects that try to prevent others from making the same
-            mistake.",
-        }
+            mistake." }
 
 - date: "Day 2: Thursday, 25 March 2021"
   speakers:
@@ -312,8 +299,7 @@
       twitter: "https://www.twitter.com/sofie_vdbos"
       git: "https://github.com/sofievdbos"
       researchgate: "https://www.researchgate.net/profile/Sofie_Van_Den_Bossche2"
-      bio:
-        'Sofie is currently doing a PhD at the Department of Data Analysis
+      bio: 'Sofie is currently doing a PhD at the Department of Data Analysis
         (Ghent University, Ghent, Belgium), supervised by Prof. Dr. Daniele
         Marinazzo. Her research focuses on the intertwined domains of
         (resting-state) neuroscience and lateralization/handedness. During her
@@ -326,8 +312,7 @@
         or as a volunteer (e.g. Pint of Science, Ghent). Creating an Open
         Science community and communicating Open Science to a broader public is
         something she wants to be progressively involved in.'
-      host:
-        "<b>All attendees of OpenMR Virtual 2021</b>:<br><br><span
+      host: "<b>All attendees of OpenMR Virtual 2021</b>:<br><br><span
         style='color:#004777'><i class='fas
         fa-envelope-square'></i></span>&nbsp;&nbsp;You've got
         mail!&nbsp;&nbsp;<span style='color:#004777'><i class='fas
@@ -354,16 +339,14 @@
         individual disease courses to allow better clinical follow-up, and
         ultimately, quality of life."
       abstract:
-        {
-          ? "Introduction to data exploration with Python, Matlab/Octave and
+        { ? "Introduction to data exploration with Python, Matlab/Octave and
             Jupyter Notebooks"
           : "This data visualisation workshop aims to offer a structured
             introduction in visualisation of neuro-imaging data in Python and
             Matlab, although we attempt to also surprise visualisation experts.
             We will cover tips and tricks to convert your data into a clear,
             compact and reproducible image. All code remains available to all
-            attendees of OpenMR 2021!",
-        }
+            attendees of OpenMR 2021!" }
     - name: "Rémi Gau (he/him)"
       linkName: "remi2"
       image: "remi.png"
@@ -382,16 +365,14 @@
         rather than competition and b) address some of the replicability and
         reproducibility issues that are affecting many areas of science."
       abstract:
-        {
-          ? "Introduction to data exploration with Python, Matlab/Octave and
+        { ? "Introduction to data exploration with Python, Matlab/Octave and
             Jupyter Notebooks"
           : "This data visualisation workshop aims to offer a structured
             introduction in visualisation of neuro-imaging data in Python and
             Matlab, although we attempt to also surprise visualisation experts.
             We will cover tips and tricks to convert your data into a clear,
             compact and reproducible image. All code remains available to all
-            attendees of OpenMR 2021!",
-        }
+            attendees of OpenMR 2021!" }
 
     - name: "Britta Westner (she/her)"
       linkName: "britta"
@@ -404,8 +385,7 @@
       twitter: "https://twitter.com/britta_wstnr"
       git: "https://github.com/britta-wstnr"
       researchgate: ~
-      bio:
-        "My current research focuses on predictive processes in the visual
+      bio: "My current research focuses on predictive processes in the visual
         system using MEG methods, working at the Donders Institute in Nijmegen
         with Prof. Floris de Lange. Before, I worked on retinocortical
         interactions with Prof. Sarang Dalal, first at the University of
@@ -444,7 +424,7 @@
         hackathons."
       abstract:
         {
-          "Visualizing data interactively with Plotly and Dash":
+          "Interactive data visualization with Python, Plotly and Dash":
             "The tools are out there for researchers to publish their data and
             results in rich online formats that offer accessibility, interaction
             and exploration. Yet, we still see a majority of standard plots and
@@ -463,8 +443,7 @@
       twitter: ~
       git: ~
       researchgate: ~
-      thnx:
-        "Do not hesitate to propose an unconference <a
+      thnx: "Do not hesitate to propose an unconference <a
         href='https://github.com/OpenMRBenelux/openmrb2021-hackathon/labels/Unconference'
         target='_blank'>here</a>!"
 
@@ -491,8 +470,7 @@
         OpenMR Benelux, a community working on wider adoption of open science
         principles in MRI research through talks, discussions, workshops and
         hackathons."
-      host:
-        "<b>All attendees of OpenMR Virtual 2021</b>:<br><br><span
+      host: "<b>All attendees of OpenMR Virtual 2021</b>:<br><br><span
         style='color:#004777'><i class='fas
         fa-envelope-square'></i></span>&nbsp;&nbsp;You've got
         mail!&nbsp;&nbsp;<span style='color:#004777'><i class='fas
@@ -517,8 +495,7 @@
         way to a) build a more inclusive research community based on cooperation
         rather than competition and b) address some of the replicability and
         reproducibility issues that are affecting many areas of science."
-      host:
-        "<b>All attendees of OpenMR Virtual 2021</b>:<br><br><span
+      host: "<b>All attendees of OpenMR Virtual 2021</b>:<br><br><span
         style='color:#004777'><i class='fas
         fa-envelope-square'></i></span>&nbsp;&nbsp;You've got
         mail!&nbsp;&nbsp;<span style='color:#004777'><i class='fas
@@ -553,7 +530,7 @@
         podcasts and podcasting."
       abstract:
         {
-          "Your research matters, to others":
+          "Why popularize when you can problematize?":
             "Coming from the point of view of open science I'll make the case
             that public engagement and an open attitude are an intrinsic part of
             being a researcher - especially now.",
@@ -562,8 +539,7 @@
       linkName: "sarah"
       image: "you.png"
       homepage: "Wtnschp.be"
-      affiliation:
-        "Science Outreach Office, Vrije Universiteit Brussel, Brussels, Belgium"
+      affiliation: "Science Outreach Office, Vrije Universiteit Brussel, Brussels, Belgium"
       city: "Brussels, Belgium"
       twitter: ~
       git: ~
@@ -598,8 +574,7 @@
       twitter: ~
       git: "https://github.com/svaneynd"
       researchgate: ~
-      bio:
-        "After completing my PhD in electrical engineering, with a focus on
+      bio: "After completing my PhD in electrical engineering, with a focus on
         signal processing algorithms to analyze EEG-fMRI data from refractory
         epilepsy patients, I joined icometrix in 2020 as a machine learning
         researcher. Throughout my time as a PhD student, I discovered my passion
@@ -607,7 +582,7 @@
         competitions."
       abstract:
         {
-          "Falling walls: Explaining years of research in 3 minutes":
+          "Explaining years of research in 3 minutes":
             "As researchers, we delightfully go on and on and on, when someone
             inquires about what it is that we investigate, exactly. Deep down,
             we already realize that this does a disservice to our aim to express
@@ -688,14 +663,12 @@
       linkName: "kayla"
       image: "kayla.JPG"
       homepage: "https://www.eur.nl/people/kayla-green"
-      affiliation:
-        "Developmental Neuroscience in Society, Erasmus University Rotterdam"
+      affiliation: "Developmental Neuroscience in Society, Erasmus University Rotterdam"
       city: "Rotterdam, The Netherlands"
       twitter: "https://twitter.com/DrsKaylaGreen"
       git: ~
       researchgate: ~
-      bio:
-        "Kayla Green is a PhD candidate in the SYNC lab at Eramus University
+      bio: "Kayla Green is a PhD candidate in the SYNC lab at Eramus University
         Rotterdam. Her work mainly focuses on the developmental trajectories of
         emotional reactivity and wellbeing during adolescence and young
         adulthood. She combines neuroimaging techniques with citizen science to
@@ -717,30 +690,25 @@
       twitter: "https://twitter.com/guicorradino"
       git: ~
       researchgate: ~
-      bio:
-        "While my academic background is in political sciences, my career has
+      bio: "While my academic background is in political sciences, my career has
         largely focused on promoting and disseminating results from European
         research projects, mainly in the energy, transport and environmental
         sectors. Since 2017, I have co-founded two non profit organisations
         dedicated to science outreach:  the Belgian chapter of the Pint of
         Science festival, and Beyond Research."
       abstract:
-        {
-          ? "From science festivals to institutional projects: the case for a
+        { ? "From science festivals to institutional projects: the case for a
             grassroots approach"
           : "In this talk I will present how the international science festival
             Pint of Science is implemented in Belgium at the local level, and
             how, concretely, researchers can get involved. In the second part of
             the talk, I will show how such grassroots initiatives can also be
             part of  broader outreach and dissemination strategies for public
-            funded research projects.",
-          "Panel discussion: science communication":
-            "Too many papers remain locked by the ability to understand academic
+            funded research projects.", "Panel discussion: science communication": "Too many papers remain locked by the ability to understand academic
             language. In this panel discussion, we will discuss how to make our
             research more understandable and transparent for the wider audience.
             Furthermore, we will discuss how we can lower the threshold to
-            engage in science communication.",
-        }
+            engage in science communication." }
     - name: "Elodie Chabrol (she/her)"
       linkName: "elodie"
       image: "elodie.jpg"
@@ -757,24 +725,19 @@
         Beyond Research in 2020. Her mission is to make science accessible to
         everyone, everywhere."
       abstract:
-        {
-          ? "From science festivals to institutional projects: the case for a
+        { ? "From science festivals to institutional projects: the case for a
             grassroots approach"
           : "We'll talk about science communication and our initiatives Beyond
-            Research and Pint of Science.",
-          "Panel discussion: science communication":
-            "Too many papers remain locked by the ability to understand academic
+            Research and Pint of Science.", "Panel discussion: science communication": "Too many papers remain locked by the ability to understand academic
             language. In this panel discussion, we will discuss how to make our
             research more understandable and transparent for the wider audience.
             Furthermore, we will discuss how we can lower the threshold to
-            engage in science communication.",
-        }
+            engage in science communication." }
     - name: "Veronika Cheplygina (she/her)"
       linkName: "veronika"
       image: "veronika.jpg"
       homepage: "https://www.veronikach.com"
-      affiliation:
-        "Department of Computer Science, IT University Copenhagen, Denmark"
+      affiliation: "Department of Computer Science, IT University Copenhagen, Denmark"
       city: "Copenhagen, Denmark"
       twitter: "https://twitter.com/DrVeronikaCh"
       git: "https://github.com/vcheplygina"
@@ -814,8 +777,7 @@
       twitter: "https://twitter.com/mosszhaodphil"
       git: ~
       researchgate: ~
-      bio:
-        "I received my PhD from University of Oxford in 2019. My current
+      bio: "I received my PhD from University of Oxford in 2019. My current
         research interest include arterial spin labeling, PET/MRI, and deep
         learning. I am passionate with open science and science communication."
       abstract:

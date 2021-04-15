@@ -5,4 +5,9 @@ layout: page
 show_sidebar: false
 ---
 
-After OpenMR Virtual 2021, you will find all materials presented during the conference on this page!
+## <span style="color:#004777"> On this page, you can find the links to all materials from OpenMR Virtual 2021</span>
+
+<br>
+{% include content2021.html %}
+
+<a href="#"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>

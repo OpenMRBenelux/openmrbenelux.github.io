@@ -1,0 +1,228 @@
+talks:
+  # DAY 1
+  - name: "Daniel Alcalá López"
+    linkname: "daniel"
+    image: "daniel.jpeg"
+    title: "The age of the researcher is over. The time of the community has come."
+    description:
+      "Many people doing research report feeling isolated or experiencing
+      mental health difficulties, especially given the great expectations
+      we place on ourselves. Although it may be intimidating, being part
+      of a community can provide a safety net for people to overcome some
+      of these challenges with the help and support of others."
+    materials: "https://osf.io/at5nf/"
+    video: "https://www.youtube.com/watch?v=MCyUUIP_ED4&list=PLav5iokutJ6rTGrkTcgGuSpTH7egT4xix&index=2"
+    repo: ~
+
+  - name: "Stefano Moia & Melvin Selim Atay"
+    linkname: "github"
+    image: { "stefano.jpg", "melvin.jpg" }
+    title: "Introduction to Git(Hub)"
+    description:
+      "The workshop aims at helping participants move their first steps
+      into the world of Version Control Systems (git) and possible real
+      life situations they might encounter when collaborating on git-based
+      projects with others."
+    materials: "https://osf.io/dt3v8/"
+    video: "https://www.youtube.com/watch?v=zMIgdHOba1I&list=PLav5iokutJ6rTGrkTcgGuSpTH7egT4xix&index=2"
+    repo: ~
+
+  - name: "Remi Gau, Felienne Hermans, Jade Abbott, Adora Nwodo, Yo Yehudi, Patrick Mineault"
+    linkname: "codepanel"
+    image: "you.png"
+    title: "Panel discussion: what constitutes clean, scientific code?"
+    description:
+      "In this panel discussion, we would like to get opinions from people working in
+      academia and/or industry on good coding practices and to use this as an opportunity
+      to give concrete advice to early career researchers on how to improve their coding."
+    materials: "https://osf.io/5gpje/"
+    video: "https://www.youtube.com/watch?v=QvHIwyB_cno&list=PLav5iokutJ6rTGrkTcgGuSpTH7egT4xix&index=3"
+    repo: ~
+
+  # DAY 2
+  - name: "Stijn Denissen & Remi Gau"
+    linkname: "jupyter"
+    image: { "stijn.jpg", "remi.png" }
+    title: "Introduction to data exploration with Python, Matlab/Octave and Jupyter Notebooks"
+    description:
+      "This data visualisation workshop aims to offer a structured introduction in visualisation of neuro-imaging data in
+      Python and Matlab, although we attempt to also surprise visualisation experts. We will cover tips and tricks to convert
+      your data into a clear, compact and reproducible image. All code remains available to all attendees of OpenMR 2021!"
+    materials: ~
+    video: "https://www.youtube.com/watch?v=XG03DvhGkmA&list=PLav5iokutJ6rTGrkTcgGuSpTH7egT4xix&index=4"
+    repo: "https://github.com/OpenMRBenelux/openmr2021-dataviz-workshop"
+
+  - name: "Britta Westner"
+    linkname: "mne"
+    image: "britta.jpg"
+    title: "Data visualization with MNE-Python"
+    description:
+      "Dr. Westner will share her personal story of being involved in the MNE Python package, which offers nice tools
+      for analysis and visualisation of neurophysiological data."
+    materials: "https://osf.io/k9rpj/"
+    video: "https://www.youtube.com/watch?v=rx0WY_L-NKU&list=PLav5iokutJ6rTGrkTcgGuSpTH7egT4xix&index=5"
+    repo: "https://github.com/britta-wstnr/demo_openMR"
+
+  - name: "Stephan Heunis"
+    linkname: "plotly"
+    image: "stephan.png"
+    title: "Interactive data visualization with Python, Plotly and Dash"
+    description:
+      "The tools are out there for researchers to publish their data and results in rich
+      online formats that offer accessibility, interaction and exploration. Yet, we still
+      see a majority of standard plots and images in PDF format. In this demo, we will explore
+      the possibilities offered by Python, Plotly and Dash to make your research outputs interactive
+      and future-aware! See a sneak preview here: https://rt-me-fmri.herokuapp.com/"
+    materials: "https://tinyurl.com/openmr-dash-demo"
+    video: "https://www.youtube.com/watch?v=fWxWGC4N9lM&list=PLav5iokutJ6rTGrkTcgGuSpTH7egT4xix&index=6"
+    repo:
+      {
+        "https://github.com/OpenMRBenelux/openmr2021-dataviz-dash-demo",
+        "https://github.com/OpenMRBenelux/openmr2021-dataviz-dash-app",
+      }
+
+  - name: "Unconference 1: Shady El Damaty"
+    linkname: "unconference1"
+    image: "you.png"
+    title: "The Decentralized Science Stack"
+    description:
+      "<p>Decentralized Science (DeSci) is what we call digital communities of global citizen scientists working together to solve challenging scientific problems.</p>
+      <p>An unconference is a participant-driven meeting. Commonly, participants present their research, project work, or any other topics of current interest in an
+      informal setting to other participants. The content of an unconference is usually decided very shortly before or during the meeting itself, often inspired by
+      ongoing within-team discussions that could be of interest to the larger group.</p>"
+    materials: ~
+    video: "https://www.youtube.com/watch?v=nFxRFSLtOeo&list=PLav5iokutJ6rTGrkTcgGuSpTH7egT4xix&index=7"
+    repo: "https://github.com/OpenMRBenelux/openmrb2021-hackathon/issues/9"
+
+  - name: "Unconference 2: Daniel Borek"
+    linkname: "unconference2"
+    image: "you.png"
+    title: "Agile Academia"
+    description:
+      "<p>Agile is a software development methodology for teams focused on fast iterations and delivering values-products to end-users or clients.
+      Agile is less about planning every step but more about delivering a working product (Minimal Working Product) and iteratively adding new
+      features to it. The agile approach is also focused on constant feedback and adjusting plus the transparency of the process?
+      Does this approach or elements of it should be implemented more in academia/scientific lab environment? If yes, how this approach
+      could be implemented and translated? What may be the obstacles and impediments?</p>
+      <p>An unconference is a participant-driven meeting. Commonly, participants present their research, project work, or any other topics of current interest in an
+      informal setting to other participants. The content of an unconference is usually decided very shortly before or during the meeting itself, often inspired by
+      ongoing within-team discussions that could be of interest to the larger group.</p>"
+    materials: "https://osf.io/yuzq8/"
+    video: "https://www.youtube.com/watch?v=Lr_g9MYOklk&list=PLav5iokutJ6rTGrkTcgGuSpTH7egT4xix&index=8"
+    repo: "https://github.com/OpenMRBenelux/openmrb2021-hackathon/issues/10"
+
+  # DAY 3
+  - name: "Sicco de Knecht"
+    linkname: "sicco"
+    image: "you.png"
+    title: "Why popularize when you can problematize?"
+    description: "Coming from the point of view of open science I'll make the case that public engagement and an open attitude are an intrinsic part of being a researcher - especially now."
+    materials: "https://osf.io/fyhz4/"
+    video: "https://www.youtube.com/watch?v=WWQ-SXTw8E4&list=PLav5iokutJ6rTGrkTcgGuSpTH7egT4xix&index=9"
+    repo: ~
+
+  - name: "Sarah Leuridan"
+    linkname: "sarah"
+    image: "you.png"
+    title: "Outreach at a university"
+    description: "Taking your first steps in science outreach should not be a lonely experience. Sarah from the Vrije Universiteit 
+    Brussel will explain how the university supports researchers to engage with society. (Warning: you might get inspired to join 
+    similar outreach projects at your university!)"
+    materials: "https://osf.io/sw6qz/"
+    video: "https://www.youtube.com/watch?v=tT3q9YZlvhI&list=PLav5iokutJ6rTGrkTcgGuSpTH7egT4xix&index=10"
+    repo: ~
+
+  - name: "Simon Van Eyndhoven"
+    linkname: "simon"
+    image: "simon.jpg"
+    title: "Explaining years of research in 3 minutes"
+    description: "As researchers, we delightfully go on and on and on, when someone inquires about 
+    what it is that we investigate, exactly. Deep down, we already realize that this does a disservice 
+    to our aim to express ourselves clearly. Luckily there's hope! All you need is 3 enthusiastic minutes 
+    - and a story that sticks."
+    materials: ~
+    video: "https://www.youtube.com/watch?v=VOQjheKCRSs&list=PLav5iokutJ6rTGrkTcgGuSpTH7egT4xix&index=11"
+    repo: ~
+
+  - name: "Gil Costa"
+    linkname: "gil"
+    image: "gil.png"
+    title: "Designing for science"
+    description: "In this talk I will talk about Designing for Science. I will cover the 
+    space of possibilities of visual communication of science, with examples from my own experience. 
+    I will also slightly hint at references and resources that might be helpful to explore, as 
+    starting points to improve visuals and create impactful images."
+    materials: "https://osf.io/aq59r/"
+    video: "https://www.youtube.com/watch?v=QWE4d3NcT4w&list=PLav5iokutJ6rTGrkTcgGuSpTH7egT4xix&index=12"
+    repo: ~
+
+  - name: "Stijn Denissen"
+    linkname: "stijn"
+    image: "stijn.jpg"
+    title: "A paper in a song"
+    description: "Friday night, working week is over and there you are, hosting your own karaoke 
+    session in your living room! Or perhaps you are more of the shower shouter type? Whatever scenario 
+    you recognise yourself to be in once in a while, you will notice that you will effortlessly vocalise
+    the lyrics of your favourite songs. Doesn’t that sound as a great opportunity for people to memorise 
+    your research better? Let’s put our papers in songs, hear all about it in this talk!"
+    materials: "https://osf.io/ba7sd/"
+    video: "https://www.youtube.com/watch?v=p8Hh492Cb_k&list=PLav5iokutJ6rTGrkTcgGuSpTH7egT4xix&index=13"
+    repo: ~
+
+  - name: "Kayla Green"
+    linkname: "kayla"
+    image: "kayla.JPG"
+    title: "Citizen Science in Developmental Neuroscience"
+    description: "Society is rarely involved in the different steps of the research and design cycle. 
+    In citizen science, citizens become scientists themselves by contributing to part of the research 
+    project, for example in co-creating a new task or paradigm."
+    materials: ~
+    video: "https://www.youtube.com/watch?v=kIfAfXwZHaI&list=PLav5iokutJ6rTGrkTcgGuSpTH7egT4xix&index=14"
+    repo: ~
+
+  - name: "Guillaume Corradino & Elodie Chabrol"
+    linkname: "grassroots"
+    image: {"guillaume.jpg","elodie.jpg"}
+    title: "From science festivals to institutional projects: the case for a grassroots approach"
+    description: "Society is rarely involved in the different steps of the research and design cycle. 
+    In citizen science, citizens become scientists themselves by contributing to part of the research 
+    project, for example in co-creating a new task or paradigm."
+    materials: ~
+    video: "https://www.youtube.com/watch?v=bufXfkuE_Ec&list=PLav5iokutJ6rTGrkTcgGuSpTH7egT4xix&index=15"
+    repo: ~
+
+  - name: "Veronika Cheplygina"
+    linkname: "veronika"
+    image: "veronika.jpg"
+    title: "Ten Simple Rules for Using Twitter as a Scientist"
+    description: "You have probably heard it many times from academics who have already discovered the 
+    advantages of social media - 'you should be on Twitter'! Next to sharing your research, learning about 
+    advances from other fields, and cat pictures, many cite the sense of community as an important reason 
+    for being on the platform. Let's say you are already convinced and you made an account - what then? How 
+    do you get the most of Twitter, without it consuming all your time and energy? Based on a recent paper 
+    with the same name, in this talk I will discuss ten simple ideas that have helped me and other academics 
+    do exactly this."
+    materials: "https://doi.org/10.6084/m9.figshare.14317418.v1"
+    video: "https://www.youtube.com/watch?v=JmoUUcisNpI&list=PLav5iokutJ6rTGrkTcgGuSpTH7egT4xix&index=16"
+    repo: ~
+
+  - name: "Moss Zhao & Patricia Clement"
+    linkname: "podcast"
+    image: {"moss.jpg","you.png"}
+    title: "Podcast 101"
+    description: "In this talk, Moss and Patricia present tips for making a successful science podcast."
+    materials: ~
+    video: "https://www.youtube.com/watch?v=nNmgWbFrxHY&list=PLav5iokutJ6rTGrkTcgGuSpTH7egT4xix&index=17"
+    repo: ~
+
+  - name: "Stijn Denissen, Sicco de Knecht, Sarah Leuridan, Simon Van Eyndhoven, Gil Costa, Guillaume Corradino, Elodie Chabrol, Moss Zhao"
+    linkname: "scicompanel"
+    image: "you.png"
+    title: "Panel discussion: science communication"
+    description: "Too many papers remain locked by the ability to understand academic language. 
+    In this panel discussion, we will discuss how to make our research more understandable and 
+    transparent for the wider audience. Furthermore, we will discuss how we can lower the threshold 
+    to engage in science communication."
+    materials: ~
+    video: "https://www.youtube.com/watch?v=hFN6F5fVgT8&list=PLav5iokutJ6rTGrkTcgGuSpTH7egT4xix&index=18"
+    repo: ~
