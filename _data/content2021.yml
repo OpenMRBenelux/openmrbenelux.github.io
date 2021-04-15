@@ -171,7 +171,7 @@ talks:
 
   - name: "Kayla Green"
     linkname: "kayla"
-    image: "kayla.jpg"
+    image: "kayla.JPG"
     title: "Citizen Science in Developmental Neuroscience"
     description: "Society is rarely involved in the different steps of the research and design cycle. 
     In citizen science, citizens become scientists themselves by contributing to part of the research 
@@ -208,7 +208,7 @@ talks:
 
   - name: "Moss Zhao & Patricia Clement"
     linkname: "podcast"
-    image: "moss.jpg"
+    image: {"moss.jpg","you.png"}
     title: "Podcast 101"
     description: "In this talk, Moss and Patricia present tips for making a successful science podcast."
     materials: ~
