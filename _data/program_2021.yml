@@ -134,7 +134,7 @@
     - {
         startTime: "13:00",
         endTime: "13:45",
-        sessionTitle: "Data visualization with MNE",
+        sessionTitle: "Data visualization with MNE-Python",
         speaker: { "Britta Westner": "../page-speakers#britta" },
         breakStatus,
         sessionType: "Demo",
@@ -151,7 +151,7 @@
     - {
         startTime: "14:00",
         endTime: "14:45",
-        sessionTitle: "Visualizing data interactively with Plotly and Dash",
+        sessionTitle: "Interactive data visualization with Python, Plotly and Dash",
         speaker: { "Stephan Heunis": "../page-speakers#stephan" },
         breakStatus,
         sessionType: "Demo",
@@ -198,7 +198,7 @@
         endTime: "10:30",
         speaker: { "Sicco de Knecht": "../page-speakers#sicco" },
         breakStatus,
-        sessionTitle: "Your research matters, to others",
+        sessionTitle: "Why popularize when you can problematize?",
         sessionType: "Flash talk",
         slides: "../page-content#sicco",
       }
@@ -224,7 +224,7 @@
         endTime: "11:35",
         speaker: { "Simon Van Eyndhoven": "../page-speakers#simon" },
         breakStatus,
-        sessionTitle: "Falling Walls: Explaining years of research in 3 minutes",
+        sessionTitle: "Explaining years of research in 3 minutes",
         sessionType: "Flash talk",
         slides: "../page-content#simon",
       }
