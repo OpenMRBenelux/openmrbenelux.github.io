@@ -140,7 +140,7 @@ talks:
     what it is that we investigate, exactly. Deep down, we already realize that this does a disservice 
     to our aim to express ourselves clearly. Luckily there's hope! All you need is 3 enthusiastic minutes 
     - and a story that sticks."
-    materials: ~
+    materials: "https://osf.io/bk9pd/"
     video: "https://www.youtube.com/watch?v=VOQjheKCRSs&list=PLav5iokutJ6rTGrkTcgGuSpTH7egT4xix&index=11"
     repo: ~
 
@@ -166,7 +166,7 @@ talks:
     the lyrics of your favourite songs. Doesn’t that sound as a great opportunity for people to memorise 
     your research better? Let’s put our papers in songs, hear all about it in this talk!"
     materials: "https://osf.io/ba7sd/"
-    video: "https://www.youtube.com/watch?v=p8Hh492Cb_k&list=PLav5iokutJ6rTGrkTcgGuSpTH7egT4xix&index=13"
+    video: { "https://www.youtube.com/watch?v=p8Hh492Cb_k&list=PLav5iokutJ6rTGrkTcgGuSpTH7egT4xix&index=13", "https://www.youtube.com/watch?v=3LDYZLpdI10"}
     repo: ~
 
   - name: "Kayla Green"
@@ -176,7 +176,7 @@ talks:
     description: "Society is rarely involved in the different steps of the research and design cycle. 
     In citizen science, citizens become scientists themselves by contributing to part of the research 
     project, for example in co-creating a new task or paradigm."
-    materials: ~
+    materials: "https://osf.io/g2pf9/"
     video: "https://www.youtube.com/watch?v=kIfAfXwZHaI&list=PLav5iokutJ6rTGrkTcgGuSpTH7egT4xix&index=14"
     repo: ~
 
@@ -187,7 +187,7 @@ talks:
     description: "Society is rarely involved in the different steps of the research and design cycle. 
     In citizen science, citizens become scientists themselves by contributing to part of the research 
     project, for example in co-creating a new task or paradigm."
-    materials: ~
+    materials: {"https://osf.io/ksj2e/", "https://osf.io/wujvt/"}
     video: "https://www.youtube.com/watch?v=bufXfkuE_Ec&list=PLav5iokutJ6rTGrkTcgGuSpTH7egT4xix&index=15"
     repo: ~
 
