@@ -184,9 +184,10 @@ talks:
     linkname: "grassroots"
     image: {"guillaume.jpg","elodie.jpg"}
     title: "From science festivals to institutional projects: the case for a grassroots approach"
-    description: "Society is rarely involved in the different steps of the research and design cycle. 
-    In citizen science, citizens become scientists themselves by contributing to part of the research 
-    project, for example in co-creating a new task or paradigm."
+    description: "In this talk we will present how the international science festival Pint of Science is implemented 
+    in Belgium at the local level, and how, concretely, researchers can get involved. In the second part of the talk, 
+    we will show how such grassroots initiatives can also be part of broader outreach and dissemination strategies 
+    for public funded research projects."
     materials: {"https://osf.io/ksj2e/", "https://osf.io/wujvt/"}
     video: "https://www.youtube.com/watch?v=bufXfkuE_Ec&list=PLav5iokutJ6rTGrkTcgGuSpTH7egT4xix&index=15"
     repo: ~
