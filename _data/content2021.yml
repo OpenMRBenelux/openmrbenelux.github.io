@@ -23,7 +23,7 @@ talks:
       into the world of Version Control Systems (git) and possible real
       life situations they might encounter when collaborating on git-based
       projects with others."
-    materials: "https://osf.io/dt3v8/"
+    materials: {"https://slides.com/ephraim24/a-quick-introduction-to-git-hub","https://osf.io/dt3v8/"}
     video: "https://www.youtube.com/watch?v=zMIgdHOba1I&list=PLav5iokutJ6rTGrkTcgGuSpTH7egT4xix&index=2"
     repo: ~
 
